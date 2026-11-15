@@ -1,0 +1,5 @@
+{
+ "_comment": "Domains that blocked our declared crawler (403 / captcha / block page) during the Nov 2026 tests. Never visited again, published as not measurable.",
+ "observed": "2026-11-12",
+ "domains": ["darty.com", "fnac.com", "boulanger.com", "leboncoin.fr", "carrefour.fr", "decathlon.fr", "laredoute.fr", "leroymerlin.fr", "manomano.fr", "backmarket.fr", "legifrance.gouv.fr"]
+}

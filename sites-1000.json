@@ -1,0 +1,8002 @@
+[
+ {
+  "id": "lemonde",
+  "url": "https://www.lemonde.fr/",
+  "category": "media",
+  "aliases": [
+   "lemde.fr"
+  ],
+  "source": "curated"
+ },
+ {
+  "id": "lefigaro",
+  "url": "https://www.lefigaro.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "curated"
+ },
+ {
+  "id": "20minutes",
+  "url": "https://www.20minutes.fr/",
+  "category": "media",
+  "aliases": [
+   "20mn.fr"
+  ],
+  "source": "curated"
+ },
+ {
+  "id": "ouest-france",
+  "url": "https://www.ouest-france.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "curated"
+ },
+ {
+  "id": "leparisien",
+  "url": "https://www.leparisien.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "curated"
+ },
+ {
+  "id": "francetvinfo",
+  "url": "https://www.francetvinfo.fr/",
+  "category": "media",
+  "aliases": [
+   "ftven.fr",
+   "francetv.fr"
+  ],
+  "source": "curated"
+ },
+ {
+  "id": "marmiton",
+  "url": "https://www.marmiton.org/",
+  "category": "loisirs-pratique",
+  "aliases": [
+   "afcdn.com"
+  ],
+  "source": "curated"
+ },
+ {
+  "id": "amazon",
+  "url": "https://www.amazon.fr/",
+  "category": "ecommerce",
+  "aliases": [
+   "media-amazon.com",
+   "ssl-images-amazon.com",
+   "amazon.com"
+  ],
+  "source": "curated"
+ },
+ {
+  "id": "cdiscount",
+  "url": "https://www.cdiscount.com/",
+  "category": "ecommerce",
+  "aliases": [
+   "cdscdn.com"
+  ],
+  "source": "curated"
+ },
+ {
+  "id": "vinted",
+  "url": "https://www.vinted.fr/",
+  "category": "ecommerce",
+  "aliases": [
+   "vinted.net",
+   "vinted.com"
+  ],
+  "source": "curated"
+ },
+ {
+  "id": "ikea",
+  "url": "https://www.ikea.com/fr/fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "curated"
+ },
+ {
+  "id": "conforama",
+  "url": "https://www.conforama.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "curated"
+ },
+ {
+  "id": "auchan",
+  "url": "https://www.auchan.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "curated"
+ },
+ {
+  "id": "lidl",
+  "url": "https://www.lidl.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "curated"
+ },
+ {
+  "id": "service-public",
+  "url": "https://www.service-public.fr/",
+  "category": "administration",
+  "aliases": [
+   "service-public.gouv.fr"
+  ],
+  "source": "curated"
+ },
+ {
+  "id": "impots",
+  "url": "https://www.impots.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "curated"
+ },
+ {
+  "id": "ameli",
+  "url": "https://www.ameli.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "curated"
+ },
+ {
+  "id": "caf",
+  "url": "https://www.caf.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "curated"
+ },
+ {
+  "id": "francetravail",
+  "url": "https://www.francetravail.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "curated"
+ },
+ {
+  "id": "urssaf",
+  "url": "https://www.urssaf.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "curated"
+ },
+ {
+  "id": "bouyguestelecom.fr",
+  "url": "https://www.bouyguestelecom.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sfr.fr",
+  "url": "https://www.sfr.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sezane.com",
+  "url": "https://www.sezane.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "education.gouv.fr",
+  "url": "https://educonnect.education.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "numerama.com",
+  "url": "https://www.numerama.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "shopify.com",
+  "url": "https://shopify.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "caradisiac.com",
+  "url": "https://www.caradisiac.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cardmarket.com",
+  "url": "https://www.cardmarket.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "racingzone.fr",
+  "url": "https://racingzone.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "partouche.com",
+  "url": "https://online.partouche.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "spotify.com",
+  "url": "https://open.spotify.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "foot01.com",
+  "url": "https://www.foot01.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "footmercato.net",
+  "url": "https://www.footmercato.net/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "frandroid.com",
+  "url": "https://www.frandroid.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "francoisesaget.com",
+  "url": "https://www.francoisesaget.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "republicain-lorrain.fr",
+  "url": "https://www.republicain-lorrain.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mailo.com",
+  "url": "https://www.mailo.com/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "hltv.org",
+  "url": "https://www.hltv.org/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "m6.fr",
+  "url": "https://www.m6.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "courir.com",
+  "url": "https://www.courir.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sosh.fr",
+  "url": "https://shop.sosh.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "coinmastergame.com",
+  "url": "https://support.coinmastergame.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "franceinfo.fr",
+  "url": "https://www.franceinfo.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "free.fr",
+  "url": "https://www.free.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "steampowered.com",
+  "url": "https://store.steampowered.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "voyage-prive.com",
+  "url": "https://www.voyage-prive.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "youtube.com",
+  "url": "https://www.youtube.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "maisonsdumonde.com",
+  "url": "https://www.maisonsdumonde.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "catawiki.com",
+  "url": "https://www.catawiki.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "etam.com",
+  "url": "https://www.etam.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "atmosphera.com",
+  "url": "https://www.atmosphera.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "europe1.fr",
+  "url": "https://www.europe1.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mediapart.fr",
+  "url": "https://www.mediapart.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "capcut.com",
+  "url": "https://www.capcut.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "apple.com",
+  "url": "https://www.apple.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "melty.fr",
+  "url": "https://www.melty.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "armurerie-lavaux.com",
+  "url": "https://www.armurerie-lavaux.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "qwant.com",
+  "url": "https://www.qwant.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ratp.fr",
+  "url": "https://www.ratp.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "oscaro.com",
+  "url": "https://www.oscaro.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "minodusud.com",
+  "url": "https://www.minodusud.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "midilibre.fr",
+  "url": "https://www.midilibre.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "scan-manga.com",
+  "url": "https://www.scan-manga.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "shein.com",
+  "url": "https://m.shein.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "facebook.com",
+  "url": "https://www.facebook.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "joybuy.fr",
+  "url": "https://m.joybuy.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "fanfox.net",
+  "url": "https://m.fanfox.net/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "buzzarab.com",
+  "url": "https://m.buzzarab.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "imonecho.com",
+  "url": "https://www.imonecho.com/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "imdb.com",
+  "url": "https://www.imdb.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "helloasso.com",
+  "url": "https://www.helloasso.com/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "voir-anime.to",
+  "url": "https://voir-anime.to/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "easyjet.com",
+  "url": "https://www.easyjet.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "culturequizz.com",
+  "url": "https://www.culturequizz.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "onseconnait.com",
+  "url": "https://www.onseconnait.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "apimo.pro",
+  "url": "https://apimo.pro/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "marianne.net",
+  "url": "https://www.marianne.net/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "actu.fr",
+  "url": "https://actu.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "reddit.com",
+  "url": "https://www.reddit.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "vintedgo.com",
+  "url": "https://vintedgo.com/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "leakimedia.com",
+  "url": "https://leakimedia.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "allocine.fr",
+  "url": "https://www.allocine.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tirage-gagnant.com",
+  "url": "https://tirage-gagnant.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "creditmutuel.fr",
+  "url": "https://www.creditmutuel.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "turbo.fr",
+  "url": "https://www.turbo.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "luugy.com",
+  "url": "https://luugy.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "daxon.fr",
+  "url": "https://www.daxon.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "allcaps.eu",
+  "url": "https://www.allcaps.eu/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "e.leclerc",
+  "url": "https://www.e.leclerc/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "agriaffaires.com",
+  "url": "https://www.agriaffaires.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "bienici.com",
+  "url": "https://www.bienici.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "renault.fr",
+  "url": "https://www.renault.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "matmut.fr",
+  "url": "https://www.matmut.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "bfmtv.com",
+  "url": "https://www.bfmtv.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "matchendirect.fr",
+  "url": "https://www.matchendirect.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tameteo.com",
+  "url": "https://www.tameteo.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "besson-shoes.com",
+  "url": "https://www.besson-shoes.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sg.fr",
+  "url": "https://professionnels.sg.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sips-services.com",
+  "url": "https://payment-web.sips-services.com/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "visiodent.com",
+  "url": "https://patient.visiodent.com/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "edf.fr",
+  "url": "https://particulier.edf.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "engie.fr",
+  "url": "https://particuliers.engie.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "dealabs.com",
+  "url": "https://www.dealabs.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "gls-france.com",
+  "url": "https://moncolis.gls-france.com/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "manualslib.fr",
+  "url": "https://www.manualslib.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "zonebourse.com",
+  "url": "https://www.zonebourse.com/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "zalando-prive.fr",
+  "url": "https://www.zalando-prive.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "zeturf.fr",
+  "url": "https://www.zeturf.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "zoomalia.com",
+  "url": "https://www.zoomalia.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "futbin.com",
+  "url": "https://www.futbin.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ilovepdf.com",
+  "url": "https://www.ilovepdf.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "deguisetoi.fr",
+  "url": "https://www.deguisetoi.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "deepl.com",
+  "url": "https://www.deepl.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "gala.fr",
+  "url": "https://www.gala.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "airfrance.fr",
+  "url": "https://wwws.airfrance.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "gameduell.fr",
+  "url": "https://www.gameduell.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "instagram.com",
+  "url": "https://www.instagram.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "instant-gaming.com",
+  "url": "https://www.instant-gaming.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "amazon.com",
+  "url": "https://www.amazon.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "hm.com",
+  "url": "https://www2.hm.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "zone-turf.fr",
+  "url": "https://www.zone-turf.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "yves-rocher.fr",
+  "url": "https://www.yves-rocher.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "leclercdrive.fr",
+  "url": "https://www.leclercdrive.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "amazon.de",
+  "url": "https://www.amazon.de/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "meteociel.fr",
+  "url": "https://www.meteociel.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "meyclub.com",
+  "url": "https://www.meyclub.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "meteo60.fr",
+  "url": "https://www.meteo60.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "newsouest.fr",
+  "url": "https://live.newsouest.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "red-by-sfr.fr",
+  "url": "https://www.red-by-sfr.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mister-auto.com",
+  "url": "https://www.mister-auto.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "radiofrance.fr",
+  "url": "https://www.radiofrance.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "parismatch.com",
+  "url": "https://www.parismatch.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "asos.com",
+  "url": "https://www.asos.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lachainemeteo.com",
+  "url": "https://www.lachainemeteo.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "evoliz.com",
+  "url": "https://www.evoliz.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "flightaware.com",
+  "url": "https://fr.flightaware.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "allopneus.com",
+  "url": "https://www.allopneus.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "intermarche.com",
+  "url": "https://www.intermarche.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "etsy.com",
+  "url": "https://www.etsy.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "examens-concours.gouv.fr",
+  "url": "https://candidat.examens-concours.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "poseidon-scans.net",
+  "url": "https://poseidon-scans.net/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "henrri.net",
+  "url": "https://henrri.net/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "kayak.fr",
+  "url": "https://www.kayak.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "myheritage.fr",
+  "url": "https://www.myheritage.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lameteoagricole.net",
+  "url": "https://www.lameteoagricole.net/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "allovoisins.com",
+  "url": "https://www.allovoisins.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "jw.org",
+  "url": "https://www.jw.org/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "alltricks.fr",
+  "url": "https://www.alltricks.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "vidal.fr",
+  "url": "https://www.vidal.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "agenda-loto.net",
+  "url": "https://agenda-loto.net/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "dailymotion.com",
+  "url": "https://www.dailymotion.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cgos.info",
+  "url": "https://agent.cgos.info/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "taokids.com",
+  "url": "https://www.taokids.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "nautiljon.com",
+  "url": "https://www.nautiljon.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "polybuzz.ai",
+  "url": "https://www.polybuzz.ai/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "google.com",
+  "url": "https://www.google.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "liquipedia.net",
+  "url": "https://liquipedia.net/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "interieur.gouv.fr",
+  "url": "https://administration-etrangers-en-france.interieur.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "search-redirect.com",
+  "url": "https://search-redirect.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "livebyoptimum.com",
+  "url": "https://livebyoptimum.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "search-sprint.com",
+  "url": "https://search-sprint.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "equideow.com",
+  "url": "https://ouranos.equideow.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "pmu.fr",
+  "url": "https://www.pmu.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "al-in.fr",
+  "url": "https://al-in.fr/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "duckduckgo.com",
+  "url": "https://duckduckgo.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "pointdevue.fr",
+  "url": "https://www.pointdevue.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "whatsapp.com",
+  "url": "https://web.whatsapp.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "orange.fr",
+  "url": "https://www.orange.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "imgsrc.ru",
+  "url": "https://imgsrc.ru/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mym.fans",
+  "url": "https://mym.fans/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "aliexpress.com",
+  "url": "https://www.aliexpress.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "planity.com",
+  "url": "https://www.planity.com/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "nouveautes-tele.com",
+  "url": "https://www.nouveautes-tele.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "winamax.fr",
+  "url": "https://www.winamax.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "nouvelobs.com",
+  "url": "https://www.nouvelobs.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "airbnb.fr",
+  "url": "https://www.airbnb.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "rtbf.be",
+  "url": "https://www.rtbf.be/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "rtl.fr",
+  "url": "https://www.rtl.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "wordreference.com",
+  "url": "https://www.wordreference.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "carter-cash.com",
+  "url": "https://www.carter-cash.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "castorama.fr",
+  "url": "https://www.castorama.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "notino.fr",
+  "url": "https://www.notino.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "districenter.fr",
+  "url": "https://www.districenter.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lavoixdunord.fr",
+  "url": "https://www.lavoixdunord.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "capital.fr",
+  "url": "https://www.capital.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ldlc.com",
+  "url": "https://www.ldlc.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cned.fr",
+  "url": "https://eformation.cned.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "wetransfer.com",
+  "url": "https://wetransfer.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "fut.gg",
+  "url": "https://www.fut.gg/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "univ-lyon1.fr",
+  "url": "https://moodle.univ-lyon1.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "supersoluce.com",
+  "url": "https://www.supersoluce.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "nutripure.fr",
+  "url": "https://www.nutripure.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "nexxchange.com",
+  "url": "https://www.nexxchange.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "nextplz.fr",
+  "url": "https://www.nextplz.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "newpharma.fr",
+  "url": "https://www.newpharma.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "doctolib.fr",
+  "url": "https://www.doctolib.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "netflix.com",
+  "url": "https://www.netflix.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "okaidi.fr",
+  "url": "https://www.okaidi.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "presse-citron.net",
+  "url": "https://www.presse-citron.net/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "g-trouve.com",
+  "url": "https://www.g-trouve.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "primevideo.com",
+  "url": "https://www.primevideo.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "prix-carburants.gouv.fr",
+  "url": "https://www.prix-carburants.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "courrier-picard.fr",
+  "url": "https://www.courrier-picard.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "deces-en-france.fr",
+  "url": "https://www.deces-en-france.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "courrierinternational.com",
+  "url": "https://www.courrierinternational.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "univ-lorraine.fr",
+  "url": "https://arche.univ-lorraine.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tokyvideo.com",
+  "url": "https://www.tokyvideo.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "x.com",
+  "url": "https://x.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "zeendoc.com",
+  "url": "https://armoires.zeendoc.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "gaym.com",
+  "url": "https://www.gaym.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "gayfute.com",
+  "url": "https://www.gayfute.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "atelio-pro.com",
+  "url": "https://srv1.atelio-pro.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "gameapp-itm.fr",
+  "url": "https://www.gameapp-itm.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "poki.com",
+  "url": "https://poki.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "marieclaire.fr",
+  "url": "https://www.marieclaire.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "damart.fr",
+  "url": "https://www.damart.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tchatche.com",
+  "url": "https://www.tchatche.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ledauphine.com",
+  "url": "https://www.ledauphine.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "jeanmarcmorandini.com",
+  "url": "https://www.jeanmarcmorandini.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "jechange.fr",
+  "url": "https://www.jechange.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lego.com",
+  "url": "https://www.lego.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tamildhool.tech",
+  "url": "https://www.tamildhool.tech/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "jetpunk.com",
+  "url": "https://www.jetpunk.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lepetitvapoteur.com",
+  "url": "https://www.lepetitvapoteur.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "huffingtonpost.fr",
+  "url": "https://www.huffingtonpost.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "chaussea.com",
+  "url": "https://www.chaussea.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tripadvisor.fr",
+  "url": "https://www.tripadvisor.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "libertic.com",
+  "url": "https://www.libertic.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "almerys.com",
+  "url": "https://www.almerys.com/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "newspulsenow.net",
+  "url": "https://newspulsenow.net/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "intersport.fr",
+  "url": "https://www.intersport.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "showroomprive.com",
+  "url": "https://www.showroomprive.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "dansnoscoeurs.fr",
+  "url": "https://www.dansnoscoeurs.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sharkninja.fr",
+  "url": "https://www.sharkninja.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "rituals.com",
+  "url": "https://www.rituals.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "brave.com",
+  "url": "https://search.brave.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cultura.com",
+  "url": "https://www.cultura.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lassuranceretraite.fr",
+  "url": "https://www.lassuranceretraite.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "simplifia.fr",
+  "url": "https://www.simplifia.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "fourmizzz.fr",
+  "url": "https://s5.fourmizzz.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ozap.com",
+  "url": "https://www.ozap.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "meetic.fr",
+  "url": "https://mobi.meetic.fr/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sexylib.com",
+  "url": "https://www.sexylib.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "journaldesfemmes.fr",
+  "url": "https://www.journaldesfemmes.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "paddock-gp.com",
+  "url": "https://www.paddock-gp.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "oxantis.net",
+  "url": "https://www.oxantis.net/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "notube.lol",
+  "url": "https://notube.lol/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "amiez.org",
+  "url": "https://www.amiez.org/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "bbc.com",
+  "url": "https://www.bbc.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "g2nft.com",
+  "url": "https://g2nft.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "agirc-arrco.fr",
+  "url": "https://espace-personnel.agirc-arrco.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cerballiance.fr",
+  "url": "https://espacepatient.cerballiance.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "rexel.fr",
+  "url": "https://www.rexel.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "monopolygo.com",
+  "url": "https://www.monopolygo.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mondialtissus.fr",
+  "url": "https://www.mondialtissus.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "letterboxd.com",
+  "url": "https://letterboxd.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mondialrelay.fr",
+  "url": "https://www.mondialrelay.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "monespacesante.fr",
+  "url": "https://www.monespacesante.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "perlesandco.com",
+  "url": "https://www.perlesandco.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "i-cad.fr",
+  "url": "https://www.i-cad.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "idmarket.com",
+  "url": "https://www.idmarket.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "adeo.cloud",
+  "url": "https://frlm.elo.adeo.cloud/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "kiabi.com",
+  "url": "https://www.kiabi.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "femmeactuelle.fr",
+  "url": "https://www.femmeactuelle.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "2osb.com",
+  "url": "https://2osb.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "opodo.fr",
+  "url": "https://www.opodo.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "discogs.com",
+  "url": "https://www.discogs.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "anagrammeur.com",
+  "url": "https://www.anagrammeur.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "coinmaster.com",
+  "url": "https://coinmaster.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "banquepopulaire.fr",
+  "url": "https://www.banquepopulaire.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "dailyuploads.io",
+  "url": "https://dailyuploads.io/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "disneylandparis.com",
+  "url": "https://www.disneylandparis.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mcdonalds.fr",
+  "url": "https://connexion.mcdonalds.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mabanque.bnpparibas",
+  "url": "https://mabanque.bnpparibas/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "divineva.com",
+  "url": "https://www.divineva.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "francetelevisions.fr",
+  "url": "https://www.francetelevisions.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lacremedugaming.fr",
+  "url": "https://www.lacremedugaming.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "dna.fr",
+  "url": "https://www.dna.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "wikipedia.org",
+  "url": "https://en.wikipedia.org/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "dofuspourlesnoobs.com",
+  "url": "https://www.dofuspourlesnoobs.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "gameforge.com",
+  "url": "https://s284-fr.ogame.gameforge.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "commeunefleche.com",
+  "url": "https://commeunefleche.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lalibre.be",
+  "url": "https://www.lalibre.be/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sciencepost.fr",
+  "url": "https://sciencepost.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "totalenergies.fr",
+  "url": "https://www.totalenergies.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ouestfrance-immo.com",
+  "url": "https://www.ouestfrance-immo.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "beneylu.com",
+  "url": "https://school.beneylu.com/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "transfermarkt.fr",
+  "url": "https://www.transfermarkt.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "transavia.com",
+  "url": "https://www.transavia.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "maxifoot.fr",
+  "url": "https://www.maxifoot.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "canalplus.com",
+  "url": "https://www.canalplus.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "booking.com",
+  "url": "https://www.booking.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ants.gouv.fr",
+  "url": "https://predemande-permisdeconduire.ants.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "canalturf.com",
+  "url": "https://www.canalturf.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "t.me",
+  "url": "https://t.me/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "joom.com",
+  "url": "https://www.joom.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "service-public.gouv.fr",
+  "url": "https://www.service-public.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "senscritique.com",
+  "url": "https://www.senscritique.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "thomann.fr",
+  "url": "https://www.thomann.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cnas.fr",
+  "url": "https://www.cnas.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "secretsdujeu.com",
+  "url": "https://www.secretsdujeu.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tiktok.com",
+  "url": "https://www.tiktok.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "topsante.com",
+  "url": "https://www.topsante.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "iledefrance-mobilites.fr",
+  "url": "https://www.iledefrance-mobilites.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "babelio.com",
+  "url": "https://www.babelio.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "nicematin.com",
+  "url": "https://www.nicematin.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "steamcommunity.com",
+  "url": "https://steamcommunity.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ient.fr",
+  "url": "https://www.ient.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "quechoisir.org",
+  "url": "https://www.quechoisir.org/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ici.fr",
+  "url": "https://www.ici.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lesrebeus.com",
+  "url": "https://www.lesrebeus.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cookomix.com",
+  "url": "https://www.cookomix.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lespompeurs.com",
+  "url": "https://www.lespompeurs.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lesnumeriques.com",
+  "url": "https://www.lesnumeriques.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "idealo.fr",
+  "url": "https://www.idealo.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "i-run.fr",
+  "url": "https://www.i-run.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "auto-doc.fr",
+  "url": "https://www.auto-doc.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "autojournal.fr",
+  "url": "https://www.autojournal.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "autohero.com",
+  "url": "https://www.autohero.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "humanite.fr",
+  "url": "https://www.humanite.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "psychologies.com",
+  "url": "https://www.psychologies.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "maieuticapp.com",
+  "url": "https://www.maieuticapp.com/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "playstation.com",
+  "url": "https://www.playstation.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "pokepedia.fr",
+  "url": "https://www.pokepedia.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "pronosoft.com",
+  "url": "https://www.pronosoft.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mon-essence.fr",
+  "url": "https://mon-essence.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "accuweather.com",
+  "url": "https://www.accuweather.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "u-pariscite.fr",
+  "url": "https://moodle2026.u-pariscite.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "coursesu.com",
+  "url": "https://www.coursesu.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "logic-immo.com",
+  "url": "https://www.logic-immo.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tv-programme.com",
+  "url": "https://tv-programme.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "wonderbox.fr",
+  "url": "https://www.wonderbox.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "my-origines.com",
+  "url": "https://www.my-origines.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "turfomania.fr",
+  "url": "https://www.turfomania.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "turfoo.fr",
+  "url": "https://www.turfoo.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "usinenouvelle.com",
+  "url": "https://www.usinenouvelle.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cgrcinemas.fr",
+  "url": "https://www.cgrcinemas.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "charentelibre.fr",
+  "url": "https://www.charentelibre.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "adopt.com",
+  "url": "https://www.adopt.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "weather.com",
+  "url": "https://weather.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cloud.microsoft",
+  "url": "https://outlook.cloud.microsoft/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "blancheporte.fr",
+  "url": "https://www.blancheporte.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "weldom.fr",
+  "url": "https://www.weldom.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "blackstore.fr",
+  "url": "https://www.blackstore.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "bing.com",
+  "url": "https://www.bing.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "deliveroo.fr",
+  "url": "https://deliveroo.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "billetreduc.com",
+  "url": "https://www.billetreduc.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mangas-origines.fr",
+  "url": "https://mangas-origines.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "adidas.fr",
+  "url": "https://www.adidas.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lesoir.be",
+  "url": "https://soirmag.lesoir.be/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "msa.fr",
+  "url": "https://monespaceprive.msa.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "search-io.com",
+  "url": "https://search-io.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "autoviza.fr",
+  "url": "https://autoviza.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "electrodepot.fr",
+  "url": "https://www.electrodepot.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "elle.fr",
+  "url": "https://www.elle.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "selectra.info",
+  "url": "https://selectra.info/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "graindemalice.fr",
+  "url": "https://www.graindemalice.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "laboutiqueofficielle.com",
+  "url": "https://www.laboutiqueofficielle.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lesechos.fr",
+  "url": "https://www.lesechos.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "badoo.com",
+  "url": "https://euw4.badoo.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "libramemoria.com",
+  "url": "https://www.libramemoria.com/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "france-galop.com",
+  "url": "https://www.france-galop.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "france.tv",
+  "url": "https://www.france.tv/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "theguardian.com",
+  "url": "https://www.theguardian.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "bricomarche.com",
+  "url": "https://www.bricomarche.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lafoirfouille.fr",
+  "url": "https://www.lafoirfouille.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ladepeche.fr",
+  "url": "https://www.ladepeche.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "01net.com",
+  "url": "https://www.01net.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tescort.com",
+  "url": "https://www.tescort.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "parismatch.be",
+  "url": "https://www.parismatch.be/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "liberation.fr",
+  "url": "https://www.liberation.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "paris-normandie.fr",
+  "url": "https://www.paris-normandie.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "estrepublicain.fr",
+  "url": "https://www.estrepublicain.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "boursedirect.fr",
+  "url": "https://www.boursedirect.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "papillesetpupilles.fr",
+  "url": "https://www.papillesetpupilles.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ovhcloud.com",
+  "url": "https://www.ovhcloud.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "forum-militaire.fr",
+  "url": "https://www.forum-militaire.fr/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "indeed.com",
+  "url": "https://fr.indeed.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "stych.fr",
+  "url": "https://www.stych.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "yahoo.com",
+  "url": "https://fr.yahoo.com/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "eurosport.fr",
+  "url": "https://www.eurosport.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "meteofrance.fr",
+  "url": "https://vigilance.meteofrance.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "boursorama.com",
+  "url": "https://www.boursorama.com/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "aternos.org",
+  "url": "https://aternos.org/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "vide-greniers.org",
+  "url": "https://vide-greniers.org/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "gametwist.com",
+  "url": "https://www.gametwist.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "maiia.com",
+  "url": "https://www.maiia.com/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "futura-sciences.com",
+  "url": "https://www.futura-sciences.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "maaf.fr",
+  "url": "https://www.maaf.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "live.com",
+  "url": "https://outlook.live.com/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "fsolver.fr",
+  "url": "https://www.fsolver.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "zalando.fr",
+  "url": "https://www.zalando.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "zooplus.fr",
+  "url": "https://www.zooplus.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sortiraparis.com",
+  "url": "https://www.sortiraparis.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "gupy.fr",
+  "url": "https://www.gupy.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "spartoo.com",
+  "url": "https://www.spartoo.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "easypara.fr",
+  "url": "https://www.easypara.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "autossimo.com",
+  "url": "https://www3.autossimo.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "numerique.gouv.fr",
+  "url": "https://demarche.numerique.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sports.fr",
+  "url": "https://www.sports.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "empireimmo.com",
+  "url": "https://monde8.empireimmo.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "bricodepot.fr",
+  "url": "https://www.bricodepot.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "paypal.com",
+  "url": "https://www.paypal.com/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "scribd.com",
+  "url": "https://fr.scribd.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "philibertnet.com",
+  "url": "https://www.philibertnet.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "breal.net",
+  "url": "https://www.breal.net/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "maison-travaux.fr",
+  "url": "https://monjardinmamaison.maison-travaux.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "etudiant.gouv.fr",
+  "url": "https://messervices.etudiant.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "genius.com",
+  "url": "https://genius.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "boursier.com",
+  "url": "https://www.boursier.com/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "dhnet.be",
+  "url": "https://www.dhnet.be/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "deviantart.com",
+  "url": "https://www.deviantart.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "fanfiction.net",
+  "url": "https://m.fanfiction.net/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "bonoboplanet.com",
+  "url": "https://www.bonoboplanet.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "bonprix.fr",
+  "url": "https://www.bonprix.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "demande-logement-social.gouv.fr",
+  "url": "https://www.demande-logement-social.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "picard.fr",
+  "url": "https://www.picard.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "bmstores.fr",
+  "url": "https://bmstores.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "science-et-vie.com",
+  "url": "https://www.science-et-vie.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "emploi-territorial.fr",
+  "url": "https://www.emploi-territorial.fr/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lindependant.fr",
+  "url": "https://www.lindependant.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "seloger.com",
+  "url": "https://www.seloger.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "chess.com",
+  "url": "https://www.chess.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "hubspot.com",
+  "url": "https://app-eu1.hubspot.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "letrot.com",
+  "url": "https://www.letrot.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "letelegramme.fr",
+  "url": "https://www.letelegramme.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cic.fr",
+  "url": "https://www.cic.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "chronoshop2shop.fr",
+  "url": "https://www.chronoshop2shop.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "fortnitetracker.com",
+  "url": "https://fortnitetracker.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "kinepolis.fr",
+  "url": "https://kinepolis.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cabaia.fr",
+  "url": "https://www.cabaia.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "petitfute.com",
+  "url": "https://www.petitfute.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "pecheur.com",
+  "url": "https://www.pecheur.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "chronopost.fr",
+  "url": "https://www.chronopost.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "thetrainline.com",
+  "url": "https://www.thetrainline.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "pathe.fr",
+  "url": "https://www.pathe.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "linkedin.com",
+  "url": "https://www.linkedin.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cuisineaz.com",
+  "url": "https://www.cuisineaz.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cuisineactuelle.fr",
+  "url": "https://www.cuisineactuelle.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "caroll.com",
+  "url": "https://www.caroll.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mesenvies.fr",
+  "url": "https://www.mesenvies.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "threads.com",
+  "url": "https://www.threads.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "centrepresseaveyron.fr",
+  "url": "https://www.centrepresseaveyron.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "as3-2byoptimum.com",
+  "url": "https://as3-2byoptimum.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "howwelldoyoureallyknow.com",
+  "url": "https://bff.howwelldoyoureallyknow.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cnews.fr",
+  "url": "https://www.cnews.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "shop-orchestra.com",
+  "url": "https://fr.shop-orchestra.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "superencontre.com",
+  "url": "https://www.superencontre.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lepopulaire.fr",
+  "url": "https://www.lepopulaire.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "leprogres.fr",
+  "url": "https://www.leprogres.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "purepeople.com",
+  "url": "https://www.purepeople.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "nintendo.com",
+  "url": "https://www.nintendo.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "atida.fr",
+  "url": "https://www.atida.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "atlasformen.fr",
+  "url": "https://www.atlasformen.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "espace-des-marques.com",
+  "url": "https://www.espace-des-marques.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "macif.fr",
+  "url": "https://www.macif.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "programme-tv.net",
+  "url": "https://www.programme-tv.net/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lunion.fr",
+  "url": "https://www.lunion.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sephora.fr",
+  "url": "https://www.sephora.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lejsl.com",
+  "url": "https://www.lejsl.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "nocibe.fr",
+  "url": "https://www.nocibe.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "notretemps.com",
+  "url": "https://www.notretemps.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lovetrans.com",
+  "url": "https://www.lovetrans.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "fram.fr",
+  "url": "https://www.fram.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "france24.com",
+  "url": "https://www.france24.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lejdd.fr",
+  "url": "https://www.lejdd.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "celio.com",
+  "url": "https://www.celio.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "abcbourse.com",
+  "url": "https://www.abcbourse.com/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "centralepneus.fr",
+  "url": "https://www.centralepneus.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "procyclingstats.com",
+  "url": "https://www.procyclingstats.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "abola.pt",
+  "url": "https://www.abola.pt/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "action.com",
+  "url": "https://www.action.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "pkup.fr",
+  "url": "https://n.pkup.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "franceconnect.gouv.fr",
+  "url": "https://oidc.franceconnect.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ageverif.com",
+  "url": "https://checker.ageverif.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "reverso.net",
+  "url": "https://www.reverso.net/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "woopets.fr",
+  "url": "https://www.woopets.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "rfi.fr",
+  "url": "https://www.rfi.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "effitrace.fr",
+  "url": "https://site1.effitrace.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "histoiredor.com",
+  "url": "https://www.histoiredor.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ecosia.org",
+  "url": "https://www.ecosia.org/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "locservice.fr",
+  "url": "https://www.locservice.fr/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "750g.com",
+  "url": "https://www.750g.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "meteoconsult.fr",
+  "url": "https://marine.meteoconsult.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "manga-scantrad.io",
+  "url": "https://manga-scantrad.io/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "wellaray.com",
+  "url": "https://www.wellaray.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "welcometothejungle.com",
+  "url": "https://www.welcometothejungle.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "pagesjaunes.fr",
+  "url": "https://www.pagesjaunes.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "pacificpeche.com",
+  "url": "https://www.pacificpeche.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "wattpad.com",
+  "url": "https://www.wattpad.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "palombe.com",
+  "url": "https://www.palombe.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "pappers.fr",
+  "url": "https://www.pappers.fr/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "pap.fr",
+  "url": "https://www.pap.fr/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "gifi.fr",
+  "url": "https://www.gifi.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "paruvendu.fr",
+  "url": "https://www.paruvendu.fr/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "logicieleducatif.fr",
+  "url": "https://www.logicieleducatif.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "labourseauxlivres.fr",
+  "url": "https://labourseauxlivres.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "livefoot.fr",
+  "url": "https://www.livefoot.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "axonaut.com",
+  "url": "https://axonaut.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "uniqlo.com",
+  "url": "https://www.uniqlo.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "listesdemots.net",
+  "url": "https://www.listesdemots.net/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ugc.fr",
+  "url": "https://www.ugc.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "twitch.tv",
+  "url": "https://www.twitch.tv/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "linternaute.com",
+  "url": "https://www.linternaute.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "linvosges.com",
+  "url": "https://www.linvosges.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "klikego.com",
+  "url": "https://www.klikego.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "liveffn.com",
+  "url": "https://www.liveffn.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "turf-fr.com",
+  "url": "https://www.turf-fr.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "easycash.fr",
+  "url": "https://bons-plans.easycash.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "getyourguide.com",
+  "url": "https://www.getyourguide.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "geneanet.org",
+  "url": "https://www.geneanet.org/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "geny.com",
+  "url": "https://www.geny.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "vogue.fr",
+  "url": "https://www.vogue.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "vosgesmatin.fr",
+  "url": "https://www.vosgesmatin.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "privatemodele.com",
+  "url": "https://privatemodele.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "armurerie-loisir.fr",
+  "url": "https://www.armurerie-loisir.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "armandthiery.fr",
+  "url": "https://www.armandthiery.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lelscans.net",
+  "url": "https://lelscans.net/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "vistaprint.fr",
+  "url": "https://www.vistaprint.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "vente-unique.com",
+  "url": "https://www.vente-unique.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "vibs.com",
+  "url": "https://www.vibs.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "jcphi.com",
+  "url": "https://jcphi.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "boursobank.com",
+  "url": "https://bourse.boursobank.com/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "booknode.com",
+  "url": "https://booknode.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "myinstants.com",
+  "url": "https://www.myinstants.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "asurascans.com",
+  "url": "https://asurascans.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "myextrabat.com",
+  "url": "https://www.myextrabat.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mypeopledoc.com",
+  "url": "https://www.mypeopledoc.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "boardgamearena.com",
+  "url": "https://boardgamearena.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "naturabuy.fr",
+  "url": "https://www.naturabuy.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "natureetdecouvertes.com",
+  "url": "https://www.natureetdecouvertes.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "pleinevie.fr",
+  "url": "https://www.pleinevie.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "meteofrance.com",
+  "url": "https://meteofrance.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "enedis.fr",
+  "url": "https://www.enedis.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "nounou-top.fr",
+  "url": "https://www.nounou-top.fr/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "norauto.fr",
+  "url": "https://www.norauto.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "veepee.fr",
+  "url": "https://www.veepee.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "nike.com",
+  "url": "https://www.nike.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "modesettravaux.fr",
+  "url": "https://www.modesettravaux.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "nexusmods.com",
+  "url": "https://www.nexusmods.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "office.com",
+  "url": "https://outlook.office.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "purebreak.com",
+  "url": "https://www.purebreak.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "office365.com",
+  "url": "https://outlook.office365.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ovoko.fr",
+  "url": "https://ovoko.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "laparfumerie.eu",
+  "url": "https://www.laparfumerie.eu/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "generationbi.com",
+  "url": "https://www.generationbi.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "claude.ai",
+  "url": "https://claude.ai/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mr-bricolage.fr",
+  "url": "https://www.mr-bricolage.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "morgandetoi.fr",
+  "url": "https://www.morgandetoi.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "universfreebox.com",
+  "url": "https://www.universfreebox.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "github.com",
+  "url": "https://github.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "anime-sama.to",
+  "url": "https://anime-sama.to/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "commentcamarche.com",
+  "url": "https://droit-finances.commentcamarche.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "directvelo.com",
+  "url": "https://www.directvelo.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "globalprimereport.com",
+  "url": "https://globalprimereport.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cadastre.gouv.fr",
+  "url": "https://www.cadastre.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "delegaciondelgobierno.gob.es",
+  "url": "https://infoext2.delegaciondelgobierno.gob.es/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "candaulib.com",
+  "url": "https://www.candaulib.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ups.com",
+  "url": "https://www.ups.com/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lahalle.com",
+  "url": "https://www.lahalle.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "promessedefleurs.com",
+  "url": "https://www.promessedefleurs.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "programme.tv",
+  "url": "https://www.programme.tv/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "programme-television.org",
+  "url": "https://www.programme-television.org/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "wyylde.com",
+  "url": "https://www.wyylde.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "moncompteformation.gouv.fr",
+  "url": "https://www.moncompteformation.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "leroymerlin.com",
+  "url": "https://tactic.corp.leroymerlin.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "1001jeux.fr",
+  "url": "https://www.1001jeux.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "onestock-retail.com",
+  "url": "https://sport2000.onestock-retail.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lacentrale.fr",
+  "url": "https://www.lacentrale.fr/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mon-horoscope-du-jour.com",
+  "url": "https://www.mon-horoscope-du-jour.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ladyxena.com",
+  "url": "https://www.ladyxena.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sofifa.com",
+  "url": "https://sofifa.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "blablacar.fr",
+  "url": "https://www.blablacar.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ffhandball.fr",
+  "url": "https://www.ffhandball.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "fdj.fr",
+  "url": "https://www.fdj.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "feuvert.fr",
+  "url": "https://www.feuvert.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "automobile-magazine.fr",
+  "url": "https://www.automobile-magazine.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "autoplus.fr",
+  "url": "https://www.autoplus.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "caisse-epargne.fr",
+  "url": "https://www.caisse-epargne.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "canva.com",
+  "url": "https://www.canva.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "msn.com",
+  "url": "https://www.msn.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "billetweb.fr",
+  "url": "https://www.billetweb.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "eurotel.fr",
+  "url": "https://eurotel.fr/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "disneyplus.com",
+  "url": "https://www.disneyplus.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "archiveofourown.org",
+  "url": "https://archiveofourown.org/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "rugbyrama.fr",
+  "url": "https://www.rugbyrama.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "eminza.com",
+  "url": "https://www.eminza.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lichess.org",
+  "url": "https://lichess.org/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ebay.fr",
+  "url": "https://www.ebay.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "laposte.net",
+  "url": "https://www.laposte.net/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "laposte.fr",
+  "url": "https://www.laposte.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "larepubliquedespyrenees.fr",
+  "url": "https://www.larepubliquedespyrenees.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ubereats.com",
+  "url": "https://www.ubereats.com/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "largus.fr",
+  "url": "https://www.largus.fr/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "toutes-mes-sorties.com",
+  "url": "https://www.toutes-mes-sorties.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ecoledirecte.com",
+  "url": "https://www.ecoledirecte.com/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "laprovence.com",
+  "url": "https://www.laprovence.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "brocabrac.fr",
+  "url": "https://brocabrac.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "larep.fr",
+  "url": "https://www.larep.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "undiz.com",
+  "url": "https://www.undiz.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lanouvellerepublique.fr",
+  "url": "https://www.lanouvellerepublique.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lamontagne.fr",
+  "url": "https://www.lamontagne.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cahier-de-prepa.fr",
+  "url": "https://cahier-de-prepa.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "leberry.fr",
+  "url": "https://www.leberry.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "geo.fr",
+  "url": "https://www.geo.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "gemo.fr",
+  "url": "https://www.gemo.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "journaldugeek.com",
+  "url": "https://www.journaldugeek.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "50factory.com",
+  "url": "https://www.50factory.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "jules.com",
+  "url": "https://www.jules.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "jeu-du-solitaire.com",
+  "url": "https://www.jeu-du-solitaire.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sklum.com",
+  "url": "https://www.sklum.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "snapchat.com",
+  "url": "https://www.snapchat.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "demotivateur.fr",
+  "url": "https://www.demotivateur.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lepoint.fr",
+  "url": "https://www.lepoint.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lequipe.fr",
+  "url": "https://www.lequipe.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "smythstoys.com",
+  "url": "https://www.smythstoys.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "misterbooking.com",
+  "url": "https://new.misterbooking.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "labanquepostale.fr",
+  "url": "https://www.labanquepostale.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "samsung.com",
+  "url": "https://www.samsung.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "maxicoffee.com",
+  "url": "https://www.maxicoffee.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "delcampe.net",
+  "url": "https://www.delcampe.net/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mariefrance.fr",
+  "url": "https://www.mariefrance.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "viamichelin.fr",
+  "url": "https://www.viamichelin.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "vevor.fr",
+  "url": "https://www.vevor.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "vertbaudet.fr",
+  "url": "https://www.vertbaudet.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "thehalara.fr",
+  "url": "https://thehalara.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "telestar.fr",
+  "url": "https://www.telestar.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "aroma-zone.com",
+  "url": "https://www.aroma-zone.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "google.fr",
+  "url": "https://www.google.fr/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "meteorama.fr",
+  "url": "https://m.meteorama.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mangago.me",
+  "url": "https://www.mangago.me/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ebay.com",
+  "url": "https://www.ebay.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "grazia.fr",
+  "url": "https://www.grazia.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "microsoft.com",
+  "url": "https://www.microsoft.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sudoku.com",
+  "url": "https://sudoku.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "chatgpt.com",
+  "url": "https://chatgpt.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "discord.com",
+  "url": "https://discord.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sncf-connect.com",
+  "url": "https://www.sncf-connect.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "disonsdemain.fr",
+  "url": "https://mobi.disonsdemain.fr/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "renole.com",
+  "url": "https://www.renole.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "societe.com",
+  "url": "https://www.societe.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "character.ai",
+  "url": "https://character.ai/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ryanair.com",
+  "url": "https://www.ryanair.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "clubic.com",
+  "url": "https://www.clubic.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "kingmods.net",
+  "url": "https://www.kingmods.net/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "monoprix.fr",
+  "url": "https://www.monoprix.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "escorte.com",
+  "url": "https://www.escorte.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "perfactive.fr",
+  "url": "https://perfactive.fr/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "wiki-masters.com",
+  "url": "https://www.wiki-masters.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "welovetennis.fr",
+  "url": "https://www.welovetennis.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "stokomani.fr",
+  "url": "https://www.stokomani.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "strava.com",
+  "url": "https://www.strava.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "jecontacte.com",
+  "url": "https://www.jecontacte.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tf1info.fr",
+  "url": "https://www.tf1info.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sncf.com",
+  "url": "https://www.ter.sncf.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cofidis.fr",
+  "url": "https://www.cofidis.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "modz.fr",
+  "url": "https://www.modz.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "credit-agricole.fr",
+  "url": "https://www.credit-agricole.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "king-jouet.com",
+  "url": "https://www.king-jouet.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "temu.com",
+  "url": "https://www.temu.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "monbureaunumerique.fr",
+  "url": "https://www.monbureaunumerique.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "fnacspectacles.com",
+  "url": "https://www.fnacspectacles.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "skyscanner.fr",
+  "url": "https://www.skyscanner.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "jeuxvideo.com",
+  "url": "https://www.jeuxvideo.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "joueclub.fr",
+  "url": "https://www.joueclub.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "jeusol.fr",
+  "url": "https://www.jeusol.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "jigsawplanet.com",
+  "url": "https://www.jigsawplanet.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "closermag.fr",
+  "url": "https://www.closermag.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "paulmarius.fr",
+  "url": "https://www.paulmarius.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "franime.fr",
+  "url": "https://franime.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "telerama.fr",
+  "url": "https://www.telerama.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "epicgames.com",
+  "url": "https://www.epicgames.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "flashscore.fr",
+  "url": "https://www.flashscore.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "petitbleu.fr",
+  "url": "https://www.petitbleu.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "letribunaldunet.fr",
+  "url": "https://www.letribunaldunet.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "roblox.com",
+  "url": "https://www.roblox.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "lexpress.fr",
+  "url": "https://www.lexpress.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "leveil.fr",
+  "url": "https://www.leveil.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "aramisauto.com",
+  "url": "https://www.aramisauto.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "espace-citoyens.net",
+  "url": "https://www.espace-citoyens.net/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "hai8g.com",
+  "url": "https://hai8g.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mischool.fr",
+  "url": "https://www.mischool.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "enthdf.fr",
+  "url": "https://enthdf.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "meteoblue.com",
+  "url": "https://www.meteoblue.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "celibook.com",
+  "url": "https://www.celibook.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "chatnow.fr",
+  "url": "https://chatnow.fr/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mawaqit.net",
+  "url": "https://mawaqit.net/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "voici.fr",
+  "url": "https://www.voici.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "info-retraite.fr",
+  "url": "https://www.info-retraite.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cache-cache.fr",
+  "url": "https://www.cache-cache.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "alcopa-auction.fr",
+  "url": "https://www.alcopa-auction.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "but.fr",
+  "url": "https://www.but.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "kyara.games",
+  "url": "https://kyara.games/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "bienpublic.com",
+  "url": "https://www.bienpublic.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "bibamagazine.fr",
+  "url": "https://www.bibamagazine.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "telemat.org",
+  "url": "https://www.telemat.org/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tecnomat.fr",
+  "url": "https://www.tecnomat.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "mappy.com",
+  "url": "https://fr.mappy.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tf1.fr",
+  "url": "https://www.tf1.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "transtrav.com",
+  "url": "https://www.transtrav.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "govoyages.com",
+  "url": "https://www.govoyages.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "carrefour.com",
+  "url": "https://surveytwo.carrefour.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "medallia.eu",
+  "url": "https://survey2.medallia.eu/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tolunastart.com",
+  "url": "https://survey.tolunastart.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "sudouest.fr",
+  "url": "https://www.sudouest.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "hellowork.com",
+  "url": "https://www.hellowork.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "tennistemple.com",
+  "url": "https://fr.tennistemple.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "motorsport.com",
+  "url": "https://fr.motorsport.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "vestiairecollective.com",
+  "url": "https://fr.vestiairecollective.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "pinterest.com",
+  "url": "https://fr.pinterest.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "cliquojeux.com",
+  "url": "https://www.cliquojeux.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "bladi.net",
+  "url": "https://www.bladi.net/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "equidia.fr",
+  "url": "https://www.equidia.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ravelry.com",
+  "url": "https://www.ravelry.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "blog-rct.com",
+  "url": "https://www.blog-rct.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "eram.fr",
+  "url": "https://www.eram.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "evozen.fr",
+  "url": "https://www.evozen.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "milirose.com",
+  "url": "https://www.milirose.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "micromania.fr",
+  "url": "https://www.micromania.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 1000
+ },
+ {
+  "id": "ube.fr",
+  "url": "https://casv6.ube.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "justice.gouv.fr",
+  "url": "https://casier-judiciaire.justice.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "omoda-jaecoo.fr",
+  "url": "https://omoda-jaecoo.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "univ-lyon2.fr",
+  "url": "https://www.univ-lyon2.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "sesamath.net",
+  "url": "https://manuel.sesamath.net/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "maree.info",
+  "url": "https://maree.info/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "michaelpage.fr",
+  "url": "https://www.michaelpage.fr/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "immo-pour-vous.fr",
+  "url": "https://wtm.immo-pour-vous.fr/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "eurostar.com",
+  "url": "https://www.eurostar.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "eva.gg",
+  "url": "https://www.eva.gg/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rdvasos.fr",
+  "url": "https://rdvasos.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "franklinpetfood.com",
+  "url": "https://franklinpetfood.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "omio.com",
+  "url": "https://www.omio.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "easydoct.com",
+  "url": "https://www.easydoct.com/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "odalys-vacances.com",
+  "url": "https://www.odalys-vacances.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "steamdb.info",
+  "url": "https://steamdb.info/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "marcwiner.com",
+  "url": "https://marcwiner.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "flixbus.fr",
+  "url": "https://www.flixbus.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "flycorsair.com",
+  "url": "https://www.flycorsair.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "lyonaeroports.com",
+  "url": "https://www.lyonaeroports.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "franceverif.fr",
+  "url": "https://franceverif.fr/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "flunch.fr",
+  "url": "https://www.flunch.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "octobre-editions.com",
+  "url": "https://www.octobre-editions.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "flowup.shop",
+  "url": "https://www.flowup.shop/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "univ-angers.fr",
+  "url": "https://shibboleth.univ-angers.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "totalenergies.com",
+  "url": "https://locator.totalenergies.com/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "shotgun.live",
+  "url": "https://shotgun.live/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "harmobil.fr",
+  "url": "https://ww4.harmobil.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "nvgallery.com",
+  "url": "https://www.nvgallery.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "shop.com",
+  "url": "https://shop.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "expedia.fr",
+  "url": "https://www.expedia.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "lagged.com",
+  "url": "https://lagged.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "breizh-modelisme.com",
+  "url": "https://breizh-modelisme.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "dyson.fr",
+  "url": "https://www.dyson.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "1001pneus.fr",
+  "url": "https://www.1001pneus.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "codesrousseau.fr",
+  "url": "https://eleve.codesrousseau.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "wordwall.net",
+  "url": "https://wordwall.net/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "catch-newz.com",
+  "url": "https://catch-newz.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "etreproprio.com",
+  "url": "https://www.etreproprio.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "capeutservir.com",
+  "url": "https://www.capeutservir.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "questionablequesting.com",
+  "url": "https://forum.questionablequesting.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "univ-rennes.fr",
+  "url": "https://sso-cas.univ-rennes.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "guydemarle.com",
+  "url": "https://www.guydemarle.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "bnpparibas.net",
+  "url": "https://payment-web.mercanet.bnpparibas.net/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "axepta.bnpparibas",
+  "url": "https://paymentpage.axepta.bnpparibas/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "sider.biz",
+  "url": "https://www.sider.biz/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "reducmiz.com",
+  "url": "https://www.reducmiz.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "quick.fr",
+  "url": "https://www.quick.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "envertetcontretous.fr",
+  "url": "https://www.envertetcontretous.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "cartedepeche.fr",
+  "url": "https://www.cartedepeche.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "casio.com",
+  "url": "https://www.casio.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "cataloguemate.fr",
+  "url": "https://www.cataloguemate.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "consulat.ma",
+  "url": "https://rdv.consulat.ma/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "redcare-pharmacie.fr",
+  "url": "https://www.redcare-pharmacie.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "drawnames.fr",
+  "url": "https://www.drawnames.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "conso.gouv.fr",
+  "url": "https://rappel.conso.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rateyourmusic.com",
+  "url": "https://rateyourmusic.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "universmini.com",
+  "url": "https://www.universmini.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "123loger.com",
+  "url": "https://www.123loger.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "dim.fr",
+  "url": "https://www.dim.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rdv-vidi.fr",
+  "url": "https://rdv-vidi.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rdvdentiste.net",
+  "url": "https://rdvdentiste.net/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "real-france.fr",
+  "url": "https://real-france.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "douane.gouv.fr",
+  "url": "https://www.douane.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rueducommerce.fr",
+  "url": "https://www.rueducommerce.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rts.ch",
+  "url": "https://www.rts.ch/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rue-des-puzzles.com",
+  "url": "https://www.rue-des-puzzles.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "ok.ru",
+  "url": "https://ok.ru/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "cattronic.com",
+  "url": "https://www.cattronic.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "onvasortir.com",
+  "url": "https://marseille.onvasortir.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rangerover.com",
+  "url": "https://www.rangerover.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "omg10.com",
+  "url": "https://omg10.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "onche.org",
+  "url": "https://onche.org/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "blackview.hk",
+  "url": "https://www.blackview.hk/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rowenta.fr",
+  "url": "https://www.rowenta.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "royalairmaroc.com",
+  "url": "https://www.royalairmaroc.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "routard.com",
+  "url": "https://www.routard.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "devenirenseignant.gouv.fr",
+  "url": "https://www.devenirenseignant.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "bmw.fr",
+  "url": "https://www.bmw.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "alibaba.com",
+  "url": "https://www.alibaba.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "surveycenter.com",
+  "url": "https://online.surveycenter.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "crit-job.com",
+  "url": "https://www.crit-job.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "cpx-research.com",
+  "url": "https://offers.cpx-research.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "octopusenergy.fr",
+  "url": "https://octopusenergy.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "fff.fr",
+  "url": "https://www.fff.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "bienmanger.com",
+  "url": "https://www.bienmanger.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "fischipedia.org",
+  "url": "https://fischipedia.org/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "ivdid.com",
+  "url": "https://ivdid.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "bobbies.com",
+  "url": "https://www.bobbies.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "divainparfums.com",
+  "url": "https://divainparfums.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "discount-plomberie.com",
+  "url": "https://discount-plomberie.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "football365.fr",
+  "url": "https://www.football365.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "domitys.fr",
+  "url": "https://www.domitys.fr/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "fortuneo.fr",
+  "url": "https://www.fortuneo.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "distrokid.com",
+  "url": "https://distrokid.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "forumconstruire.com",
+  "url": "https://www.forumconstruire.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "footlocker.fr",
+  "url": "https://www.footlocker.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "foot-national.com",
+  "url": "https://www.foot-national.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "masjidbox.com",
+  "url": "https://masjidbox.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "domomat.com",
+  "url": "https://www.domomat.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "glnf.fr",
+  "url": "https://regius.glnf.fr/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "retraites.fr",
+  "url": "https://www.cnracl.retraites.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "devinci.fr",
+  "url": "https://learning.devinci.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "biocoop.fr",
+  "url": "https://www.biocoop.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "fixpart.fr",
+  "url": "https://fixpart.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "billetsdiscount.com",
+  "url": "https://www.billetsdiscount.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "fragonard.com",
+  "url": "https://www.fragonard.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "lastminute.com",
+  "url": "https://www.fr.lastminute.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "careco.fr",
+  "url": "https://careco.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "mango.com",
+  "url": "https://shop.mango.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "isp.golf",
+  "url": "https://isp.golf/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "z-library.sk",
+  "url": "https://z-library.sk/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "cuescore.com",
+  "url": "https://cuescore.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "pandora.net",
+  "url": "https://fr.pandora.net/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "beta.gouv.fr",
+  "url": "https://immersion-facile.beta.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "reso-m.fr",
+  "url": "https://www.reso-m.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "dl-protect.link",
+  "url": "https://dl-protect.link/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "restaurantguru.com",
+  "url": "https://fr.restaurantguru.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "researchgate.net",
+  "url": "https://www.researchgate.net/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "lpsg.com",
+  "url": "https://www.lpsg.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rs-online.com",
+  "url": "https://fr.rs-online.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "majuscule.com",
+  "url": "https://shop.majuscule.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "hotel-bb.com",
+  "url": "https://www.hotel-bb.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "gleeden.com",
+  "url": "https://www.gleeden.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "windfinder.com",
+  "url": "https://fr.windfinder.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "ma-queue.com",
+  "url": "https://www.ma-queue.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "venum.com",
+  "url": "https://fr.venum.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "stardewvalleywiki.com",
+  "url": "https://fr.stardewvalleywiki.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "dexerto.fr",
+  "url": "https://www.dexerto.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "europapark.de",
+  "url": "https://www.europapark.de/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "vaticannews.va",
+  "url": "https://www.vaticannews.va/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "hardware.fr",
+  "url": "https://forum.hardware.fr/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "decipherinc.com",
+  "url": "https://nrg.decipherinc.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "jellycat.com",
+  "url": "https://fr.jellycat.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "magicmaman.com",
+  "url": "https://www.magicmaman.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "mahjong.fr",
+  "url": "https://www.mahjong.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "home24.fr",
+  "url": "https://www.home24.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "hankooktire.com",
+  "url": "https://www.hankooktire.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "macifvie.fr",
+  "url": "https://www.macifvie.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "homecinesolutions.fr",
+  "url": "https://www.homecinesolutions.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "smartingly.com",
+  "url": "https://smartingly.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "loccitane.com",
+  "url": "https://fr.loccitane.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "jooble.org",
+  "url": "https://fr.jooble.org/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "honor.com",
+  "url": "https://www.honor.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "made-in-china.com",
+  "url": "https://fr.made-in-china.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "motor1.com",
+  "url": "https://fr.motor1.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "namemc.com",
+  "url": "https://fr.namemc.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "milesrepublic.com",
+  "url": "https://fr.milesrepublic.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rassemblementnational.fr",
+  "url": "https://rassemblementnational.fr/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "nihaojewelry.com",
+  "url": "https://fr.nihaojewelry.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "louisvuitton.com",
+  "url": "https://fr.louisvuitton.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "lrpresse.fr",
+  "url": "https://forum.lrpresse.fr/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rallye-lecture.fr",
+  "url": "https://rallye-lecture.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "hbm-machines.com",
+  "url": "https://www.hbm-machines.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "weekendesk.fr",
+  "url": "https://www.weekendesk.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "colisprive.com",
+  "url": "https://www.colisprive.com/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "wecasa.fr",
+  "url": "https://www.wecasa.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "surveymonkey.com",
+  "url": "https://fr.surveymonkey.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "hoka.com",
+  "url": "https://www.hoka.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "trustpilot.com",
+  "url": "https://fr.trustpilot.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "tommy.com",
+  "url": "https://fr.tommy.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "uefa.com",
+  "url": "https://fr.uefa.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "quora.com",
+  "url": "https://www.quora.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "wikisource.org",
+  "url": "https://fr.wikisource.org/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "savefrom.net",
+  "url": "https://fr.savefrom.net/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "swgoh.gg",
+  "url": "https://swgoh.gg/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "caudalie.com",
+  "url": "https://fr.caudalie.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "ecoflow.com",
+  "url": "https://fr.ecoflow.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "mademoiselle-bio.com",
+  "url": "https://www.mademoiselle-bio.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "cougarillo.com",
+  "url": "https://www.cougarillo.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "clubvetshop.fr",
+  "url": "https://www.clubvetshop.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "coupert.com",
+  "url": "https://www.coupert.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "antai.gouv.fr",
+  "url": "https://www.antai.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "aosom.fr",
+  "url": "https://www.aosom.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "annoncesbateau.com",
+  "url": "https://www.annoncesbateau.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "maison-etanche.com",
+  "url": "https://www.maison-etanche.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "sonovente.com",
+  "url": "https://www.sonovente.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "sowell.fr",
+  "url": "https://www.sowell.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "sudexpress.fr",
+  "url": "https://www.sudexpress.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "sport.es",
+  "url": "https://www.sport.es/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "sudinfo.be",
+  "url": "https://www.sudinfo.be/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "speedway.fr",
+  "url": "https://www.speedway.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rika-firenet.com",
+  "url": "https://www.rika-firenet.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "ricardocuisine.com",
+  "url": "https://www.ricardocuisine.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "hglycee.fr",
+  "url": "https://www.hglycee.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "hellotickets.fr",
+  "url": "https://www.hellotickets.fr/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "worldofshinobi.com",
+  "url": "https://worldofshinobi.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "subito.it",
+  "url": "https://www.subito.it/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "hertz.fr",
+  "url": "https://www.hertz.fr/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "revolut.com",
+  "url": "https://www.revolut.com/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "hellowatt.fr",
+  "url": "https://www.hellowatt.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "mc2g-app.com",
+  "url": "https://mc2g-app.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "visa-algerie.com",
+  "url": "https://www.visa-algerie.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "clickoutil.com",
+  "url": "https://www.clickoutil.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "sport-decouverte.com",
+  "url": "https://www.sport-decouverte.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "maximiles.com",
+  "url": "https://survey.maximiles.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "confirmit.com",
+  "url": "https://survey.euro.confirmit.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "nickel.eu",
+  "url": "https://nickel.eu/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "vinci-autoroutes.com",
+  "url": "https://www.vinci-autoroutes.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "snaptik.app",
+  "url": "https://snaptik.app/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "occe.coop",
+  "url": "https://www.retkoop.occe.coop/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "speedy.fr",
+  "url": "https://www.speedy.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "retro-stage.fr",
+  "url": "https://www.retro-stage.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "spidersolitaire.fr",
+  "url": "https://www.spidersolitaire.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "framadate.org",
+  "url": "https://framadate.org/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "aon.fr",
+  "url": "https://monportailsante.aon.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "despetitshauts.com",
+  "url": "https://despetitshauts.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "sony.fr",
+  "url": "https://www.sony.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "citya.com",
+  "url": "https://www.citya.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "aleteia.org",
+  "url": "https://fr.aleteia.org/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "rebrickable.com",
+  "url": "https://rebrickable.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "sportsdirect.fr",
+  "url": "https://www.sportsdirect.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "lesgeorgettes.com",
+  "url": "https://www.lesgeorgettes.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "francearchives.gouv.fr",
+  "url": "https://francearchives.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "airalgerie.dz",
+  "url": "https://airalgerie.dz/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "renault.com",
+  "url": "https://dcs.renault.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "trombi.com",
+  "url": "https://www.trombi.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "grandraid-reunion.com",
+  "url": "https://www.grandraid-reunion.com/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "tripadvisor.com",
+  "url": "https://www.tripadvisor.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "troc-velo.com",
+  "url": "https://www.troc-velo.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "lerobert.com",
+  "url": "https://dictionnaire.lerobert.com/",
+  "category": "loisirs-pratique",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "digipad.app",
+  "url": "https://digipad.app/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "lastwar.com",
+  "url": "https://store.lastwar.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "graines-baumaux.fr",
+  "url": "https://www.graines-baumaux.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "gpa26.com",
+  "url": "https://www.gpa26.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "corsematin.com",
+  "url": "https://www.corsematin.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "gpdis.com",
+  "url": "https://www.gpdis.com/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "goodmeal.fr",
+  "url": "https://www.goodmeal.fr/",
+  "category": "services",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "voyages.leclerc",
+  "url": "https://www.voyages.leclerc/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "maisonetstyles.com",
+  "url": "https://www.maisonetstyles.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "kakamanga.com",
+  "url": "https://www.kakamanga.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "kikocosmetics.com",
+  "url": "https://www.kikocosmetics.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "manucurist.com",
+  "url": "https://www.manucurist.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "ko-fi.com",
+  "url": "https://ko-fi.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "maif.fr",
+  "url": "https://www.maif.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "hobbii.fr",
+  "url": "https://hobbii.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "centrakor.com",
+  "url": "https://www.centrakor.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "bellesdemeures.com",
+  "url": "https://www.bellesdemeures.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "beauteprivee.fr",
+  "url": "https://www.beauteprivee.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "tgvinoui.sncf",
+  "url": "https://www.tgvinoui.sncf/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "aquitaineonline.com",
+  "url": "https://www.aquitaineonline.com/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "holzkern.com",
+  "url": "https://holzkern.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "celibest.com",
+  "url": "https://www.celibest.com/",
+  "category": "social-forums",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "bebe9.com",
+  "url": "https://www.bebe9.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "thalasseo.com",
+  "url": "https://www.thalasseo.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "totalav.com",
+  "url": "https://www.totalav.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "terredemarins.fr",
+  "url": "https://www.terredemarins.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "vroomly.com",
+  "url": "https://www.vroomly.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "kiauto.fr",
+  "url": "https://www.kiauto.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "toutatice.fr",
+  "url": "https://www.toutatice.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "mondial.paris",
+  "url": "https://mondial.paris/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "mlab-groupe.fr",
+  "url": "https://mesresultats.mlab-groupe.fr/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "betclic.fr",
+  "url": "https://www.betclic.fr/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "tezenis.com",
+  "url": "https://www.tezenis.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "meteo-npdc.fr",
+  "url": "https://meteo-npdc.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "groupe-uneo.fr",
+  "url": "https://monespacepersonnel.groupe-uneo.fr/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "testerdesproduits.fr",
+  "url": "https://www.testerdesproduits.fr/",
+  "category": "autre",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "cimut.net",
+  "url": "https://monespacepersonnel.cimut.net/",
+  "category": "banque-assurance",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "citadium.com",
+  "url": "https://www.citadium.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "primeearn.com",
+  "url": "https://monetize.primeearn.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "myprotein.com",
+  "url": "https://fr.myprotein.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "keops-ingenierie.fr",
+  "url": "https://www.keops-ingenierie.fr/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "carjet.com",
+  "url": "https://www.carjet.com/",
+  "category": "voyage-transport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "histoiresroyales.fr",
+  "url": "https://histoiresroyales.fr/",
+  "category": "media",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "goobox.fr",
+  "url": "https://goobox.fr/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "gonewildday.com",
+  "url": "https://gonewildday.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "finances.gouv.fr",
+  "url": "https://apexappliext.dgfip.finances.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "smartrecruiters.com",
+  "url": "https://jobs.smartrecruiters.com/",
+  "category": "annonces-emploi-immo",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "agriculture.gouv.fr",
+  "url": "https://www.telepac.agriculture.gouv.fr/",
+  "category": "administration",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "military.eu",
+  "url": "https://military.eu/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "mgread.io",
+  "url": "https://mgread.io/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "bazarchic.com",
+  "url": "https://fr.bazarchic.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "laplateformeducoiffeur.com",
+  "url": "https://laplateformeducoiffeur.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "adkami.com",
+  "url": "https://www.adkami.com/",
+  "category": "divertissement",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "livetrail.net",
+  "url": "https://grandraid-reunion.v3.livetrail.net/",
+  "category": "sport",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "lafeemaraboutee.fr",
+  "url": "https://lafeemaraboutee.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "stores-discount.com",
+  "url": "https://www.stores-discount.com/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "bergeredefrance.fr",
+  "url": "https://www.bergeredefrance.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "meyson.fr",
+  "url": "https://www.meyson.fr/",
+  "category": "ecommerce",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "milou.care",
+  "url": "https://milou.care/",
+  "category": "education-sante",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ },
+ {
+  "id": "openai.com",
+  "url": "https://openai.com/",
+  "category": "tech-outils",
+  "aliases": [],
+  "source": "crux-fr-202610",
+  "cruxRank": 5000
+ }
+]

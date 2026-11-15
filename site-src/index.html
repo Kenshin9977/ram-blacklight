@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Blacklight de la RAM</title>
+<meta name="description" content="Combien de mémoire vive coûtent les 1000 sites les plus visités en France, et qui la consomme : mesures {{campaign}}.">
+<link rel="icon" href="data:,">
+<style>
+:root{color-scheme:light;--bg:#fcfcfb;--panel:#f3f2ef;--ink:#0b0b0b;--ink2:#52514e;--line:#dddcd7;--acc:#eb6834;--ref:#2a78d6;--hi:#0b0b0b}
+@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#1a1a19;--panel:#242422;--ink:#f0efec;--ink2:#c3c2b7;--line:#3a3a37;--acc:#d95926;--ref:#3987e5;--hi:#f0efec}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:46rem;margin:0 auto;padding:0 16px 4rem}
+section{content-visibility:auto;contain-intrinsic-size:auto 40rem;padding-top:2.5rem}
+h1{font-size:2.1rem;line-height:1.15;margin:2.5rem 0 .5rem}
+h2{font-size:1.35rem;margin:0 0 .6rem}
+p,li{color:var(--ink2)}
+strong,b{color:var(--ink)}
+a{color:inherit}
+.lead{font-size:1.15rem}
+.big{display:grid;grid-template-columns:repeat(auto-fit,minmax(10rem,1fr));gap:12px;margin:1.5rem 0}
+.big div{background:var(--panel);border-radius:8px;padding:12px 14px}
+.big b{display:block;font-size:1.7rem;line-height:1.2;font-variant-numeric:tabular-nums}
+.big span{font-size:.9rem;color:var(--ink2)}
+.bars{list-style:none;padding:0;margin:1rem 0}
+.bars li{display:grid;grid-template-columns:minmax(7rem,12rem) 1fr;gap:4px 10px;align-items:center;margin:0 0 10px;color:var(--ink)}
+.bars .n{font-size:.95rem}
+.bars .n small{display:block;color:var(--ink2);font-size:.8rem}
+@media (max-width:560px){.bars li{grid-template-columns:1fr;gap:2px}.bars li>span:last-child,.bars li>.b{margin-bottom:4px}}
+.b{white-space:nowrap;display:flex;align-items:center;gap:6px;font-size:.85rem;font-variant-numeric:tabular-nums;color:var(--ink2);min-height:12px}
+.b i{display:block;height:10px;border-radius:0 4px 4px 0;background:var(--acc);min-width:2px}
+.b.r i{background:var(--ref)}
+.b.k i{background:var(--ink2)}
+.b.me i{background:var(--hi)}
+.legend{display:flex;gap:16px;font-size:.9rem;color:var(--ink2)}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:3px;background:var(--acc);margin-right:6px;vertical-align:-1px}
+.legend .r i{background:var(--ref)}
+.game{background:var(--panel);border-radius:8px;padding:16px}
+.game button,.find input{font:inherit;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:10px 12px}
+.game button{cursor:pointer;width:100%;text-align:left;margin:6px 0}
+.game button:focus-visible,.find input:focus-visible{outline:2px solid var(--ref);outline-offset:2px}
+.game .vs{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.find input{width:100%}
+.card{background:var(--panel);border-radius:8px;padding:12px 16px;margin-top:10px}
+.muted{color:var(--ink2);font-size:.9rem}
+table{border-collapse:collapse;width:100%;font-size:.9rem;font-variant-numeric:tabular-nums}
+th,td{text-align:left;padding:4px 6px;border-bottom:1px solid var(--line)}
+td+td,th+th{text-align:right}
+details summary{cursor:pointer;color:var(--ink2);font-size:.9rem}
+ol li,ul li{margin:.3rem 0}
+footer{border-top:1px solid var(--line);margin-top:3rem;padding-top:1rem;font-size:.9rem;color:var(--ink2)}
+</style>
+</head>
+<body>
+<main>
+<header>
+<h1>Blacklight de la RAM</h1>
+<p class="lead">On a ouvert les <b>{{listed}} sites les plus visités en France</b> dans un vrai Chrome, accepté puis refusé les cookies, et pesé la mémoire vive que chaque page occupe. Puis on a regardé <b>qui</b> la consomme.</p>
+</header>
+
+<div class="big">
+<div><b>{{acceptMedian}}</b><span>la page médiane, cookies acceptés</span></div>
+<div><b>×{{mediaRatio}}</b><span>un site de médias, en acceptant plutôt qu'en refusant ({{mediaAccept}} contre {{mediaRefuse}})</span></div>
+<div><b>{{over1g}} sites</b><span>dépassent 1 Go de RAM pour une seule page</span></div>
+<div><b>{{thisPage}}</b><span>cette page-ci, mesurée avec le même outil</span></div>
+</div>
+
+<section id="echelle">
+<h2>À quoi ça ressemble</h2>
+<p>Mémoire vive occupée par la page, 60 secondes après son chargement (médiane de 3 à 5 mesures).</p>
+<ul class="bars">{{scaleBars}}</ul>
+</section>
+
+<section id="jeu">
+<h2>Lequel pèse le plus ?</h2>
+<p>Deux sites, cookies acceptés. Cliquez sur celui qui occupe le plus de RAM.</p>
+<div class="game" id="game">
+<div class="vs"><button type="button" data-i="0">Jouer</button><button type="button" data-i="1">Jouer</button></div>
+<p class="muted" id="gameOut" aria-live="polite">Score : 0 / 0</p>
+</div>
+</section>
+
+<section id="chercher">
+<h2>Et votre site ?</h2>
+<div class="find">
+<label for="q" class="muted">Nom de domaine (parmi les {{measured}} sites mesurés)</label>
+<input id="q" list="ids" placeholder="lemonde, leboncoin, impots…" autocomplete="off">
+<datalist id="ids"></datalist>
+</div>
+<div id="res" aria-live="polite"></div>
+</section>
+
+<section id="categories">
+<h2>Par type de site</h2>
+<p>Pour les {{pairs}} sites où l'on a pu à la fois accepter et refuser : mémoire médiane de la page.</p>
+<p class="legend"><span><i></i>Cookies acceptés</span><span class="r"><i></i>Cookies refusés</span></p>
+<ul class="bars">{{categoryBars}}</ul>
+<p>Les médias sont à part : <b>{{mediaThird}} %</b> de la mémoire de leurs pages vient de tiers (publicité, mesure d'audience, vidéo), contre {{thirdShareMedian}} % pour la page médiane.</p>
+<details><summary>Le tableau complet</summary>
+<table><thead><tr><th>Type</th><th>Sites mesurés</th><th>Médiane (acceptés)</th><th>90 % des sites sous</th><th>Part des tiers</th></tr></thead><tbody>{{categoryRows}}</tbody></table>
+</details>
+</section>
+
+<section id="tiers">
+<h2>Qui consomme</h2>
+<p>Mémoire occupée par chaque acteur tiers, additionnée sur les sites où il est présent (cookies acceptés).</p>
+<ul class="bars">{{entityBars}}</ul>
+<p>Sur les {{entityCount}} premiers, {{adCount}} sont des régies publicitaires ou des places de marché d'enchères.</p>
+</section>
+
+<section id="onglets">
+<h2>Combien d'onglets tiennent dans votre RAM ?</h2>
+<p><label for="ram">Mémoire libre pour le navigateur : <b id="ramv">4 Go</b></label><br>
+<input id="ram" type="range" min="1" max="16" value="4" style="width:100%"></p>
+<p id="tabs">{{tabsDefault}}</p>
+</section>
+
+<section id="methode">
+<h2>Comment on a mesuré</h2>
+<ol>
+<li><b>La liste</b> : les origines les plus visitées en France selon le Chrome UX Report (octobre 2026), une par domaine, sans les pages de connexion ni les sites adultes.</li>
+<li><b>Le navigateur</b> : Chromium {{chrome}} sans affichage, avec l'isolation par site activée (chaque site tiers dans son propre processus) et un agent utilisateur Chrome standard qui se déclare comme robot de mesure. Aucun contournement des protections anti-robots.</li>
+<li><b>Les cookies</b> : une première visite accepte ou refuse la bannière automatiquement (règles <a href="https://github.com/duckduckgo/autoconsent">autoconsent</a> de DuckDuckGo), puis la mesure se fait dans une visite neuve qui garde ce choix. Quand le site suit le standard TCF, on relit le choix enregistré pour vérifier.</li>
+<li><b>La visite</b> : chargement, défilement jusqu'en bas, puis 60 secondes sans rien faire. On a vérifié sur 12 sites que la mémoire est stable à ce moment-là.</li>
+<li><b>La mesure</b> : l'empreinte mémoire privée de chaque processus de la page, lue par l'outil de traçage interne de Chrome. Un site tiers isolé dans son propre processus est attribué exactement ; le JavaScript de la page principale est attribué script par script.</li>
+<li><b>La répétition</b> : 3 mesures par site et par choix, jusqu'à 5 tant que l'écart dépasse 5 %. On garde la médiane.</li>
+</ol>
+<h2 style="margin-top:1.5rem">Les limites</h2>
+<ul>
+<li><b>{{notMeasured}} sites sur {{listed}} n'ont pas pu être mesurés</b> : ils ont bloqué le robot ({{blockedTop}}).</li>
+<li><b>Les pages avec beaucoup de pub varient</b> : la moitié des mesures varient de moins de {{cvMedian}} %, mais {{over20}} combinaisons site × choix varient de plus de 20 %, selon les publicités servies.</li>
+<li><b>Une partie de la mémoire n'est pas attribuée</b> : dans la page principale, seul le JavaScript est attribué à son auteur ; le reste (affichage, images, structure) est compté pour le site lui-même.</li>
+<li><b>Une seule configuration</b> : un Chromium sur Linux, un écran 1366×768, une connexion française. Un autre navigateur ou un téléphone donneraient d'autres chiffres, mais les écarts entre sites restent comparables.</li>
+<li><b>Le choix des cookies n'est pas toujours vérifiable</b> : sans TCF, on se fie à la bannière. Les sites où le choix enregistré contredit le choix demandé sont exclus de la comparaison.</li>
+</ul>
+<p>Le code, les règles, la liste et les résultats complets sont publics : <a href="{{repo}}">{{repoShort}}</a>. La mesure est refaite chaque mois.</p>
+</section>
+
+<section id="sobre">
+<h2>Et ce site ?</h2>
+<p>Il suit les recommandations d'écoconception (<a href="https://www.w3.org/TR/web-sustainability-guidelines/">WSG du W3C</a>, <a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/">RGESN</a>, <a href="https://github.com/cnumr/best-practices">115 bonnes pratiques</a>) qui comptent pour la mémoire et le processeur :</p>
+<ul>
+<li>une seule page HTML statique, sans framework, sans police téléchargée, sans image ;</li>
+<li>aucun script tiers : ni mesure d'audience, ni bannière de cookies (il n'y a pas de cookie) ;</li>
+<li>les graphiques sont du HTML et du CSS, sans bibliothèque ni canvas ;</li>
+<li>pas d'animation ni de minuterie : rien ne tourne quand vous ne faites rien ;</li>
+<li>les données des sites ({{dataKb}} ko) ne sont chargées que si vous jouez ou cherchez un site ;</li>
+<li>les sections hors de l'écran ne sont pas mises en page tant qu'on n'y arrive pas.</li>
+</ul>
+<p>Résultat : <b>{{thisPage}}</b> de RAM, mesuré avec le même protocole, contre {{acceptMedian}} pour la page médiane du top {{listed}}.</p>
+</section>
+
+<footer>Mesures du {{campaignDate}}. Données sous licence CC BY 4.0, code sous licence MIT. <a href="{{repo}}">Code source et méthode</a>.</footer>
+</main>
+<script>
+(()=>{
+const $=s=>document.querySelector(s),CAT={{catLabels}};
+const fmt=m=>m>=1000?(m/1024).toFixed(1).replace('.',',')+' Go':Math.round(m)+' Mo';
+let D,P;
+const load=()=>P||(P=fetch('sites.json').then(r=>r.json()).then(d=>{D=d;$('#ids').innerHTML=d.map(s=>'<option value="'+s[0]+'">').join('');return d}));
+// game: two sites with clearly different weights
+const g=$('#game'),out=$('#gameOut');let pair,score=0,n=0,shown=false;
+const deal=()=>{const a=D.filter(s=>s[2]);let x,y;do{x=a[Math.random()*a.length|0];y=a[Math.random()*a.length|0]}while(x===y||Math.max(x[2],y[2])<1.5*Math.min(x[2],y[2]));pair=[x,y];shown=false;g.querySelectorAll('button').forEach((b,i)=>b.textContent=pair[i][0])};
+g.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;load().then(()=>{if(!pair||shown){deal();return}const i=+b.dataset.i,w=pair[0][2]>pair[1][2]?0:1;n++;if(i===w)score++;shown=true;
+out.innerHTML=(i===w?'<b>Bien vu.</b> ':'<b>Raté.</b> ')+pair[w][0]+' : '+fmt(pair[w][2])+', '+pair[1-w][0]+' : '+fmt(pair[1-w][2])+'. Score : '+score+' / '+n+'. Cliquez pour rejouer.'})});
+// search
+const q=$('#q'),res=$('#res');
+q.addEventListener('focus',load,{once:true});
+q.addEventListener('change',()=>load().then(()=>{const v=q.value.trim().toLowerCase(),s=D.find(x=>x[0]===v)||D.find(x=>x[0].startsWith(v));if(!s){res.innerHTML='<p class="muted">Site non mesuré (bloqué ou hors du top 1000).</p>';return}
+const mx=Math.max(s[2]||0,s[3]||0)||1,bar=(c,m,l)=>m==null?'':'<div class="b '+c+'"><i style="width:'+(m/mx*70)+'%"></i>'+l+' : '+fmt(m)+'</div>';
+res.innerHTML='<div class="card"><b>'+s[0]+'</b> <span class="muted">· '+(CAT[s[1]]||s[1])+'</span>'+bar('',s[2],s[5][0]==='n'?'sans bannière':'acceptés')+bar('r',s[3],'refusés')+
+(s[4]!=null?'<p class="muted">'+s[4]+' % de la mémoire vient de tiers'+(s[7].length?' : '+s[7].map(t=>t[0]+' ('+fmt(t[1])+')').join(', '):'')+'.</p>':'')+(s[6]>20?'<p class="muted">Ce site varie beaucoup d\'une visite à l\'autre (±'+s[6]+' %).</p>':'')+(s[5].includes('?')?'<p class="muted">Le choix des cookies n\'a pas pu être confirmé pour ce site.</p>':'')+'</div>'}));
+// tabs
+const ram=$('#ram'),T={{tabsData}};
+ram.addEventListener('input',()=>{const gb=+ram.value;$('#ramv').textContent=gb+' Go';$('#tabs').innerHTML=T.map(t=>'<b>'+Math.floor(gb*1024/t[1])+'</b> '+t[0]).join(' · ')});
+})();
+</script>
+</body>
+</html>

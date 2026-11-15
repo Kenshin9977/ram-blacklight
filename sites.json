@@ -1,0 +1,142 @@
+[
+ {
+  "id": "lemonde",
+  "url": "https://www.lemonde.fr/",
+  "category": "media",
+  "aliases": [
+   "lemde.fr"
+  ]
+ },
+ {
+  "id": "lefigaro",
+  "url": "https://www.lefigaro.fr/",
+  "category": "media",
+  "aliases": []
+ },
+ {
+  "id": "20minutes",
+  "url": "https://www.20minutes.fr/",
+  "category": "media",
+  "aliases": [
+   "20mn.fr"
+  ]
+ },
+ {
+  "id": "ouest-france",
+  "url": "https://www.ouest-france.fr/",
+  "category": "media",
+  "aliases": []
+ },
+ {
+  "id": "leparisien",
+  "url": "https://www.leparisien.fr/",
+  "category": "media",
+  "aliases": []
+ },
+ {
+  "id": "francetvinfo",
+  "url": "https://www.francetvinfo.fr/",
+  "category": "media",
+  "aliases": [
+   "ftven.fr",
+   "francetv.fr"
+  ]
+ },
+ {
+  "id": "marmiton",
+  "url": "https://www.marmiton.org/",
+  "category": "loisirs-pratique",
+  "aliases": [
+   "afcdn.com"
+  ]
+ },
+ {
+  "id": "amazon",
+  "url": "https://www.amazon.fr/",
+  "category": "ecommerce",
+  "aliases": [
+   "media-amazon.com",
+   "ssl-images-amazon.com",
+   "amazon.com"
+  ]
+ },
+ {
+  "id": "cdiscount",
+  "url": "https://www.cdiscount.com/",
+  "category": "ecommerce",
+  "aliases": [
+   "cdscdn.com"
+  ]
+ },
+ {
+  "id": "vinted",
+  "url": "https://www.vinted.fr/",
+  "category": "ecommerce",
+  "aliases": [
+   "vinted.net",
+   "vinted.com"
+  ]
+ },
+ {
+  "id": "ikea",
+  "url": "https://www.ikea.com/fr/fr/",
+  "category": "ecommerce",
+  "aliases": []
+ },
+ {
+  "id": "conforama",
+  "url": "https://www.conforama.fr/",
+  "category": "ecommerce",
+  "aliases": []
+ },
+ {
+  "id": "auchan",
+  "url": "https://www.auchan.fr/",
+  "category": "ecommerce",
+  "aliases": []
+ },
+ {
+  "id": "lidl",
+  "url": "https://www.lidl.fr/",
+  "category": "ecommerce",
+  "aliases": []
+ },
+ {
+  "id": "service-public",
+  "url": "https://www.service-public.fr/",
+  "category": "administration",
+  "aliases": [
+   "service-public.gouv.fr"
+  ]
+ },
+ {
+  "id": "impots",
+  "url": "https://www.impots.gouv.fr/",
+  "category": "administration",
+  "aliases": []
+ },
+ {
+  "id": "ameli",
+  "url": "https://www.ameli.fr/",
+  "category": "administration",
+  "aliases": []
+ },
+ {
+  "id": "caf",
+  "url": "https://www.caf.fr/",
+  "category": "administration",
+  "aliases": []
+ },
+ {
+  "id": "francetravail",
+  "url": "https://www.francetravail.fr/",
+  "category": "administration",
+  "aliases": []
+ },
+ {
+  "id": "urssaf",
+  "url": "https://www.urssaf.fr/",
+  "category": "administration",
+  "aliases": []
+ }
+]

@@ -1,0 +1,29 @@
+{
+ "startedAt": "2026-11-13T22:33:00.492Z",
+ "host": "ba20db1a24ba",
+ "platform": "linux 6.12.15-production+truenas",
+ "cpus": 4,
+ "memGB": 39.1,
+ "node": "v22.14.0",
+ "playwright": "1.51.1",
+ "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 RAMBlacklight/0.1",
+ "params": {
+  "modes": [
+   "accept",
+   "refuse"
+  ],
+  "minRuns": 3,
+  "maxRuns": 5,
+  "cvMax": 0.05,
+  "idleMs": 60000,
+  "conc": 3,
+  "minFreeGB": 2.5,
+  "staggerMs": 20000,
+  "consentTries": 3,
+  "sites": 1000
+ },
+ "sessions": [
+  "2026-11-13T08:25:01.426Z",
+  "2026-11-13T22:33:00.492Z"
+ ]
+}

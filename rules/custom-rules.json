@@ -1,0 +1,21 @@
+[
+  {
+    "name": "trustcommander-footer",
+    "_comment": "Commanders Act TrustCommander banner (cdiscount). Not covered by autoconsent 18.3.0; heuristics only found the reject button.",
+    "prehideSelectors": [],
+    "detectCmp": [{ "exists": "#footer_tc_privacy_button_2" }],
+    "detectPopup": [{ "visible": "#footer_tc_privacy_button_2" }],
+    "optIn": [{ "waitForThenClick": "#footer_tc_privacy_button_2" }],
+    "optOut": [{ "waitForThenClick": "#footer_tc_privacy_button_3" }]
+  },
+  {
+    "name": "lemonde-pay-or-accept",
+    "_comment": "Le Monde consent wall: 'Accepter et continuer' or subscribe. No free refusal exists, so optOut fails on purpose (reported as refusal impossible).",
+    "runContext": { "main": true, "frame": false, "urlPattern": "^https://www\\.lemonde\\.fr/" },
+    "prehideSelectors": [],
+    "detectCmp": [{ "exists": "button.gdpr-lmd-button" }],
+    "detectPopup": [{ "visible": "button.gdpr-lmd-button--big" }],
+    "optIn": [{ "waitForThenClick": "button.gdpr-lmd-button--big" }],
+    "optOut": [{ "waitForThenClick": "#no-free-refusal-on-this-site", "timeout": 1000 }]
+  }
+]

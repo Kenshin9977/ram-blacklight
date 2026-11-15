@@ -1,0 +1,8 @@
+node_modules
+results
+results-*.log
+tmp
+data/*.gz
+site
+test
+*.md

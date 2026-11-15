@@ -1,0 +1,20 @@
+{
+  "name": "ram-blacklight",
+  "version": "1.0.0",
+  "scripts": {
+    "campaign": "node src/run.js",
+    "aggregate": "node src/aggregate.js",
+    "site": "node scripts/build-site.js",
+    "test": "node test/timeout-closes-browser.js && node test/validate.js 3 full"
+  },
+  "license": "MIT",
+  "description": "Mesure la mémoire vive des pages web et l'attribue à leurs tiers (Chromium + CDP)",
+  "dependencies": {
+    "@duckduckgo/autoconsent": "18.3.0",
+    "playwright-core": "1.51.1",
+    "third-party-web": "0.30.0",
+    "tldts": "7.4.26"
+  },
+  "private": true,
+  "repository": "github:Kenshin9977/ram-blacklight"
+}

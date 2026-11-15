@@ -1,0 +1,1909 @@
+non mesuré: 1001pneus.fr/refuse (blocked: captcha)
+non mesuré: 2osb.com/refuse (no-cmp in accept mode)
+non mesuré: adeo.cloud/accept (blocked: http-403)
+non mesuré: adidas.fr/accept (blocked: http-403)
+non mesuré: adkami.com/refuse (no-cmp in accept mode)
+non mesuré: ageverif.com/refuse (no-cmp in accept mode)
+non mesuré: agriaffaires.com/refuse (blocked: http-403)
+non mesuré: agriculture.gouv.fr/refuse (no-cmp in accept mode)
+non mesuré: alibaba.com/refuse (no-cmp in accept mode)
+non mesuré: allopneus.com/accept (blocked: captcha)
+non mesuré: almerys.com/refuse (no-cmp in accept mode)
+non mesuré: amiez.org/refuse (no-cmp in accept mode)
+non mesuré: anime-sama.to/refuse (no-cmp in accept mode)
+non mesuré: annoncesbateau.com/accept (blocked: http-403)
+non mesuré: antai.gouv.fr/refuse (no-cmp in accept mode)
+non mesuré: ants.gouv.fr/refuse (no-cmp in accept mode)
+non mesuré: aon.fr/refuse (no-cmp in accept mode)
+non mesuré: apimo.pro/refuse (no-cmp in accept mode)
+non mesuré: apple.com/refuse (no-cmp in accept mode)
+non mesuré: archiveofourown.org/refuse (no-cmp in accept mode)
+non mesuré: armurerie-lavaux.com/refuse (no-cmp in accept mode)
+non mesuré: as3-2byoptimum.com/refuse (no-cmp in accept mode)
+non mesuré: asurascans.com/refuse (no-cmp in accept mode)
+non mesuré: atelio-pro.com/refuse (no-cmp in accept mode)
+non mesuré: auto-doc.fr/accept (blocked: captcha)
+non mesuré: autoviza.fr/refuse (no-cmp in accept mode)
+non mesuré: babelio.com/accept (blocked: http-403)
+non mesuré: bellesdemeures.com/accept (blocked: captcha)
+non mesuré: beneylu.com/refuse (no-cmp in accept mode)
+non mesuré: besson-shoes.com/accept (blocked: captcha)
+non mesuré: bibamagazine.fr/refuse (no-cmp in accept mode)
+non mesuré: billetsdiscount.com/refuse (no-cmp in accept mode)
+non mesuré: blablacar.fr/accept (blocked: captcha)
+non mesuré: blackstore.fr/accept (blocked: http-403)
+non mesuré: blackview.hk/refuse (no-cmp in accept mode)
+non mesuré: bnpparibas.net/refuse (no-cmp in accept mode)
+non mesuré: brave.com/refuse (no-cmp in accept mode)
+non mesuré: but.fr/accept (blocked: captcha)
+non mesuré: cadastre.gouv.fr/refuse (no-cmp in accept mode)
+non mesuré: cahier-de-prepa.fr/refuse (no-cmp in accept mode)
+non mesuré: candaulib.com/refuse (no-cmp in accept mode)
+non mesuré: cardmarket.com/accept (blocked: http-403)
+non mesuré: carjet.com/refuse (no-cmp in accept mode)
+non mesuré: carrefour.com/refuse (no-cmp in accept mode)
+non mesuré: carter-cash.com/accept (blocked: http-403)
+non mesuré: casio.com/accept (blocked: blocked-page)
+non mesuré: cattronic.com/refuse (no-cmp in accept mode)
+non mesuré: celibest.com/refuse (no-cmp in accept mode)
+non mesuré: celibook.com/refuse (no-cmp in accept mode)
+non mesuré: celio.com/refuse (blocked: http-403)
+non mesuré: cgos.info/refuse (no-cmp in accept mode)
+non mesuré: cgrcinemas.fr/accept (blocked: captcha)
+non mesuré: chatnow.fr/accept (blocked: captcha)
+non mesuré: cimut.net/refuse (no-cmp in accept mode)
+non mesuré: citadium.com/accept (blocked: http-403)
+non mesuré: cloud.microsoft/refuse (no-cmp in accept mode)
+non mesuré: cnas.fr/refuse (no-cmp in accept mode)
+non mesuré: cned.fr/refuse (no-cmp in accept mode)
+non mesuré: codesrousseau.fr/refuse (no-cmp in accept mode)
+non mesuré: commeunefleche.com/refuse (no-cmp in accept mode)
+non mesuré: confirmit.com/refuse (no-cmp in accept mode)
+non mesuré: conso.gouv.fr/refuse (no-cmp in accept mode)
+non mesuré: consulat.ma/refuse (no-cmp in accept mode)
+non mesuré: cougarillo.com/refuse (no-cmp in accept mode)
+non mesuré: coupert.com/refuse (no-cmp in accept mode)
+non mesuré: courir.com/refuse (no-cmp in accept mode)
+non mesuré: coursesu.com/accept (blocked: blocked-page)
+non mesuré: cpx-research.com/refuse (no-cmp in accept mode)
+non mesuré: cuescore.com/refuse (no-cmp in accept mode)
+non mesuré: cultura.com/accept (blocked: captcha)
+non mesuré: dailyuploads.io/refuse (no-cmp in accept mode)
+non mesuré: damart.fr/accept (blocked: captcha)
+non mesuré: dansnoscoeurs.fr/accept (blocked: captcha)
+non mesuré: decipherinc.com/refuse (no-cmp in accept mode)
+non mesuré: delegaciondelgobierno.gob.es/refuse (no-cmp in accept mode)
+non mesuré: demande-logement-social.gouv.fr/refuse (no-cmp in accept mode)
+non mesuré: deviantart.com/refuse (no-cmp in accept mode)
+non mesuré: devinci.fr/refuse (no-cmp in accept mode)
+non mesuré: digipad.app/refuse (no-cmp in accept mode)
+non mesuré: discogs.com/accept (blocked: captcha)
+non mesuré: discord.com/refuse (no-cmp in accept mode)
+non mesuré: discount-plomberie.com/accept (blocked: captcha)
+non mesuré: divineva.com/refuse (no-cmp in accept mode)
+non mesuré: dl-protect.link/accept (blocked: captcha)
+non mesuré: drawnames.fr/refuse (no-cmp in accept mode)
+non mesuré: duckduckgo.com/refuse (no-cmp in accept mode)
+non mesuré: easydoct.com/refuse (no-cmp in accept mode)
+non mesuré: easyjet.com/accept (blocked: blocked-page)
+non mesuré: easypara.fr/refuse (blocked: http-403)
+non mesuré: ebay.com/accept (blocked: http-403)
+non mesuré: ebay.fr/accept (blocked: http-403)
+non mesuré: ecoledirecte.com/refuse (no-cmp in accept mode)
+non mesuré: education.gouv.fr/refuse (no-cmp in accept mode)
+non mesuré: effitrace.fr/accept (blocked: http-403)
+non mesuré: emploi-territorial.fr/refuse (no-cmp in accept mode)
+non mesuré: enthdf.fr/refuse (no-cmp in accept mode)
+non mesuré: epicgames.com/refuse (no-cmp in accept mode)
+non mesuré: escorte.com/refuse (no-cmp in accept mode)
+non mesuré: espace-citoyens.net/refuse (no-cmp in accept mode)
+non mesuré: etsy.com/accept (blocked: http-403)
+non mesuré: etudiant.gouv.fr/refuse (no-cmp in accept mode)
+non mesuré: eurotel.fr/refuse (no-cmp in accept mode)
+non mesuré: examens-concours.gouv.fr/refuse (no-cmp in accept mode)
+non mesuré: expedia.fr/accept (blocked: http-429)
+non mesuré: fanfiction.net/refuse (no-cmp in accept mode)
+non mesuré: fanfox.net/refuse (no-cmp in accept mode)
+non mesuré: fdj.fr/accept (blocked: captcha)
+non mesuré: feuvert.fr/accept (blocked: http-403)
+non mesuré: finances.gouv.fr/refuse (no-cmp in accept mode)
+non mesuré: fischipedia.org/accept (blocked: http-403)
+non mesuré: flowup.shop/refuse (no-cmp in accept mode)
+non mesuré: fortnitetracker.com/accept (blocked: http-403)
+non mesuré: forum-militaire.fr/refuse (no-cmp in accept mode)
+non mesuré: fourmizzz.fr/refuse (no-cmp in accept mode)
+non mesuré: framadate.org/refuse (no-cmp in accept mode)
+non mesuré: franceconnect.gouv.fr/refuse (no-cmp in accept mode)
+non mesuré: franime.fr/refuse (no-cmp in accept mode)
+non mesuré: fut.gg/refuse (no-cmp in accept mode)
+non mesuré: g-trouve.com/refuse (no-cmp in accept mode)
+non mesuré: g2nft.com/refuse (no-cmp in accept mode)
+non mesuré: gameapp-itm.fr/refuse (no-cmp in accept mode)
+non mesuré: gayfute.com/refuse (no-cmp in accept mode)
+non mesuré: gaym.com/refuse (no-cmp in accept mode)
+non mesuré: generationbi.com/refuse (no-cmp in accept mode)
+non mesuré: genius.com/accept (blocked: http-403)
+non mesuré: github.com/refuse (no-cmp in accept mode)
+non mesuré: glnf.fr/accept (blocked: captcha)
+non mesuré: globalprimereport.com/refuse (no-cmp in accept mode)
+non mesuré: gonewildday.com/refuse (no-cmp in accept mode)
+non mesuré: goodmeal.fr/refuse (no-cmp in accept mode)
+non mesuré: gpdis.com/refuse (no-cmp in accept mode)
+non mesuré: hai8g.com/refuse (no-cmp in accept mode)
+non mesuré: hankooktire.com/refuse (no-cmp in accept mode)
+non mesuré: harmobil.fr/refuse (no-cmp in accept mode)
+non mesuré: hglycee.fr/refuse (no-cmp in accept mode)
+non mesuré: hm.com/accept (blocked: http-403)
+non mesuré: hoka.com/accept (blocked: http-403)
+non mesuré: homecinesolutions.fr/refuse (blocked: captcha)
+non mesuré: hubspot.com/refuse (no-cmp in accept mode)
+non mesuré: ient.fr/refuse (no-cmp in accept mode)
+non mesuré: imdb.com/accept (blocked: challenge)
+non mesuré: imgsrc.ru/refuse (no-cmp in accept mode)
+non mesuré: immo-pour-vous.fr/refuse (no-cmp in accept mode)
+non mesuré: imonecho.com/refuse (no-cmp in accept mode)
+non mesuré: impots/refuse (no-cmp in accept mode)
+non mesuré: intermarche.com/accept (blocked: http-403)
+non mesuré: intersport.fr/accept (blocked: http-403)
+non mesuré: isp.golf/refuse (no-cmp in accept mode)
+non mesuré: ivdid.com/refuse (no-cmp in accept mode)
+non mesuré: jcphi.com/refuse (no-cmp in accept mode)
+non mesuré: jechange.fr/refuse (no-cmp in accept mode)
+non mesuré: jeuxvideo.com/accept (blocked: http-403)
+non mesuré: joom.com/accept (blocked: http-429)
+non mesuré: joybuy.fr/refuse (no-cmp in accept mode)
+non mesuré: kakamanga.com/refuse (no-cmp in accept mode)
+non mesuré: keops-ingenierie.fr/refuse (no-cmp in accept mode)
+non mesuré: kiabi.com/accept (blocked: captcha)
+non mesuré: kikocosmetics.com/refuse (blocked: challenge)
+non mesuré: king-jouet.com/accept (blocked: captcha)
+non mesuré: klikego.com/refuse (no-cmp in accept mode)
+non mesuré: kyara.games/refuse (no-cmp in accept mode)
+non mesuré: laboutiqueofficielle.com/refuse (blocked: http-403)
+non mesuré: lacentrale.fr/refuse (blocked: http-403)
+non mesuré: ladyxena.com/refuse (no-cmp in accept mode)
+non mesuré: leclercdrive.fr/refuse (blocked: http-403)
+non mesuré: lelscans.net/refuse (no-cmp in accept mode)
+non mesuré: lepetitvapoteur.com/accept (blocked: captcha)
+non mesuré: lepoint.fr/accept (blocked: http-403)
+non mesuré: leroymerlin.com/refuse (no-cmp in accept mode)
+non mesuré: lespompeurs.com/refuse (no-cmp in accept mode)
+non mesuré: lesrebeus.com/refuse (no-cmp in accept mode)
+non mesuré: letterboxd.com/accept (blocked: captcha)
+non mesuré: liberation.fr/accept (blocked: http-403)
+non mesuré: lichess.org/refuse (no-cmp in accept mode)
+non mesuré: liquipedia.net/accept (blocked: http-403)
+non mesuré: livebyoptimum.com/refuse (no-cmp in accept mode)
+non mesuré: liveffn.com/refuse (no-cmp in accept mode)
+non mesuré: livetrail.net/refuse (no-cmp in accept mode)
+non mesuré: loccitane.com/accept (blocked: captcha)
+non mesuré: logic-immo.com/refuse (blocked: http-403)
+non mesuré: louisvuitton.com/accept (blocked: http-403)
+non mesuré: lovetrans.com/refuse (no-cmp in accept mode)
+non mesuré: luugy.com/refuse (no-cmp in accept mode)
+non mesuré: ma-queue.com/refuse (no-cmp in accept mode)
+non mesuré: maaf.fr/accept (blocked: http-403)
+non mesuré: macif.fr/accept (blocked: http-403)
+non mesuré: macifvie.fr/refuse (blocked: http-403)
+non mesuré: mahjong.fr/refuse (no-cmp in accept mode)
+non mesuré: maieuticapp.com/refuse (no-cmp in accept mode)
+non mesuré: mailo.com/refuse (no-cmp in accept mode)
+non mesuré: maisonsdumonde.com/accept (blocked: captcha)
+non mesuré: majuscule.com/accept (blocked: http-403)
+non mesuré: manga-scantrad.io/accept (blocked: http-403)
+non mesuré: mangago.me/refuse (no-cmp in accept mode)
+non mesuré: mangas-origines.fr/accept (blocked: captcha)
+non mesuré: manualslib.fr/accept (blocked: http-403)
+non mesuré: masjidbox.com/refuse (no-cmp in accept mode)
+non mesuré: maximiles.com/refuse (no-cmp in accept mode)
+non mesuré: mc2g-app.com/refuse (no-cmp in accept mode)
+non mesuré: mcdonalds.fr/accept (blocked: http-503)
+non mesuré: medallia.eu/refuse (no-cmp in accept mode)
+non mesuré: mesenvies.fr/refuse (no-cmp in accept mode)
+non mesuré: meteo-npdc.fr/refuse (no-cmp in accept mode)
+non mesuré: meyson.fr/accept (blocked: captcha)
+non mesuré: mgread.io/refuse (no-cmp in accept mode)
+non mesuré: milesrepublic.com/refuse (no-cmp in accept mode)
+non mesuré: military.eu/accept (blocked: http-403)
+non mesuré: mischool.fr/refuse (no-cmp in accept mode)
+non mesuré: misterbooking.com/refuse (no-cmp in accept mode)
+non mesuré: mlab-groupe.fr/refuse (no-cmp in accept mode)
+non mesuré: monbureaunumerique.fr/refuse (no-cmp in accept mode)
+non mesuré: mr-bricolage.fr/refuse (no-cmp in accept mode)
+non mesuré: msa.fr/refuse (no-cmp in accept mode)
+non mesuré: myextrabat.com/refuse (no-cmp in accept mode)
+non mesuré: mypeopledoc.com/accept (blocked: challenge)
+non mesuré: namemc.com/refuse (no-cmp in accept mode)
+non mesuré: naturabuy.fr/refuse (no-cmp in accept mode)
+non mesuré: newspulsenow.net/refuse (no-cmp in accept mode)
+non mesuré: nexxchange.com/refuse (no-cmp in accept mode)
+non mesuré: nihaojewelry.com/refuse (no-cmp in accept mode)
+non mesuré: nocibe.fr/accept (blocked: blocked-page)
+non mesuré: norauto.fr/accept (blocked: http-403)
+non mesuré: numerique.gouv.fr/refuse (no-cmp in accept mode)
+non mesuré: occe.coop/refuse (no-cmp in accept mode)
+non mesuré: octobre-editions.com/accept (blocked: http-403)
+non mesuré: office.com/refuse (no-cmp in accept mode)
+non mesuré: office365.com/refuse (no-cmp in accept mode)
+non mesuré: okaidi.fr/accept (blocked: http-403)
+non mesuré: omg10.com/refuse (no-cmp in accept mode)
+non mesuré: onestock-retail.com/refuse (no-cmp in accept mode)
+non mesuré: onseconnait.com/refuse (no-cmp in accept mode)
+non mesuré: openai.com/refuse (blocked: captcha)
+non mesuré: oxantis.net/refuse (no-cmp in accept mode)
+non mesuré: palombe.com/refuse (no-cmp in accept mode)
+non mesuré: pap.fr/accept (blocked: http-403)
+non mesuré: pappers.fr/refuse (no-cmp in accept mode)
+non mesuré: paypal.com/refuse (blocked: http-403)
+non mesuré: pkup.fr/accept (blocked: http-403)
+non mesuré: pokepedia.fr/refuse (no-cmp in accept mode)
+non mesuré: poseidon-scans.net/refuse (no-cmp in accept mode)
+non mesuré: primeearn.com/refuse (no-cmp in accept mode)
+non mesuré: privatemodele.com/refuse (no-cmp in accept mode)
+non mesuré: prix-carburants.gouv.fr/refuse (no-cmp in accept mode)
+non mesuré: questionablequesting.com/refuse (no-cmp in accept mode)
+non mesuré: quora.com/accept (blocked: http-403)
+non mesuré: qwant.com/refuse (no-cmp in accept mode)
+non mesuré: racingzone.fr/refuse (no-cmp in accept mode)
+non mesuré: rallye-lecture.fr/refuse (no-cmp in accept mode)
+non mesuré: rateyourmusic.com/accept (blocked: http-403)
+non mesuré: ratp.fr/refuse (blocked: captcha)
+non mesuré: ravelry.com/refuse (no-cmp in accept mode)
+non mesuré: rdvasos.fr/refuse (no-cmp in accept mode)
+non mesuré: rdvdentiste.net/refuse (no-cmp in accept mode)
+non mesuré: rebrickable.com/refuse (no-cmp in accept mode)
+non mesuré: renault.com/refuse (no-cmp in accept mode)
+non mesuré: renole.com/refuse (no-cmp in accept mode)
+non mesuré: researchgate.net/accept (blocked: http-403)
+non mesuré: retraites.fr/accept (blocked: http-403)
+non mesuré: retro-stage.fr/refuse (no-cmp in accept mode)
+non mesuré: rika-firenet.com/refuse (no-cmp in accept mode)
+non mesuré: routard.com/refuse (no-cmp in accept mode)
+non mesuré: rue-des-puzzles.com/refuse (no-cmp in accept mode)
+non mesuré: savefrom.net/refuse (no-cmp in accept mode)
+non mesuré: search-io.com/refuse (no-cmp in accept mode)
+non mesuré: search-redirect.com/refuse (no-cmp in accept mode)
+non mesuré: search-sprint.com/refuse (no-cmp in accept mode)
+non mesuré: selectra.info/refuse (no-cmp in accept mode)
+non mesuré: seloger.com/accept (blocked: http-403)
+non mesuré: sesamath.net/refuse (no-cmp in accept mode)
+non mesuré: sexylib.com/refuse (no-cmp in accept mode)
+non mesuré: sezane.com/accept (blocked: http-403)
+non mesuré: sharkninja.fr/accept (blocked: http-403)
+non mesuré: sips-services.com/refuse (no-cmp in accept mode)
+non mesuré: skyscanner.fr/accept (blocked: challenge)
+non mesuré: smartingly.com/refuse (no-cmp in accept mode)
+non mesuré: smythstoys.com/refuse (no-cmp in accept mode)
+non mesuré: snapchat.com/refuse (no-cmp in accept mode)
+non mesuré: sncf-connect.com/accept (blocked: http-403)
+non mesuré: sncf.com/refuse (blocked: captcha)
+non mesuré: sofifa.com/accept (blocked: http-403)
+non mesuré: stardewvalleywiki.com/refuse (no-cmp in accept mode)
+non mesuré: steamdb.info/accept (blocked: http-403)
+non mesuré: surveycenter.com/refuse (no-cmp in accept mode)
+non mesuré: swgoh.gg/refuse (no-cmp in accept mode)
+non mesuré: t.me/refuse (no-cmp in accept mode)
+non mesuré: tamildhool.tech/refuse (no-cmp in accept mode)
+non mesuré: tecnomat.fr/refuse (blocked: http-403)
+non mesuré: telemat.org/refuse (no-cmp in accept mode)
+non mesuré: terredemarins.fr/accept (blocked: captcha)
+non mesuré: tescort.com/refuse (no-cmp in accept mode)
+non mesuré: thalasseo.com/refuse (no-cmp in accept mode)
+non mesuré: tolunastart.com/refuse (no-cmp in accept mode)
+non mesuré: totalenergies.com/refuse (no-cmp in accept mode)
+non mesuré: toutatice.fr/refuse (no-cmp in accept mode)
+non mesuré: transtrav.com/refuse (no-cmp in accept mode)
+non mesuré: tripadvisor.com/accept (blocked: http-403)
+non mesuré: tripadvisor.fr/refuse (blocked: http-403)
+non mesuré: trustpilot.com/accept (blocked: http-403)
+non mesuré: u-pariscite.fr/refuse (no-cmp in accept mode)
+non mesuré: ube.fr/refuse (no-cmp in accept mode)
+non mesuré: uniqlo.com/accept (blocked: blocked-page)
+non mesuré: univ-angers.fr/refuse (no-cmp in accept mode)
+non mesuré: univ-lorraine.fr/refuse (no-cmp in accept mode)
+non mesuré: univ-lyon1.fr/refuse (no-cmp in accept mode)
+non mesuré: univ-rennes.fr/refuse (no-cmp in accept mode)
+non mesuré: viamichelin.fr/accept (blocked: http-403)
+non mesuré: visiodent.com/refuse (no-cmp in accept mode)
+non mesuré: voir-anime.to/refuse (no-cmp in accept mode)
+non mesuré: wattpad.com/refuse (no-cmp in accept mode)
+non mesuré: weldom.fr/accept (blocked: http-403)
+non mesuré: wellaray.com/refuse (no-cmp in accept mode)
+non mesuré: whatsapp.com/refuse (no-cmp in accept mode)
+non mesuré: wiki-masters.com/accept (blocked: captcha)
+non mesuré: wikipedia.org/refuse (no-cmp in accept mode)
+non mesuré: wikisource.org/refuse (no-cmp in accept mode)
+non mesuré: wordreference.com/refuse (no-cmp in accept mode)
+non mesuré: wordwall.net/refuse (no-cmp in accept mode)
+non mesuré: worldofshinobi.com/refuse (no-cmp in accept mode)
+non mesuré: wyylde.com/refuse (no-cmp in accept mode)
+non mesuré: z-library.sk/accept (blocked: http-503)
+non mesuré: zeendoc.com/refuse (no-cmp in accept mode)
+baseline about:blank: page 28.4 MB, browser+GPU 130.2 MB
+site            mode    n page MB (median [min-max])  CV     3P 3P+ proc consent
+01net.com       accept  3 868.5 [825.8-891.9]         0.039  90% 91%  24   accepted:Sirdata tcf:ok
+01net.com       refuse  5 71.4 [70.1-153.7]           0.429  18% 19%  1    refused:Sirdata tcf:ok,no-stored-choice
+1001jeux.fr     accept  3 63.4 [63.1-63.4]            0.003  16% 17%  1    accepted:Onetrust tcf:ok
+1001jeux.fr     refuse  3 54.3 [53.9-54.4]            0.005  8%  9%   1    refused:Onetrust tcf:MISMATCH:834-vendors-consented
+1001pneus.fr    accept  0 BLOCKED/ERROR captcha
+123loger.com    accept  3 87.6 [86-88]                0.012  13% 13%  1    accepted:axeptio-tcf tcf:ok
+123loger.com    refuse  3 74.1 [74-75.5]              0.011  9%  9%   1    refused:axeptio-tcf tcf:ok
+20minutes       accept  5 960.1 [457.2-1013.3]        0.269  84% 85%  25   accepted:didomi tcf:ok
+20minutes       refuse  3 87.8 [85.9-89]              0.018  9%  9%   1    refused:didomi+redirect tcf:no-stored-choice
+2osb.com        accept  3 33.8 [33.7-33.9]            0.002  3%  3%   1    no-cmp tcf:no-tcf
+50factory.com   accept  3 146 [144.3-147.1]           0.01   45% 46%  3    accepted:Cybotcookiebot tcf:no-tcf
+50factory.com   refuse  3 132.4 [131.5-132.9]         0.005  48% 48%  3    refused:Cybotcookiebot tcf:no-tcf
+750g.com        accept  5 163.8 [143.8-179.6]         0.084  15% 32%  1    error tcf:no-stored-choice
+750g.com        refuse  3 274.3 [266.6-274.8]         0.017  19% 21%  2    refused:didomi tcf:ok
+abcbourse.com   accept  3 1100.8 [1046.4-1120.5]      0.035  93% 93%  30   accepted:Sirdata tcf:ok
+abcbourse.com   refuse  5 376.4 [370.9-461.5]         0.099  80% 81%  10   refused:Sirdata tcf:ok
+abola.pt        accept  5 1466.6 [1333.8-1675.1]      0.103  78% 79%  33   accepted:Onetrust tcf:ok
+abola.pt        refuse  5 377.8 [291.6-570.2]         0.263  28% 31%  3    refused:Onetrust tcf:ok
+accuweather.com accept  5 247.1 [181.1-350.3]         0.248  70% 72%  5    accepted:ketch tcf:ok
+accuweather.com refuse  5 136.2 [92.9-145.9]          0.185  46% 48%  2    refused:ketch tcf:ok
+action.com      accept  0 BLOCKED/ERROR http-403
+action.com      refuse  0 BLOCKED/ERROR http-403
+actu.fr         accept  4 1316.5 [1250.5-1388.3]      0.047  87% 88%  33   accepted:didomi tcf:ok
+actu.fr         refuse  3 99.8 [94.3-102.4]           0.042  7%  7%   1    refused:didomi+redirect tcf:no-stored-choice
+adkami.com      accept  5 152.3 [90.8-162]            0.206  25% 26%  2    no-cmp tcf:no-tcf
+adopt.com       accept  3 222.6 [217-237.5]           0.047  45% 46%  4    accepted:didomi tcf:no-tcf
+adopt.com       refuse  3 140.6 [140.3-142.3]         0.008  26% 27%  2    refused:didomi tcf:no-tcf
+agenda-loto.net accept  5 551.6 [480.6-985.1]         0.312  87% 89%  16   accepted:quantcast tcf:ok
+agenda-loto.net refuse  5 118.6 [79.8-133.3]          0.208  41% 45%  2    refused:quantcast tcf:ok
+ageverif.com    accept  3 37.6 [37.4-38]              0.009  1%  1%   1    no-cmp tcf:no-tcf
+agirc-arrco.fr  accept  5 76.7 [68.5-80]              0.058  2%  2%   1    accepted:espace-personnel.agirc-arrco.fr tcf:no-tcf
+agirc-arrco.fr  refuse  5 77.4 [69-78.5]              0.053  2%  2%   1    refused:espace-personnel.agirc-arrco.fr tcf:no-tcf
+agriaffaires.com accept  0 BLOCKED/ERROR http-403
+agriculture.gouv.fr accept  3 33.6 [33.3-33.8]            0.007  0%  0%   1    no-cmp tcf:no-tcf
+airalgerie.dz   accept  3 144 [141.8-149.7]           0.028  35% 36%  2    detected-no-action:cookies-and-content-security-policy tcf:no-tcf
+airalgerie.dz   refuse  3 143 [141.6-145.4]           0.013  36% 37%  2    detected-no-action:cookies-and-content-security-policy tcf:no-tcf
+airbnb.fr       accept  3 230.9 [229.6-232.2]         0.006  33% 33%  2    accepted:airbnb tcf:no-tcf
+airbnb.fr       refuse  3 203.5 [201.5-205.3]         0.009  24% 25%  1    refused:airbnb tcf:no-tcf
+airfrance.fr    accept  5 106.9 [30.2-120.7]          0.385  8%  9%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+airfrance.fr    refuse  5 107.8 [30-124.2]            0.392  8%  8%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+al-in.fr        accept  5 109.8 [70.4-111.4]          0.232  3%  3%   1    accepted:cookiefirst.com tcf:no-tcf
+al-in.fr        refuse  5 106.4 [65.7-107]            0.245  1%  1%   1    refused:cookiefirst.com tcf:no-tcf
+alcopa-auction.fr accept  3 173.3 [173.3-176.3]         0.01   56% 56%  3    accepted:Cybotcookiebot tcf:no-tcf
+alcopa-auction.fr refuse  3 98.7 [97.9-104.6]           0.036  29% 29%  2    refused:Cybotcookiebot tcf:no-tcf
+aleteia.org     accept  3 94.1 [92.3-95]              0.015  7%  7%   1    detected-no-action:didomi tcf:MISMATCH:0-vendors
+aleteia.org     refuse  3 92.2 [91.5-93.7]            0.012  7%  7%   1    detected-no-action:didomi tcf:ok
+alibaba.com     accept  3 186.3 [183.6-192.6]         0.025  30% 33%  2    no-cmp tcf:no-tcf
+aliexpress.com  accept  5 244.1 [197.2-246.2]         0.091  56% 58%  3    accepted:aliexpress tcf:no-tcf
+aliexpress.com  refuse  5 191.8 [142.9-195.7]         0.123  51% 52%  2    refused:aliexpress tcf:no-tcf
+allcaps.eu      accept  3 41.6 [41.4-42.3]            0.012  0%  0%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+allcaps.eu      refuse  3 41.3 [41.2-41.6]            0.004  0%  0%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+allocine.fr     accept  3 103.3 [101.3-104.5]         0.016  24% 35%  1    error tcf:no-stored-choice
+allocine.fr     refuse  3 208.9 [208.5-210]           0.004  49% 50%  2    refused:didomi tcf:ok
+allovoisins.com accept  3 84.2 [83.4-85]              0.01   10% 10%  1    accepted:didomi tcf:no-tcf
+allovoisins.com refuse  3 76 [74.7-77]                0.015  9%  9%   1    refused:didomi tcf:no-tcf
+alltricks.fr    accept  0 BLOCKED/ERROR http-403
+alltricks.fr    refuse  0 BLOCKED/ERROR http-403
+almerys.com     accept  3 46.4 [45.9-47]              0.012  17% 18%  1    no-cmp tcf:no-tcf
+amazon          accept  5 473.5 [404-752.6]           0.262  6%  6%   2    accepted:amazon.com tcf:ok
+amazon          refuse  5 718.9 [401.9-850.1]         0.303  4%  4%   2    no-cmp tcf:ok
+amazon.com      accept  3 410.7 [408.9-422.5]         0.018  9%  10%  2    detected-no-action:amazon.com tcf:no-tcf
+amazon.com      refuse  5 363.7 [326-409.5]           0.093  10% 12%  2    detected-no-action:amazon.com tcf:no-tcf
+amazon.de       accept  5 534.9 [409.8-655.7]         0.167  8%  9%   2    accepted:amazon.com tcf:ok
+amazon.de       refuse  5 732.4 [291.2-780.7]         0.319  5%  7%   2    refused:amazon.com tcf:ok
+ameli           accept  3 50.6 [49.8-51.4]            0.016  9%  10%  1    accepted:orejime tcf:no-tcf
+ameli           refuse  3 45 [45-45.6]                0.008  4%  4%   1    refused:orejime tcf:no-tcf
+amiez.org       accept  4 41.9 [38.7-43.5]            0.048  1%  1%   1    no-cmp tcf:no-tcf
+anagrammeur.com accept  5 263.3 [227.2-342.1]         0.186  81% 81%  6    accepted:funding-choices tcf:no-tcf
+anagrammeur.com refuse  5 152.2 [139.6-158.2]         0.046  68% 68%  3    refused:funding-choices tcf:no-tcf
+anime-sama.to   accept  3 116.8 [113-117.2]           0.02   4%  6%   1    no-cmp tcf:no-tcf
+antai.gouv.fr   accept  3 39.2 [38.9-39.7]            0.009  0%  0%   1    no-cmp tcf:no-tcf
+ants.gouv.fr    accept  3 49.1 [49-51.4]              0.027  0%  0%   1    no-cmp tcf:no-tcf
+aon.fr          accept  3 40.6 [40.2-42.4]            0.029  0%  0%   1    no-cmp tcf:no-tcf
+aosom.fr        accept  3 201.5 [196.1-204]           0.02   38% 39%  4    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+aosom.fr        refuse  5 199.1 [191.1-234.8]         0.087  32% 35%  4    no-cmp tcf:no-tcf
+apimo.pro       accept  3 69.1 [68.6-73.4]            0.037  45% 45%  2    no-cmp tcf:no-tcf
+apple.com       accept  3 74.1 [73.2-74.9]            0.012  0%  0%   1    no-cmp tcf:no-tcf
+aquitaineonline.com accept  5 173.6 [134.4-283.4]         0.309  58% 58%  4    accepted:Sirdata tcf:ok
+aquitaineonline.com refuse  5 103 [76.1-108.6]            0.172  35% 36%  2    refused:Sirdata tcf:ok,no-stored-choice
+aramisauto.com  accept  3 131.8 [131.4-134.7]         0.013  33% 33%  2    accepted:didomi tcf:ok
+aramisauto.com  refuse  3 120.9 [116.4-122.9]         0.028  35% 35%  2    refused:didomi tcf:ok
+archiveofourown.org accept  5 33.4 [28.9-33.6]            0.063  0%  0%   1    no-cmp tcf:no-tcf
+armandthiery.fr accept  3 81.1 [80.9-83.6]            0.018  11% 12%  1    accepted:axeptio tcf:no-tcf
+armandthiery.fr refuse  3 73 [72.7-73.1]              0.003  10% 11%  1    refused:axeptio tcf:no-tcf
+armurerie-lavaux.com accept  3 85.8 [84.9-87.3]            0.015  0%  0%   1    no-cmp tcf:no-tcf
+armurerie-loisir.fr accept  3 89 [88.5-89.8]              0.007  47% 47%  2    detected-no-action:HEURISTIC-TIER2 tcf:no-tcf
+armurerie-loisir.fr refuse  3 89.3 [88.9-90]              0.006  47% 47%  2    refused:HEURISTIC-TIER2 tcf:no-tcf
+aroma-zone.com  accept  0 BLOCKED/ERROR http-403
+aroma-zone.com  refuse  0 BLOCKED/ERROR http-403
+as3-2byoptimum.com accept  3 102.9 [102-103.4]           0.007  0%  0%   1    no-cmp tcf:no-tcf
+asos.com        accept  5 294.4 [259.9-302.1]         0.058  58% 58%  6    accepted:Onetrust tcf:ok
+asos.com        refuse  5 221.2 [189.8-226.5]         0.07   46% 46%  4    refused:Onetrust tcf:ok
+asurascans.com  accept  5 132.8 [64.6-139]            0.359  0%  0%   1    no-cmp tcf:no-tcf
+atelio-pro.com  accept  3 30.3 [30.2-32.3]            0.039  0%  0%   1    no-cmp tcf:no-tcf
+aternos.org     accept  3 483.7 [483.1-501.1]         0.021  59% 74%  9    accepted:Admiral tcf:ok
+aternos.org     refuse  5 487.1 [475.6-589.5]         0.107  60% 74%  9    refused:HEURISTIC-TIER2 tcf:MISMATCH:949-vendors-consented
+atida.fr        accept  3 135.2 [131.4-136.5]         0.02   10% 11%  1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+atida.fr        refuse  3 133 [126.4-134.6]           0.033  10% 11%  1    refused:HEURISTIC-REJECT tcf:no-tcf
+atlasformen.fr  accept  3 169 [166.8-176.3]           0.029  49% 49%  3    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+atlasformen.fr  refuse  3 170.2 [169.4-174.9]         0.017  48% 49%  3    refused:HEURISTIC-REJECT tcf:no-tcf
+atmosphera.com  accept  5 476.5 [408-504.4]           0.085  19% 24%  3    accepted:axeptio tcf:no-tcf
+atmosphera.com  refuse  5 331.4 [304.3-387.2]         0.092  17% 18%  2    refused:axeptio tcf:no-tcf
+auchan          accept  3 158.6 [157-159.5]           0.008  47% 47%  3    accepted:Onetrust tcf:no-tcf
+auchan          refuse  3 77.1 [76-79.5]              0.023  6%  6%   1    refused:Onetrust tcf:no-tcf
+autohero.com    accept  3 177.8 [176.5-178.8]         0.007  43% 43%  3    accepted:autohero tcf:no-tcf
+autohero.com    refuse  3 129.6 [126.6-130.2]         0.015  29% 30%  2    refused:autohero tcf:no-tcf
+autojournal.fr  accept  5 1735.4 [1532.5-1937.1]      0.083  90% 91%  42   accepted:didomi tcf:ok
+autojournal.fr  refuse  3 260.4 [247.5-262.6]         0.032  43% 46%  3    refused:didomi tcf:ok
+automobile-magazine.fr accept  3 1665.8 [1646.6-1801.9]      0.05   93% 94%  41   accepted:didomi tcf:ok
+automobile-magazine.fr refuse  3 234.7 [231.1-235.6]         0.01   61% 66%  3    refused:didomi tcf:ok
+autoplus.fr     accept  5 265.4 [233.4-314.2]         0.125  50% 51%  4    accepted:didomi tcf:ok
+autoplus.fr     refuse  3 141.7 [140.6-142.7]         0.007  22% 24%  1    refused:didomi tcf:ok
+autossimo.com   accept  3 78 [77.5-79.2]              0.012  38% 39%  2    accepted:consentmanager.net tcf:no-tcf
+autossimo.com   refuse  3 76.1 [76-79.6]              0.027  40% 40%  2    refused:consentmanager.net tcf:no-tcf
+autoviza.fr     accept  3 45.4 [45.3-46.9]            0.019  1%  2%   1    no-cmp tcf:no-tcf
+axepta.bnpparibas accept  3 65.9 [63.8-66.8]            0.023  2%  3%   1    accepted:Onetrust tcf:no-tcf
+axepta.bnpparibas refuse  3 65 [64.5-65.7]              0.009  2%  3%   1    refused:Onetrust tcf:no-tcf
+axonaut.com     accept  3 134 [133.8-137]             0.013  34% 34%  2    accepted:didomi tcf:no-tcf
+axonaut.com     refuse  3 126 [126-126.3]             0.001  35% 35%  2    refused:didomi tcf:no-tcf
+badoo.com       accept  3 61.4 [61.2-65.6]            0.04   2%  2%   1    accepted:Sourcepoint-frame tcf:ok
+badoo.com       refuse  3 61.7 [61.2-63.3]            0.018  2%  2%   1    refused:Sourcepoint-frame tcf:ok
+banquepopulaire.fr accept  3 122.3 [122.2-123.2]         0.005  32% 33%  2    accepted:Tealium tcf:no-tcf
+banquepopulaire.fr refuse  3 79.3 [79.1-80.2]            0.008  6%  7%   1    refused:Tealium tcf:no-tcf
+bazarchic.com   accept  5 122.6 [116.7-168.5]         0.193  8%  10%  1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+bazarchic.com   refuse  3 133.6 [133.3-137.8]         0.019  9%  10%  1    refused:HEURISTIC-REJECT tcf:no-tcf
+bbc.com         accept  3 1090.3 [1014.7-1097.8]      0.043  86% 87%  27   accepted:Sourcepoint-frame tcf:ok
+bbc.com         refuse  5 246 [193-278]               0.142  45% 47%  3    refused:Sourcepoint-frame tcf:ok
+beauteprivee.fr accept  3 309.6 [309.5-315.6]         0.011  28% 28%  4    accepted:axeptio-tcf tcf:ok
+beauteprivee.fr refuse  5 218.1 [212.2-250.1]         0.079  23% 23%  3    refused:axeptio-tcf tcf:ok
+bebe9.com       accept  3 106.4 [106-107.1]           0.005  4%  4%   1    accepted:cookieyes tcf:no-tcf
+bebe9.com       refuse  3 100.3 [98.9-100.7]          0.01   1%  2%   1    refused:cookieyes tcf:no-tcf
+beneylu.com     accept  3 76.5 [75.1-77.3]            0.014  10% 14%  1    no-cmp tcf:no-tcf
+bergeredefrance.fr accept  4 99.8 [96.2-106.4]           0.043  6%  7%   1    accepted:axeptio tcf:no-tcf
+bergeredefrance.fr refuse  3 99.3 [95.4-99.6]            0.024  6%  6%   1    refused:axeptio tcf:no-tcf
+beta.gouv.fr    accept  5 116.2 [104.7-116.7]         0.046  0%  0%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+beta.gouv.fr    refuse  3 120.1 [119.8-120.8]         0.004  1%  1%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+betclic.fr      accept  3 125.3 [124.7-132]           0.032  2%  2%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+betclic.fr      refuse  5 151.5 [135.2-170.1]         0.094  1%  1%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+bfmtv.com       accept  3 1968.4 [1863.7-2021]        0.041  92% 92%  52   accepted:didomi tcf:ok
+bfmtv.com       refuse  4 262.3 [238.7-307]           0.107  29% 31%  3    refused:didomi, tcf:ok,no-tcf
+bibamagazine.fr accept  3 93.4 [91.9-96.2]            0.023  22% 23%  1    no-cmp tcf:no-tcf
+bienici.com     accept  5 261.9 [240.9-332.9]         0.151  61% 61%  6    accepted:didomi tcf:ok
+bienici.com     refuse  3 147.1 [146.5-148]           0.005  30% 30%  2    refused:didomi tcf:ok
+bienmanger.com  accept  3 62.2 [62.1-63.1]            0.008  11% 12%  1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+bienmanger.com  refuse  3 62.5 [62.1-63.6]            0.012  12% 12%  1    refused:HEURISTIC-REJECT tcf:no-tcf
+bienpublic.com  accept  3 1284.3 [1249.1-1328]        0.031  89% 90%  33   accepted:didomi tcf:ok
+bienpublic.com  refuse  3 81.7 [81.5-83.2]            0.011  16% 17%  1    refused:didomi tcf:no-stored-choice
+billetreduc.com accept  5 514.2 [502.7-561.1]         0.044  18% 20%  3    accepted:didomi tcf:no-tcf
+billetreduc.com refuse  5 391.6 [303-476.2]           0.187  6%  10%  1    refused:didomi tcf:no-tcf
+billetsdiscount.com accept  3 128 [119.1-129.6]           0.045  10% 10%  1    no-cmp tcf:no-tcf
+billetweb.fr    accept  3 240.7 [238-241.6]           0.008  33% 33%  3    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+billetweb.fr    refuse  3 237.1 [235.8-241.8]         0.013  33% 34%  3    refused:HEURISTIC-REJECT tcf:no-tcf
+bing.com        accept  3 387.8 [375-388.5]           0.02   0%  0%   1    accepted:bing.com tcf:no-tcf
+bing.com        refuse  3 368.8 [361.9-375.3]         0.018  0%  0%   1    refused:bing.com tcf:no-tcf
+biocoop.fr      accept  3 116.9 [115.8-118.3]         0.01   5%  5%   1    accepted:Onetrust tcf:no-tcf
+biocoop.fr      refuse  3 108.5 [108.4-112.2]         0.02   5%  5%   1    refused:Onetrust tcf:no-tcf
+blackview.hk    accept  5 248.9 [238.9-366.3]         0.202  42% 43%  2    no-cmp tcf:no-tcf
+bladi.net       accept  5 286.1 [258.1-307.6]         0.065  82% 83%  6    accepted:Sirdata tcf:ok
+bladi.net       refuse  3 149.3 [141.7-152.2]         0.037  67% 68%  3    refused:Sirdata tcf:ok
+blancheporte.fr accept  5 174.2 [161.2-233.7]         0.162  4%  6%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+blancheporte.fr refuse  5 176.7 [151.6-231.5]         0.16   4%  6%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+blog-rct.com    accept  5 1984.3 [1763.5-2249.6]      0.107  92% 93%  45   accepted:quantcast tcf:ok
+blog-rct.com    refuse  5 481.2 [433.1-563]           0.111  46% 59%  5    refused:quantcast tcf:ok
+bmstores.fr     accept  3 179.8 [175.8-183.7]         0.022  20% 22%  2    accepted:Cybotcookiebot tcf:no-tcf
+bmstores.fr     refuse  3 168.5 [163.2-174.3]         0.033  21% 23%  2    refused:Cybotcookiebot tcf:no-tcf
+bmw.fr          accept  3 143.9 [143.6-145.3]         0.006  32% 33%  2    accepted:epaas tcf:no-tcf
+bmw.fr          refuse  3 89.7 [88.1-90.2]            0.012  6%  7%   1    refused:epaas tcf:no-tcf
+bnpparibas.net  accept  3 31.5 [31.4-32.4]            0.017  0%  0%   1    no-cmp tcf:no-tcf
+boardgamearena.com accept  3 104.5 [104.2-105.1]         0.004  20% 22%  1    accepted:didomi tcf:no-tcf
+boardgamearena.com refuse  3 104.5 [104.2-104.5]         0.002  20% 22%  1    refused:didomi tcf:no-tcf
+bobbies.com     accept  0 BLOCKED/ERROR http-403
+bonoboplanet.com accept  5 154 [138.7-195]             0.133  52% 52%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+bonoboplanet.com refuse  4 208.2 [197.7-217.7]         0.047  43% 44%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+bonprix.fr      accept  4 119.8 [117.9-130.7]         0.048  6%  7%   1    accepted:hurra-consent tcf:no-tcf
+bonprix.fr      refuse  3 88.8 [85.2-88.9]            0.024  0%  0%   1    refused:hurra-consent tcf:no-tcf
+booking.com     accept  3 263.2 [258.1-265.6]         0.015  55% 56%  4    accepted:Onetrust tcf:no-tcf
+booking.com     refuse  3 181.6 [179.8-186.7]         0.019  45% 46%  2    refused:Onetrust tcf:no-tcf
+booknode.com    accept  0 BLOCKED/ERROR http-403
+booknode.com    refuse  0 BLOCKED/ERROR http-403
+boursedirect.fr accept  3 121.7 [120.8-123.5]         0.011  20% 22%  1    accepted:didomi tcf:no-tcf
+boursedirect.fr refuse  3 93.1 [92.9-93.3]            0.002  10% 11%  1    refused:didomi tcf:no-tcf
+boursier.com    accept  3 1024.1 [1003.2-1077.2]      0.037  87% 88%  28   accepted:didomi tcf:ok
+boursier.com    refuse  3 77.2 [74.4-78.2]            0.026  6%  7%   1    refused:didomi tcf:ok
+boursobank.com  accept  3 425.8 [407-427.6]           0.027  41% 42%  5    accepted:didomi tcf:ok
+boursobank.com  refuse  5 238.1 [186.3-251.3]         0.141  22% 23%  2    refused:didomi tcf:ok
+boursorama.com  accept  5 412 [285.2-446.5]           0.158  40% 42%  5    accepted:didomi tcf:ok
+boursorama.com  refuse  5 186.1 [163.4-249.6]         0.201  27% 28%  2    refused:didomi tcf:ok
+bouyguestelecom.fr accept  3 112.3 [108.5-113]           0.022  4%  4%   1    detected-no-action:HEURISTIC-REJECT tcf:MISMATCH:0-vendors
+bouyguestelecom.fr refuse  3 110.3 [110-111.5]           0.007  3%  3%   1    refused:HEURISTIC-REJECT tcf:ok
+brave.com       accept  3 52.2 [52-53.1]              0.01   0%  0%   1    no-cmp tcf:no-tcf
+breal.net       accept  5 209.7 [174.9-228.1]         0.094  42% 43%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+breal.net       refuse  3 242.7 [239-242.7]           0.009  37% 38%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+breizh-modelisme.com accept  5 449.5 [433.7-598.1]         0.169  65% 66%  6    accepted:Cybotcookiebot tcf:no-tcf
+breizh-modelisme.com refuse  5 711.6 [627.9-723.7]         0.057  58% 58%  6    refused:Cybotcookiebot tcf:no-tcf
+bricodepot.fr   accept  3 305.3 [292.8-312.4]         0.033  48% 49%  5    accepted:didomi tcf:ok
+bricodepot.fr   refuse  5 198.9 [144.5-213.9]         0.141  7%  13%  1    refused:didomi tcf:ok
+bricomarche.com accept  0 BLOCKED/ERROR http-403
+bricomarche.com refuse  0 BLOCKED/ERROR http-403
+brocabrac.fr    accept  5 845.5 [230.8-1166.2]        0.435  89% 89%  24   accepted:didomi tcf:ok
+brocabrac.fr    refuse  3 60.4 [60.4-61.2]            0.007  17% 18%  1    refused:didomi tcf:ok
+buzzarab.com    accept  3 162.8 [152-163.8]           0.041  70% 71%  4    accepted:funding-choices tcf:no-tcf
+buzzarab.com    refuse  5 135.9 [123.6-137.7]         0.044  64% 65%  3    refused:funding-choices tcf:no-tcf
+cabaia.fr       accept  3 308.8 [308.4-310.6]         0.004  32% 33%  4    accepted:didomi tcf:ok
+cabaia.fr       refuse  3 306.1 [303.5-310.8]         0.012  32% 33%  4    refused:didomi tcf:ok
+cache-cache.fr  accept  3 162.1 [159.1-162.3]         0.011  53% 53%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+cache-cache.fr  refuse  3 209.5 [209.2-216.2]         0.019  41% 42%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+cadastre.gouv.fr accept  3 33.9 [33.5-34.2]            0.01   0%  0%   1    no-cmp tcf:no-tcf
+caf             accept  3 62.5 [62.1-63.3]            0.009  0%  0%   1    accepted:eu-cookie-compliance-banner tcf:no-tcf
+caf             refuse  3 62 [62-62.2]                0.002  0%  0%   1    failed:eu-cookie-compliance-banner tcf:no-tcf
+cahier-de-prepa.fr accept  3 34.4 [34.3-34.4]            0.002  0%  0%   1    no-cmp tcf:no-tcf
+caisse-epargne.fr accept  3 133.9 [133.3-134.9]         0.006  29% 33%  2    accepted:Tealium tcf:no-tcf
+caisse-epargne.fr refuse  3 88.6 [88.5-88.7]            0.001  4%  7%   1    refused:Tealium tcf:no-tcf
+canalplus.com   accept  5 192.3 [62.7-207.2]          0.513  19% 19%  2    accepted:didomi tcf:no-tcf,ok
+canalplus.com   refuse  5 156.4 [60.8-162.9]          0.448  4%  4%   1    refused:didomi tcf:no-tcf,ok
+canalturf.com   accept  5 913.2 [840-935.3]           0.049  92% 92%  23   accepted:Sirdata tcf:ok
+canalturf.com   refuse  5 149.9 [147.5-313.5]         0.388  63% 64%  3    refused:Sirdata tcf:ok,no-stored-choice
+candaulib.com   accept  3 39.9 [39.8-40.3]            0.007  5%  6%   1    no-cmp tcf:no-tcf
+canva.com       accept  0 BLOCKED/ERROR http-403
+canva.com       refuse  0 BLOCKED/ERROR http-403
+capcut.com      accept  3 173.7 [172.1-174.5]         0.007  11% 12%  1    accepted:tiktok.com tcf:no-tcf
+capcut.com      refuse  3 161.5 [161.3-161.7]         0.001  8%  9%   1    refused:tiktok.com tcf:no-tcf
+capeutservir.com accept  5 640.2 [594.3-693.6]         0.074  92% 92%  18   accepted:Sirdata tcf:ok
+capeutservir.com refuse  5 56.6 [54-62.5]              0.061  15% 15%  1    refused:Sirdata tcf:ok,no-stored-choice
+capital.fr      accept  5 1311.5 [1260.9-1693.5]      0.13   92% 92%  32   accepted:Sourcepoint-frame tcf:ok
+capital.fr      refuse  3 62.8 [62.5-63]              0.003  7%  8%   1    refused:Sourcepoint-frame+redirect tcf:no-stored-choice
+caradisiac.com  accept  3 64.3 [64-64.3]              0.003  8%  9%   1    error tcf:no-stored-choice
+caradisiac.com  refuse  5 66.2 [64.8-124.8]           0.364  9%  10%  1    refused:didomi tcf:ok,no-stored-choice
+careco.fr       accept  3 87.3 [87.2-87.9]            0.005  13% 16%  1    detected-no-action:HEURISTIC-TIER2 tcf:no-tcf
+careco.fr       refuse  3 94.3 [93.3-94.5]            0.007  15% 17%  1    refused:HEURISTIC-TIER2 tcf:no-tcf
+carjet.com      accept  3 135.9 [134.9-135.9]         0.004  49% 49%  3    no-cmp tcf:no-tcf
+caroll.com      accept  3 181.8 [179.8-183.4]         0.01   62% 63%  3    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+caroll.com      refuse  3 188.3 [188-189.2]           0.003  60% 60%  3    refused:HEURISTIC-REJECT tcf:no-tcf
+carrefour.com   accept  3 28.4 [28.2-28.4]            0.004  0%  0%   1    no-cmp tcf:no-tcf
+cartedepeche.fr accept  3 91.2 [91.1-93.9]            0.017  36% 36%  2    accepted:cookieyes tcf:no-tcf
+cartedepeche.fr refuse  3 54.5 [53.6-56.3]            0.025  5%  6%   1    refused:cookieyes tcf:no-tcf
+castorama.fr    accept  3 268.7 [265.6-286.5]         0.041  51% 52%  5    accepted:TrustArc-top tcf:ok
+castorama.fr    refuse  3 103.1 [102-103.3]           0.007  3%  3%   1    refused:TrustArc-top tcf:ok
+cataloguemate.fr accept  3 155 [153.6-156.7]           0.01   46% 48%  3    accepted:didomi tcf:ok
+cataloguemate.fr refuse  3 96.7 [94.1-97.8]            0.02   16% 18%  1    refused:didomi tcf:ok,no-stored-choice
+catawiki.com    accept  5 757.2 [681.9-850.2]         0.099  7%  9%   2    accepted:usercentrics-api tcf:no-tcf
+catawiki.com    refuse  3 704.1 [701.2-746.7]         0.035  6%  7%   2    refused:usercentrics-api tcf:no-tcf
+catch-newz.com  accept  5 728.4 [546.6-833.3]         0.185  87% 88%  20   accepted:funding-choices tcf:no-tcf
+catch-newz.com  refuse  3 151.2 [150.2-153.2]         0.01   47% 48%  2    refused:funding-choices tcf:no-tcf
+cattronic.com   accept  3 42.4 [42.3-43.2]            0.011  11% 12%  1    no-cmp tcf:no-tcf
+caudalie.com    accept  3 227.3 [222.5-227.6]         0.013  38% 39%  3    accepted:didomi tcf:ok
+caudalie.com    refuse  3 120 [119.6-128.5]           0.041  8%  9%   1    refused:didomi tcf:ok
+cdiscount       accept  3 197.5 [192.6-201.6]         0.023  37% 37%  3    accepted:trustcommander-footer tcf:ok
+cdiscount       refuse  3 99.8 [96-100.6]             0.025  3%  3%   1    refused:trustcommander-footer tcf:ok
+celibest.com    accept  3 44.6 [44.3-44.8]            0.005  0%  0%   1    no-cmp tcf:no-tcf
+celibook.com    accept  3 80.7 [80.1-81.3]            0.007  35% 35%  2    no-cmp tcf:no-tcf
+celio.com       accept  0 BLOCKED/ERROR http-403
+centrakor.com   accept  3 196 [195.5-197]             0.004  11% 12%  1    accepted:didomi tcf:no-tcf
+centrakor.com   refuse  3 183.8 [183.1-185.4]         0.006  10% 10%  1    refused:didomi tcf:no-tcf
+centralepneus.fr accept  3 149.4 [148.6-150.9]         0.008  59% 59%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+centralepneus.fr refuse  3 151.2 [150.3-153.8]         0.012  59% 59%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+centrepresseaveyron.fr accept  5 1103.1 [819.3-1345.4]       0.219  89% 90%  28   accepted:didomi tcf:ok
+centrepresseaveyron.fr refuse  3 104.2 [103.8-104.2]         0.003  39% 40%  2    refused:didomi tcf:no-stored-choice
+cerballiance.fr accept  3 30.5 [30.2-32.3]            0.038  0%  0%   1    error tcf:no-tcf
+cerballiance.fr refuse  3 30.3 [30.2-30.3]            0.002  0%  0%   1    error tcf:no-tcf
+cgos.info       accept  3 41.6 [41.6-41.6]            0      1%  1%   1    no-cmp tcf:no-tcf
+character.ai    accept  5 239.7 [217.6-247.1]         0.048  56% 57%  4    accepted:funding-choices tcf:no-tcf
+character.ai    refuse  5 208.3 [187.5-216.9]         0.057  50% 51%  3    refused:funding-choices tcf:no-tcf
+charentelibre.fr accept  5 945.1 [885-1031.6]          0.062  85% 87%  22   accepted:didomi tcf:ok
+charentelibre.fr refuse  3 125.6 [125.3-126]           0.003  43% 43%  2    refused:didomi tcf:ok
+chatgpt.com     accept  3 90.3 [88.3-91.3]            0.017  0%  0%   1    accepted:chatgpt tcf:no-tcf
+chatgpt.com     refuse  3 91.6 [86.9-92.7]            0.034  0%  0%   1    refused:chatgpt tcf:no-tcf
+chaussea.com    accept  0 BLOCKED/ERROR http-403
+chaussea.com    refuse  0 BLOCKED/ERROR http-403
+chess.com       accept  3 172.6 [169.8-173.4]         0.011  3%  4%   1    detected-no-action:HEURISTIC-REJECT tcf:no-stored-choice
+chess.com       refuse  3 173.4 [171.1-173.9]         0.009  3%  3%   1    refused:Onetrust tcf:ok
+chronopost.fr   accept  0 BLOCKED/ERROR http-403
+chronopost.fr   refuse  0 BLOCKED/ERROR http-403
+chronoshop2shop.fr accept  0 BLOCKED/ERROR http-403
+chronoshop2shop.fr refuse  0 BLOCKED/ERROR http-403
+cic.fr          accept  3 79.2 [79.1-79.4]            0.002  8%  10%  1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+cic.fr          refuse  3 79.7 [79.5-80.1]            0.004  9%  9%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+cimut.net       accept  3 29.8 [28.4-29.8]            0.028  0%  0%   1    no-cmp tcf:no-tcf
+citya.com       accept  3 148.9 [147.6-152.5]         0.017  38% 38%  2    accepted:didomi tcf:ok
+citya.com       refuse  3 143.2 [142.3-146.5]         0.015  37% 38%  2    refused:didomi tcf:ok
+claude.ai       accept  0 BLOCKED/ERROR http-403
+claude.ai       refuse  0 BLOCKED/ERROR http-403
+clickoutil.com  accept  3 169.8 [169.1-171]           0.006  46% 46%  3    accepted:Cybotcookiebot tcf:no-tcf
+clickoutil.com  refuse  3 165.5 [165.1-166.9]         0.006  46% 47%  3    refused:Cybotcookiebot tcf:no-tcf
+cliquojeux.com  accept  3 129.5 [128.7-131.2]         0.01   61% 61%  3    accepted:cookieyes tcf:ok
+cliquojeux.com  refuse  3 96.7 [95-97.2]              0.012  49% 50%  2    refused:cookieyes tcf:ok
+closermag.fr    accept  3 1210.1 [1198.5-1217.4]      0.008  92% 92%  31   accepted:fastcmp tcf:ok
+closermag.fr    refuse  5 98.9 [92-136.5]             0.187  20% 22%  1    refused:fastcmp tcf:ok
+cloud.microsoft accept  3 44.8 [44.8-47.1]            0.029  10% 11%  1    no-cmp tcf:no-tcf
+clubic.com      accept  3 958.4 [902.5-962.9]         0.036  87% 87%  27   accepted:didomi tcf:ok
+clubic.com      refuse  3 87.9 [86.5-92.4]            0.035  4%  4%   1    refused:didomi tcf:no-stored-choice
+clubvetshop.fr  accept  3 345.8 [341.6-348.1]         0.01   53% 54%  5    detected-no-action:Cybotcookiebot tcf:no-stored-choice
+clubvetshop.fr  refuse  3 243.8 [243.6-244.8]         0.003  56% 57%  5    refused:HEURISTIC-REJECT tcf:ok
+cnas.fr         accept  3 53.8 [53.1-54.7]            0.015  0%  0%   1    no-cmp tcf:no-tcf
+cned.fr         accept  3 39.4 [39.4-40.1]            0.01   5%  6%   1    no-cmp tcf:no-tcf
+cnews.fr        accept  0 BLOCKED/ERROR http-403
+cnews.fr        refuse  0 BLOCKED/ERROR http-403
+codesrousseau.fr accept  3 36.5 [36.4-36.6]            0.003  0%  0%   1    no-cmp tcf:no-tcf
+cofidis.fr      accept  3 94.1 [93.9-94.5]            0.004  44% 45%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+cofidis.fr      refuse  3 106.4 [106.1-106.7]         0.003  39% 40%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+coinmaster.com  accept  3 111.4 [109.2-112.3]         0.014  0%  0%   1    accepted:facebook tcf:no-tcf
+coinmaster.com  refuse  3 109.4 [108.6-112.2]         0.017  0%  0%   1    refused:facebook tcf:no-tcf
+coinmastergame.com accept  3 97.4 [97-97.5]              0.003  35% 36%  2    accepted:usercentrics-api tcf:no-tcf
+coinmastergame.com refuse  3 97.2 [97-97.4]              0.002  35% 36%  2    refused:usercentrics-api tcf:no-tcf
+colisprive.com  accept  3 151.8 [144.8-151.9]         0.027  50% 50%  3    accepted:tarteaucitron deny tcf:no-tcf
+colisprive.com  refuse  3 144.4 [143.3-146]           0.01   49% 50%  3    refused:tarteaucitron deny tcf:no-tcf
+commentcamarche.com accept  5 1455.8 [1237.9-1669.4]      0.116  84% 88%  36   accepted:AppConsent legacy tcf:ok
+commentcamarche.com refuse  3 92.3 [90.3-93.1]            0.016  23% 25%  1    refused:AppConsent legacy+redirect tcf:no-stored-choice
+commeunefleche.com accept  3 52 [51.7-53.1]              0.014  12% 14%  1    no-cmp tcf:no-tcf
+confirmit.com   accept  3 29 [28.9-29.2]              0.006  0%  0%   1    no-cmp tcf:no-tcf
+conforama       accept  5 593.3 [502.9-648.5]         0.092  33% 40%  7    accepted:Onetrust tcf:ok
+conforama       refuse  5 283.8 [221.5-401.4]         0.233  2%  2%   1    refused:Onetrust tcf:ok
+conso.gouv.fr   accept  3 53.2 [50.6-54]              0.034  0%  0%   1    no-cmp tcf:no-tcf
+consulat.ma     accept  5 172.3 [29-194.5]            0.454  59% 60%  2    no-cmp tcf:no-tcf
+cookomix.com    accept  3 971 [912.2-999.4]           0.046  91% 92%  27   accepted:Sirdata tcf:ok
+cookomix.com    refuse  5 66.9 [66.7-157.8]           0.433  11% 11%  1    refused:Sirdata tcf:ok,no-stored-choice
+corsematin.com  accept  3 1009.3 [986.4-1027.2]       0.02   81% 82%  24   accepted:didomi tcf:ok
+corsematin.com  refuse  3 248.6 [248.1-249]           0.002  45% 45%  4    refused:didomi tcf:ok
+cougarillo.com  accept  3 142.1 [137.4-143.1]         0.021  38% 39%  2    no-cmp tcf:no-tcf
+coupert.com     accept  3 196.6 [195.5-199.2]         0.01   21% 21%  2    no-cmp tcf:no-tcf
+courir.com      accept  3 108 [104.8-113.1]           0.039  10% 11%  1    no-cmp tcf:no-tcf
+courrier-picard.fr accept  5 1229.6 [1135.8-1305]        0.053  88% 90%  34   accepted:didomi tcf:ok
+courrier-picard.fr refuse  3 125.7 [124.2-127.9]         0.015  35% 35%  2    refused:didomi tcf:ok
+courrierinternational.com accept  3 62.5 [62.2-62.7]            0.003  0%  0%   1    detected-no-action:HEURISTIC-TIER2 tcf:no-tcf
+courrierinternational.com refuse  5 542.7 [309.9-662.8]         0.266  66% 75%  10   refused:HEURISTIC-TIER2 tcf:MISMATCH:233-vendors-consented
+cpx-research.com accept  3 28.5 [28.4-28.6]            0.003  0%  0%   1    no-cmp tcf:no-tcf
+credit-agricole.fr accept  3 79.9 [79.4-80.4]            0.006  0%  0%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+credit-agricole.fr refuse  3 81.1 [79.9-81.1]            0.008  0%  0%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+creditmutuel.fr accept  3 49.3 [49.1-49.3]            0.003  4%  4%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+creditmutuel.fr refuse  3 49.9 [49.6-51.7]            0.023  3%  4%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+crit-job.com    accept  3 108.6 [108.2-109.4]         0.006  9%  10%  1    accepted:didomi tcf:no-tcf
+crit-job.com    refuse  3 105.7 [104.4-107.5]         0.014  8%  8%   1    refused:didomi tcf:no-tcf
+cuescore.com    accept  3 132.5 [130.5-136.5]         0.023  47% 47%  3    no-cmp tcf:no-tcf
+cuisineactuelle.fr accept  3 126.2 [124.5-126.5]         0.008  32% 32%  2    accepted:Sourcepoint-frame tcf:ok
+cuisineactuelle.fr refuse  3 75.7 [74.3-76.6]            0.016  4%  5%   1    refused:Sourcepoint-frame+redirect tcf:no-stored-choice
+cuisineaz.com   accept  3 132.3 [130.5-133]           0.01   30% 31%  2    accepted:Sourcepoint-frame tcf:ok
+cuisineaz.com   refuse  3 84.1 [84-84.1]              0.001  4%  4%   1    refused:Sourcepoint-frame+redirect tcf:no-stored-choice
+culturequizz.com accept  5 533 [468-559]               0.067  79% 81%  13   accepted:consentmanager.net tcf:ok
+culturequizz.com refuse  5 113.5 [109.2-222.3]         0.368  38% 39%  2    refused:consentmanager.net tcf:ok,no-stored-choice
+dailymotion.com accept  3 92.5 [91.4-94.9]            0.019  4%  4%   1    accepted:Sourcepoint-frame+redirect tcf:ok
+dailymotion.com refuse  3 91.2 [90.1-91.7]            0.009  4%  4%   1    refused:Sourcepoint-frame+redirect tcf:ok
+dailyuploads.io accept  3 67.3 [67.3-67.8]            0.005  1%  1%   1    no-cmp tcf:no-tcf
+daxon.fr        accept  3 100.3 [98.2-102.3]          0.021  9%  9%   1    accepted:didomi tcf:no-tcf
+daxon.fr        refuse  3 91 [90.9-91.8]              0.006  9%  10%  1    refused:didomi tcf:no-tcf
+dealabs.com     accept  3 117.5 [117.1-120.2]         0.014  0%  0%   1    detected-no-action:HEURISTIC-REJECT tcf:no-stored-choice
+dealabs.com     refuse  3 371.1 [367.7-379]           0.016  48% 48%  7    refused:HEURISTIC-REJECT tcf:ok
+deces-en-france.fr accept  3 111.1 [107.1-111.7]         0.023  58% 58%  3    accepted:funding-choices tcf:no-tcf
+deces-en-france.fr refuse  3 81.4 [77.2-83.4]            0.04   43% 43%  2    refused:funding-choices tcf:no-tcf
+decipherinc.com accept  3 28.3 [28.2-28.3]            0.003  0%  0%   1    no-cmp tcf:no-tcf
+deepl.com       accept  3 197.9 [196.6-201.7]         0.013  14% 14%  2    accepted:usercentrics-api tcf:no-tcf
+deepl.com       refuse  3 191.6 [190.8-193.4]         0.007  15% 15%  2    refused:usercentrics-api tcf:no-tcf
+deguisetoi.fr   accept  3 192.2 [191.6-196.6]         0.014  46% 46%  3    accepted:axeptio tcf:no-tcf
+deguisetoi.fr   refuse  3 103.1 [102.7-111.1]         0.045  10% 11%  1    refused:axeptio tcf:no-tcf
+delcampe.net    accept  3 65 [64.5-66.4]              0.015  0%  0%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+delcampe.net    refuse  3 66.1 [64.4-66.2]            0.016  0%  0%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+delegaciondelgobierno.gob.es accept  5 43 [28.9-43.1]              0.157  0%  0%   1    no-cmp tcf:no-tcf
+deliveroo.fr    accept  3 339.2 [337-340.7]           0.006  55% 56%  6    accepted:deliveroo tcf:ok
+deliveroo.fr    refuse  3 254.9 [251.2-257.6]         0.013  48% 49%  4    refused:deliveroo tcf:ok
+demande-logement-social.gouv.fr accept  3 48.7 [47.6-49.5]            0.02   1%  1%   1    no-cmp tcf:no-tcf
+demotivateur.fr accept  3 69.4 [68-69.8]              0.013  7%  7%   1    accepted:fastcmp tcf:ok
+demotivateur.fr refuse  3 67.7 [67-70.1]              0.024  7%  7%   1    refused:fastcmp tcf:ok
+despetitshauts.com accept  5 220.4 [219.8-329.7]         0.191  22% 24%  3    accepted:axeptio tcf:no-tcf
+despetitshauts.com refuse  3 204.8 [204.2-205.3]         0.003  23% 25%  3    refused:axeptio tcf:no-tcf
+devenirenseignant.gouv.fr accept  3 121.7 [120.8-122.4]         0.007  49% 50%  3    accepted:tarteaucitron deny tcf:no-tcf
+devenirenseignant.gouv.fr refuse  3 55.4 [54.3-57.6]            0.03   0%  0%   1    refused:tarteaucitron deny tcf:no-tcf
+deviantart.com  accept  5 167.5 [142.2-178.2]         0.087  14% 16%  1    no-cmp tcf:no-tcf
+devinci.fr      accept  3 30.6 [30.3-30.8]            0.008  0%  0%   1    no-cmp tcf:no-tcf
+dexerto.fr      accept  3 2604.6 [2556.5-2773.2]      0.043  93% 94%  66   accepted:Admiral tcf:ok
+dexerto.fr      refuse  3 2165.5 [2092.7-2243.4]      0.035  93% 94%  58   refused:HEURISTIC-TIER2 tcf:MISMATCH:949-vendors-consented
+dhnet.be        accept  5 1667.5 [1638.2-1887.9]      0.066  79% 80%  38   accepted:didomi tcf:ok
+dhnet.be        refuse  5 647.7 [562.6-745]           0.1    53% 54%  9    refused:didomi tcf:ok
+digipad.app     accept  3 66.2 [66-66.6]              0.005  45% 45%  2    no-cmp tcf:no-tcf
+dim.fr          accept  5 308.9 [278.9-314]           0.054  27% 29%  4    accepted:Onetrust tcf:no-tcf
+dim.fr          refuse  5 199.4 [198.8-227.2]         0.06   11% 13%  2    refused:Onetrust tcf:no-tcf
+directvelo.com  accept  5 1283.6 [1093.3-1446.5]      0.125  88% 89%  30   accepted:AppConsent tcf:ok
+directvelo.com  refuse  3 167.8 [164-173.3]           0.028  37% 38%  2    refused:AppConsent tcf:ok
+discord.com     accept  3 278.2 [269.6-283.2]         0.025  6%  24%  1    no-cmp tcf:no-tcf
+disneylandparis.com accept  3 391.8 [375.9-392.1]         0.024  57% 58%  6    accepted:Onetrust tcf:no-tcf
+disneylandparis.com refuse  3 241.9 [241.2-245.7]         0.01   49% 49%  3    refused:Onetrust tcf:no-tcf
+disneyplus.com  accept  3 309.1 [307.9-309.7]         0.003  70% 70%  5    accepted:Onetrust tcf:ok
+disneyplus.com  refuse  3 220.8 [219.7-231.2]         0.028  66% 67%  3    refused:Onetrust tcf:ok
+disonsdemain.fr accept  3 95.1 [94.4-95.5]            0.006  7%  7%   1    accepted:Onetrust tcf:ok
+disonsdemain.fr refuse  5 76.1 [52.9-77.1]            0.147  5%  5%   1    refused:Onetrust tcf:no-tcf,ok
+districenter.fr accept  3 75.8 [74.3-77.9]            0.024  13% 15%  1    accepted:axeptio tcf:no-tcf
+districenter.fr refuse  3 75.7 [74.6-77.3]            0.018  13% 15%  1    refused:axeptio tcf:no-tcf
+distrokid.com   accept  3 168.3 [166.8-168.7]         0.006  45% 45%  3    accepted:osano tcf:no-tcf
+distrokid.com   refuse  3 154.4 [153.4-155]           0.005  45% 45%  3    refused:osano tcf:no-tcf
+divainparfums.com accept  5 638 [592.9-696.4]           0.074  4%  6%   2    accepted:pandectes tcf:no-tcf
+divainparfums.com refuse  3 515.8 [509.9-528]           0.018  3%  6%   2    refused:pandectes tcf:no-tcf
+divineva.com    accept  3 39.5 [39.3-41.1]            0.025  4%  5%   1    no-cmp tcf:no-tcf
+dna.fr          accept  3 1363.7 [1284.2-1382.8]      0.039  89% 89%  35   accepted:didomi tcf:ok
+dna.fr          refuse  3 80.7 [79.6-83.7]            0.026  15% 17%  1    refused:didomi tcf:no-stored-choice
+doctolib.fr     accept  3 151.8 [151.5-153.8]         0.008  3%  3%   1    accepted:didomi tcf:no-tcf
+doctolib.fr     refuse  3 150.4 [149.8-151.3]         0.005  3%  3%   1    refused:didomi tcf:no-tcf
+dofuspourlesnoobs.com accept  5 1754.5 [1489.9-2038.1]      0.111  82% 87%  24   accepted:AppConsent tcf:ok
+dofuspourlesnoobs.com refuse  5 442.2 [379.8-556.5]         0.161  52% 62%  6    refused:AppConsent tcf:ok
+domitys.fr      accept  3 119.8 [119.4-120]           0.002  40% 41%  2    accepted:didomi tcf:no-tcf
+domitys.fr      refuse  3 73.4 [70.5-73.9]            0.025  13% 14%  1    refused:didomi tcf:no-tcf
+domomat.com     accept  0 BLOCKED/ERROR http-403
+domomat.com     refuse  0 BLOCKED/ERROR http-403
+douane.gouv.fr  accept  3 91.4 [91.3-92]              0.004  30% 30%  2    accepted:eu-cookie-compliance-banner tcf:no-tcf
+douane.gouv.fr  refuse  3 63.4 [63.1-65.5]            0.02   0%  0%   1    refused:eu-cookie-compliance-banner tcf:no-tcf
+drawnames.fr    accept  3 92.4 [89.9-94.4]            0.025  4%  5%   1    no-cmp tcf:no-tcf
+duckduckgo.com  accept  3 105.9 [104.6-106.6]         0.01   0%  0%   1    no-cmp tcf:no-tcf
+dyson.fr        accept  0 BLOCKED/ERROR http-403
+dyson.fr        refuse  0 BLOCKED/ERROR http-403
+e.leclerc       accept  5 512.6 [459.8-555.6]         0.068  2%  8%   1    accepted:didomi tcf:no-tcf
+e.leclerc       refuse  5 304.4 [175.8-312.2]         0.209  1%  4%   1    refused:didomi tcf:no-tcf
+easycash.fr     accept  3 235 [233.2-235.8]           0.006  30% 30%  3    accepted:didomi tcf:no-tcf
+easycash.fr     refuse  3 222.3 [220.8-222.6]         0.004  29% 29%  3    refused:didomi tcf:no-tcf
+easydoct.com    accept  3 165.7 [164.2-176.7]         0.041  0%  0%   1    no-cmp tcf:no-tcf
+easypara.fr     accept  0 BLOCKED/ERROR http-403
+ecoflow.com     accept  3 858.7 [829.3-886.9]         0.034  21% 23%  7    accepted:consentmanager.net tcf:no-tcf
+ecoflow.com     refuse  3 608 [581.7-625.2]           0.036  9%  10%  3    refused:consentmanager.net tcf:no-tcf
+ecoledirecte.com accept  3 92.9 [92.9-94.4]            0.01   15% 15%  1    no-cmp tcf:no-tcf
+ecosia.org      accept  0 BLOCKED/ERROR http-403
+ecosia.org      refuse  0 BLOCKED/ERROR http-403
+edf.fr          accept  0 BLOCKED/ERROR http-403
+edf.fr          refuse  0 BLOCKED/ERROR http-403
+education.gouv.fr accept  3 47 [45.5-47.6]              0.024  0%  0%   1    no-cmp tcf:no-tcf
+electrodepot.fr accept  3 252.1 [249.6-255]           0.011  49% 49%  4    accepted:Onetrust tcf:no-tcf
+electrodepot.fr refuse  3 169.8 [169.1-171.9]         0.009  32% 33%  2    refused:Onetrust tcf:no-tcf
+elle.fr         accept  5 351.6 [276.2-371]           0.112  75% 76%  7    accepted:didomi tcf:ok
+elle.fr         refuse  5 103.2 [76.3-141.7]          0.248  11% 24%  1    refused:didomi tcf:ok,no-stored-choice
+eminza.com      accept  3 218.1 [214.1-219.7]         0.013  41% 42%  3    accepted:axeptio tcf:no-tcf
+eminza.com      refuse  3 195.9 [195.9-196.7]         0.002  42% 42%  3    refused:axeptio tcf:no-tcf
+empireimmo.com  accept  3 79.6 [79.4-79.7]            0.002  8%  9%   1    accepted:termsfeed tcf:no-tcf
+empireimmo.com  refuse  3 79.8 [79.2-80.3]            0.007  8%  9%   1    refused:termsfeed tcf:no-tcf
+emploi-territorial.fr accept  3 45.5 [45.4-45.6]            0.002  4%  5%   1    no-cmp tcf:no-tcf
+enedis.fr       accept  3 75.9 [75.6-76.4]            0.005  7%  8%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+enedis.fr       refuse  3 81.4 [81-81.4]              0.003  7%  8%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+engie.fr        accept  3 67.3 [67.2-68.1]            0.007  3%  4%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+engie.fr        refuse  3 70.8 [70.1-72.6]            0.018  3%  3%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+enthdf.fr       accept  3 46.7 [44.7-47.4]            0.03   1%  1%   1    no-cmp tcf:no-tcf
+envertetcontretous.fr accept  5 815.9 [575.8-1357]          0.336  68% 79%  9    accepted:fastcmp tcf:ok
+envertetcontretous.fr refuse  5 202.6 [169.6-240.6]         0.126  49% 54%  3    refused:fastcmp tcf:ok
+epicgames.com   accept  0 BLOCKED/ERROR http-403
+equideow.com    accept  3 61.7 [61.5-62]              0.004  13% 14%  1    accepted:Onetrust tcf:no-tcf
+equideow.com    refuse  3 58.8 [56.9-59.5]            0.023  10% 11%  1    refused:Onetrust tcf:no-tcf
+equidia.fr      accept  3 240.1 [238.3-240.3]         0.005  44% 45%  4    accepted:funding-choices tcf:no-tcf
+equidia.fr      refuse  3 180.6 [174.1-181.3]         0.022  27% 27%  2    refused:funding-choices tcf:no-tcf
+eram.fr         accept  3 130.6 [125.9-131.9]         0.024  28% 29%  2    accepted:Cybotcookiebot tcf:no-tcf
+eram.fr         refuse  3 122.7 [119.8-128.6]         0.036  30% 31%  2    refused:Cybotcookiebot tcf:no-tcf
+escorte.com     accept  3 61.6 [60.9-61.9]            0.008  3%  3%   1    no-cmp tcf:no-tcf
+espace-citoyens.net accept  3 29.4 [29.1-29.4]            0.006  0%  0%   1    no-cmp tcf:no-tcf
+espace-des-marques.com accept  3 164.4 [160.4-165.4]         0.016  32% 33%  2    accepted:axeptio tcf:no-tcf
+espace-des-marques.com refuse  3 115.9 [115.9-120.8]         0.024  15% 16%  1    refused:axeptio tcf:no-tcf
+estrepublicain.fr accept  3 1382.5 [1381.4-1395.7]      0.006  89% 89%  36   accepted:didomi tcf:ok
+estrepublicain.fr refuse  3 83.6 [81.2-84]              0.018  16% 17%  1    refused:didomi tcf:no-stored-choice
+etam.com        accept  5 247.4 [145.1-250.9]         0.207  8%  10%  1    accepted:didomi tcf:no-tcf
+etam.com        refuse  5 127.6 [124.1-162.8]         0.122  4%  7%   1    refused:didomi tcf:no-tcf
+etreproprio.com accept  3 98 [97.8-99.5]              0.009  6%  6%   1    accepted:Tealium tcf:no-tcf
+etreproprio.com refuse  3 88.3 [84.1-89]              0.031  1%  1%   1    refused:Tealium tcf:no-tcf
+etudiant.gouv.fr accept  3 63.1 [62.4-63.2]            0.006  0%  1%   1    no-cmp tcf:no-tcf
+europapark.de   accept  5 138.9 [131.9-191.8]         0.194  16% 17%  1    accepted:Onetrust tcf:no-tcf
+europapark.de   refuse  3 103.5 [99.3-104]            0.025  3%  4%   1    refused:Onetrust tcf:no-tcf
+europe1.fr      accept  0 BLOCKED/ERROR http-403
+europe1.fr      refuse  0 BLOCKED/ERROR http-403
+eurosport.fr    accept  5 1537.2 [1366.1-1564]        0.055  83% 84%  37   accepted:Onetrust tcf:ok,no-tcf
+eurosport.fr    refuse  5 279.6 [242.6-461.5]         0.279  27% 27%  3    refused:Onetrust tcf:MISMATCH:96-vendors-consented,no-tcf
+eurostar.com    accept  3 231.9 [231.1-232.4]         0.003  40% 41%  3    accepted:didomi tcf:ok
+eurostar.com    refuse  3 186.8 [185.8-189.5]         0.01   32% 33%  2    refused:didomi tcf:ok
+eurotel.fr      accept  3 64.7 [64.2-66]              0.014  9%  10%  1    no-cmp tcf:no-tcf
+eva.gg          accept  3 274.3 [274.1-276.1]         0.004  33% 33%  3    accepted:axeptio tcf:no-tcf
+eva.gg          refuse  3 271 [269-271.8]             0.005  33% 34%  3    refused:axeptio tcf:no-tcf
+evoliz.com      accept  5 332.3 [279.7-349.6]         0.088  21% 23%  2    accepted:axeptio tcf:no-tcf
+evoliz.com      refuse  5 339.9 [289.9-356.7]         0.084  20% 22%  2    refused:axeptio tcf:no-tcf
+evozen.fr       accept  3 52.9 [52.7-54.6]            0.02   3%  3%   1    accepted:evozen.fr tcf:no-tcf
+evozen.fr       refuse  3 53.3 [52.9-54.2]            0.012  2%  2%   1    refused:evozen.fr tcf:no-tcf
+examens-concours.gouv.fr accept  3 49.9 [47.7-50.2]            0.028  0%  0%   1    no-cmp tcf:no-tcf
+facebook.com    accept  3 69.6 [69.5-69.9]            0.003  0%  0%   1    accepted:facebook tcf:no-tcf
+facebook.com    refuse  3 70.3 [69.4-70.3]            0.007  0%  0%   1    refused:facebook tcf:no-tcf
+fanfiction.net  accept  0 BLOCKED/ERROR http-403
+fanfox.net      accept  3 55.8 [55.6-56.1]            0.004  10% 12%  1    no-cmp tcf:no-tcf
+femmeactuelle.fr accept  5 1395.5 [1147-1818.3]        0.181  91% 91%  41   accepted:Sourcepoint-frame tcf:ok
+femmeactuelle.fr refuse  3 67.6 [67.1-68.1]            0.007  6%  7%   1    refused:Sourcepoint-frame+redirect tcf:no-stored-choice
+fff.fr          accept  3 116.4 [115.8-117.2]         0.006  17% 18%  1    accepted:didomi tcf:ok
+fff.fr          refuse  3 113.2 [110.9-114.6]         0.017  17% 18%  1    refused:didomi tcf:ok
+ffhandball.fr   accept  5 236.3 [221.7-282.4]         0.108  4%  5%   1    accepted:didomi tcf:ok
+ffhandball.fr   refuse  5 230.8 [215.7-268.5]         0.112  4%  5%   1    refused:didomi tcf:ok
+finances.gouv.fr accept  3 47.5 [47.5-48]              0.006  0%  0%   1    no-cmp tcf:no-tcf
+fixpart.fr      accept  5 101.7 [96.9-123.9]          0.104  9%  10%  1    accepted:fixpart tcf:no-tcf
+fixpart.fr      refuse  5 83.2 [76.8-101.4]           0.108  3%  4%   1    refused:fixpart tcf:no-tcf
+flashscore.fr   accept  5 1136.6 [1022.2-1474]        0.152  64% 71%  22   accepted:Onetrust tcf:ok
+flashscore.fr   refuse  5 584 [451.1-911.6]           0.328  13% 19%  3    refused:Onetrust tcf:ok
+flightaware.com accept  5 406.7 [372.6-437.6]         0.059  35% 36%  5    accepted:Onetrust tcf:ok
+flightaware.com refuse  3 256.1 [254.8-272.3]         0.037  5%  6%   1    refused:Onetrust tcf:ok
+flixbus.fr      accept  3 143.7 [141.9-146.2]         0.015  40% 42%  2    accepted:usercentrics-api tcf:no-tcf
+flixbus.fr      refuse  3 128 [125.5-129.8]           0.017  39% 40%  2    refused:usercentrics-api tcf:no-tcf
+flowup.shop     accept  5 113.8 [112-131.4]           0.07   7%  8%   1    no-cmp tcf:no-tcf
+flunch.fr       accept  3 132.1 [130-133.2]           0.012  13% 16%  1    accepted:axeptio tcf:no-tcf
+flunch.fr       refuse  3 102.8 [102.8-104.8]         0.011  7%  8%   1    refused:axeptio tcf:no-tcf
+flycorsair.com  accept  3 251.6 [250.2-252.9]         0.005  56% 56%  3    accepted:didomi tcf:no-tcf
+flycorsair.com  refuse  3 209.9 [209.8-210]           0      52% 53%  2    refused:didomi tcf:no-tcf
+fnacspectacles.com accept  5 436 [289.9-464.6]           0.176  27% 34%  4    accepted:consentmanager.net tcf:no-tcf
+fnacspectacles.com refuse  3 249 [238.9-253.6]           0.031  13% 14%  2    refused:consentmanager.net tcf:no-tcf
+foot-national.com accept  5 712 [643.6-791.3]           0.087  88% 89%  19   accepted:didomi tcf:ok
+foot-national.com refuse  5 241.2 [201.8-291]           0.131  51% 53%  4    refused:didomi tcf:ok
+foot01.com      accept  5 1253 [830.2-1543.3]         0.21   75% 80%  19   accepted:AppConsent tcf:ok
+foot01.com      refuse  5 350.9 [320.7-462.3]         0.145  62% 67%  6    refused:AppConsent tcf:ok
+football365.fr  accept  5 1612 [1427.9-1760.5]        0.091  91% 92%  33   accepted:fastcmp tcf:ok
+football365.fr  refuse  5 175.4 [158.4-213.9]         0.116  39% 48%  2    refused:fastcmp tcf:ok
+footlocker.fr   accept  3 462 [431-463.7]             0.041  21% 26%  4    accepted:Onetrust tcf:no-tcf
+footlocker.fr   refuse  5 161.8 [154.1-248.3]         0.221  2%  3%   1    refused:Onetrust tcf:no-tcf
+footmercato.net accept  5 1447.7 [1340.2-1515]        0.053  94% 94%  40   accepted:didomi tcf:ok
+footmercato.net refuse  5 178.4 [143.4-283.1]         0.298  57% 57%  3    refused:didomi tcf:ok
+fortuneo.fr     accept  5 595.3 [470.1-624.6]         0.109  0%  0%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+fortuneo.fr     refuse  5 605.8 [467.5-625.9]         0.146  0%  0%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+forum-militaire.fr accept  3 146.3 [142.6-148.9]         0.022  43% 44%  2    no-cmp tcf:no-tcf
+forumconstruire.com accept  5 259.9 [219.4-359.2]         0.214  59% 60%  5    accepted:Sirdata tcf:ok
+forumconstruire.com refuse  3 154.7 [152.9-155.9]         0.01   41% 42%  2    refused:Sirdata tcf:ok
+fourmizzz.fr    accept  3 38.5 [38.2-39.9]            0.023  8%  9%   1    no-cmp tcf:no-tcf
+fragonard.com   accept  3 237.7 [237-237.7]           0.002  27% 28%  2    accepted:consentmanager.net tcf:no-tcf
+fragonard.com   refuse  3 225.8 [224-225.9]           0.005  27% 27%  2    refused:consentmanager.net tcf:no-tcf
+fram.fr         accept  3 253.5 [250.4-253.8]         0.008  46% 47%  4    accepted:didomi tcf:ok
+fram.fr         refuse  3 176.7 [174.5-177.1]         0.008  28% 29%  2    refused:didomi tcf:ok
+framadate.org   accept  3 113.1 [108.9-114.5]         0.026  6%  6%   1    no-cmp tcf:no-tcf
+france-galop.com accept  3 69.4 [68.5-70.1]            0.011  5%  6%   1    accepted:cookiefirst.com tcf:no-tcf
+france-galop.com refuse  3 71.4 [69.8-72.9]            0.021  5%  6%   1    refused:cookiefirst.com tcf:no-tcf
+france.tv       accept  5 191.1 [169.3-194.4]         0.066  8%  8%   1    accepted:didomi tcf:ok
+france.tv       refuse  3 155.3 [146.6-155.7]         0.033  3%  3%   1    refused:didomi tcf:ok
+france24.com    accept  5 956.8 [701.2-1018.7]        0.135  82% 82%  26   accepted:didomi tcf:ok
+france24.com    refuse  3 100.6 [99.9-102.4]          0.013  6%  6%   1    refused:didomi tcf:ok
+francearchives.gouv.fr accept  3 63.2 [62.8-65]              0.018  0%  0%   1    detected-no-action:tarteaucitron.js tcf:no-tcf
+francearchives.gouv.fr refuse  3 63.2 [61.8-63.8]            0.016  0%  0%   1    detected-no-action:tarteaucitron.js tcf:no-tcf
+franceconnect.gouv.fr accept  3 40.1 [39.9-40.4]            0.006  0%  0%   1    no-cmp tcf:no-tcf
+franceinfo.fr   accept  5 205.8 [135.9-331.3]         0.367  37% 38%  2    accepted:didomi tcf:ok
+franceinfo.fr   refuse  5 249.2 [123-313.6]           0.359  51% 52%  3    refused:didomi tcf:ok
+francetelevisions.fr accept  3 148.2 [148.1-150]           0.007  36% 38%  2    accepted:didomi tcf:no-tcf
+francetelevisions.fr refuse  3 110.7 [108.6-112.6]         0.018  15% 17%  1    refused:didomi tcf:no-tcf
+francetravail   accept  3 71.8 [71.5-73.2]            0.012  5%  6%   1    accepted:pe-cookies tcf:no-tcf
+francetravail   refuse  3 68.9 [68-69.4]              0.01   3%  4%   1    refused:pe-cookies tcf:no-tcf
+francetvinfo    accept  3 198.9 [189.3-202.1]         0.034  31% 31%  2    accepted:didomi tcf:ok
+francetvinfo    refuse  3 182.3 [171.9-184.3]         0.037  29% 30%  2    refused:didomi tcf:ok
+franceverif.fr  accept  3 89.5 [89.2-90]              0.005  2%  2%   1    accepted:Sirdata tcf:ok
+franceverif.fr  refuse  3 87.3 [86.2-87.6]            0.009  3%  3%   1    refused:Sirdata tcf:ok
+francoisesaget.com accept  3 263.1 [256.8-267.1]         0.02   61% 61%  4    accepted:didomi tcf:no-tcf
+francoisesaget.com refuse  3 139.8 [130-140.6]           0.043  35% 35%  2    refused:didomi tcf:no-tcf
+frandroid.com   accept  3 1346.8 [1294.8-1355.2]      0.025  87% 88%  33   accepted:didomi tcf:ok
+frandroid.com   refuse  3 137.7 [134.1-141.8]         0.028  9%  10%  1    refused:didomi tcf:no-stored-choice
+franime.fr      accept  5 420.4 [295.7-434.1]         0.144  48% 48%  5    no-cmp tcf:no-tcf
+franklinpetfood.com accept  5 623.6 [574.9-661.2]         0.05   21% 23%  5    accepted:Cybotcookiebot tcf:no-tcf
+franklinpetfood.com refuse  5 694.2 [609.9-701.6]         0.058  19% 26%  5    refused:Cybotcookiebot tcf:no-tcf
+free.fr         accept  3 111.3 [108.6-111.8]         0.016  29% 29%  2    accepted:didomi tcf:no-tcf
+free.fr         refuse  3 80 [79.2-80.8]              0.01   5%  5%   1    refused:didomi tcf:no-tcf
+fsolver.fr      accept  0 BLOCKED/ERROR http-403
+fsolver.fr      refuse  0 BLOCKED/ERROR http-403
+fut.gg          accept  3 248.9 [245.2-249.4]         0.009  51% 51%  5    no-cmp tcf:no-stored-choice
+futbin.com      accept  0 BLOCKED/ERROR http-403
+futbin.com      refuse  0 BLOCKED/ERROR http-403
+futura-sciences.com accept  3 136.1 [135-140.1]           0.02   36% 36%  2    accepted:fastcmp tcf:ok
+futura-sciences.com refuse  3 94.8 [92.9-95.2]            0.014  15% 16%  1    refused:fastcmp tcf:ok
+g-trouve.com    accept  3 36.8 [36.8-37]              0.003  0%  0%   1    no-cmp tcf:no-tcf
+g2nft.com       accept  3 29.9 [29.5-29.9]            0.009  0%  0%   1    no-cmp tcf:no-tcf
+gala.fr         accept  3 1394.3 [1314-1397.2]        0.035  90% 91%  38   accepted:AppConsent tcf:ok
+gala.fr         refuse  3 101.1 [98.2-101.7]          0.019  14% 16%  1    refused:AppConsent+redirect tcf:ok
+gameapp-itm.fr  accept  3 33.5 [33.5-33.7]            0.003  0%  0%   1    no-cmp tcf:no-tcf
+gameduell.fr    accept  3 66.3 [64.1-66.3]            0.019  2%  3%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+gameduell.fr    refuse  3 65.2 [64.7-66.3]            0.012  2%  3%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+gameforge.com   accept  3 62.7 [61.9-63.2]            0.011  9%  10%  1    accepted:gameforge tcf:no-tcf
+gameforge.com   refuse  3 59.6 [59.1-59.8]            0.006  10% 11%  1    refused:gameforge tcf:no-tcf
+gametwist.com   accept  3 94.3 [94-97.4]              0.02   12% 16%  1    accepted:Onetrust tcf:no-tcf
+gametwist.com   refuse  3 94.4 [91.8-96.9]            0.027  12% 17%  1    refused:Onetrust tcf:no-tcf
+gayfute.com     accept  3 51.8 [51.3-52.9]            0.015  12% 12%  1    no-cmp tcf:no-tcf
+gaym.com        accept  3 57.4 [57.1-59.1]            0.019  9%  10%  1    no-cmp tcf:no-tcf
+gemo.fr         accept  3 184.6 [181.3-188.4]         0.019  48% 48%  3    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+gemo.fr         refuse  3 201.6 [197.2-203.1]         0.015  46% 46%  3    refused:HEURISTIC-REJECT tcf:no-tcf
+geneanet.org    accept  0 BLOCKED/ERROR http-403
+geneanet.org    refuse  0 BLOCKED/ERROR http-403
+generationbi.com accept  3 39.7 [39.5-39.8]            0.003  5%  6%   1    no-cmp tcf:no-tcf
+geny.com        accept  5 1429.5 [1085.1-1480.9]      0.147  86% 86%  28   accepted:didomi tcf:ok
+geny.com        refuse  5 203.9 [149.9-237.8]         0.168  27% 30%  2    refused:didomi tcf:ok
+geo.fr          accept  5 1501.1 [1167.3-1596.2]      0.121  93% 93%  41   accepted:Sourcepoint-frame tcf:ok
+geo.fr          refuse  3 62.2 [61.2-63.2]            0.016  7%  8%   1    refused:Sourcepoint-frame+redirect tcf:no-stored-choice
+getyourguide.com accept  0 BLOCKED/ERROR http-403
+getyourguide.com refuse  0 BLOCKED/ERROR http-403
+gifi.fr         accept  3 148.8 [148.3-149.2]         0.003  35% 38%  2    accepted:didomi tcf:no-tcf
+gifi.fr         refuse  3 102.4 [100.8-102.6]         0.01   15% 19%  1    refused:didomi tcf:no-tcf
+github.com      accept  3 176.9 [167.1-178.6]         0.036  10% 11%  1    no-cmp tcf:no-tcf
+gleeden.com     accept  3 41.3 [41-41.6]              0.008  0%  1%   1    accepted:gleeden tcf:no-tcf
+gleeden.com     refuse  3 41.1 [40.6-41.2]            0.008  0%  1%   1    refused:gleeden tcf:no-tcf
+globalprimereport.com accept  3 28.9 [28.8-29]              0.003  0%  0%   1    no-cmp tcf:no-tcf
+gls-france.com  accept  3 82.5 [82.3-82.5]            0.002  37% 38%  2    accepted:consentmanager.net tcf:no-tcf
+gls-france.com  refuse  3 81.5 [80.8-83.9]            0.02   38% 38%  2    refused:consentmanager.net tcf:no-tcf
+gonewildday.com accept  3 132.7 [131.6-133.9]         0.009  43% 45%  2    no-cmp tcf:no-tcf
+goobox.fr       accept  5 401.9 [348.8-538.3]         0.202  80% 82%  6    accepted:quantcast tcf:ok
+goobox.fr       refuse  5 198.4 [189.4-212.8]         0.05   62% 68%  2    refused:quantcast tcf:ok
+goodmeal.fr     accept  3 44 [43.8-44.1]              0.003  0%  0%   1    no-cmp tcf:no-tcf
+google.com      accept  3 53.7 [53.5-54.1]            0.006  1%  2%   1    accepted:google.com tcf:no-tcf
+google.com      refuse  3 54.2 [53.4-54.3]            0.009  1%  2%   1    refused:google.com tcf:no-tcf
+google.fr       accept  3 52.8 [52.4-54]              0.016  1%  1%   1    accepted:google.com tcf:no-tcf
+google.fr       refuse  3 53.5 [53.1-53.8]            0.006  1%  2%   1    refused:google.com tcf:no-tcf
+govoyages.com   accept  3 372.9 [369.8-378.5]         0.012  43% 44%  5    accepted:didomi tcf:ok
+govoyages.com   refuse  3 293.7 [286.4-294.7]         0.016  32% 33%  3    refused:didomi tcf:ok
+gpa26.com       accept  3 93.9 [93.4-95.7]            0.013  17% 18%  1    accepted:axeptio tcf:no-tcf
+gpa26.com       refuse  3 84.5 [83.5-86.4]            0.018  14% 15%  1    refused:axeptio tcf:no-tcf
+gpdis.com       accept  3 97.2 [97-100.3]             0.019  63% 63%  2    no-cmp tcf:no-tcf
+graindemalice.fr accept  3 156.3 [155.7-156.3]         0.002  42% 43%  2    accepted:didomi tcf:no-tcf
+graindemalice.fr refuse  3 136.3 [135.6-136.4]         0.003  43% 43%  2    refused:didomi tcf:no-tcf
+graines-baumaux.fr accept  3 118 [117.2-118.3]           0.005  8%  8%   1    accepted:Sirdata tcf:ok
+graines-baumaux.fr refuse  3 116.9 [116-117.2]           0.006  8%  8%   1    refused:Sirdata tcf:ok
+grandraid-reunion.com accept  3 44.3 [43.7-44.7]            0.011  1%  1%   1    detected-no-action:HEURISTIC-TIER1 tcf:no-tcf
+grandraid-reunion.com refuse  3 44.3 [44.3-44.5]            0.003  1%  1%   1    refused:HEURISTIC-TIER1 tcf:no-tcf
+grazia.fr       accept  5 140.4 [109.5-145.8]         0.141  38% 40%  2    accepted:didomi tcf:ok
+grazia.fr       refuse  3 86.8 [86.2-91]              0.03   16% 18%  1    refused:didomi tcf:ok
+groupe-uneo.fr  accept  3 113.2 [113.2-114.4]         0.006  45% 46%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+groupe-uneo.fr  refuse  3 112.6 [112.3-113.2]         0.004  45% 46%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+gupy.fr         accept  3 250.5 [247.2-252.8]         0.011  58% 59%  4    accepted:funding-choices tcf:no-tcf
+gupy.fr         refuse  3 162.5 [160.4-172.3]         0.038  35% 36%  2    refused:funding-choices tcf:no-tcf
+guydemarle.com  accept  3 191.9 [191.9-193.3]         0.004  48% 49%  3    accepted:Cybotcookiebot tcf:no-tcf
+guydemarle.com  refuse  3 187.1 [186.5-188.3]         0.005  48% 48%  3    refused:Cybotcookiebot tcf:no-tcf
+hai8g.com       accept  3 29.9 [29.4-29.9]            0.01   0%  0%   1    no-cmp tcf:no-tcf
+hankooktire.com accept  3 421.4 [421.1-441.8]         0.028  3%  4%   1    no-cmp tcf:no-tcf
+hardware.fr     accept  3 43.2 [41.8-44.1]            0.026  9%  9%   1    detected-no-action:HEURISTIC-TIER1 tcf:no-tcf
+hardware.fr     refuse  3 43.3 [43.3-43.5]            0.003  8%  9%   1    refused:HEURISTIC-TIER1 tcf:no-tcf
+harmobil.fr     accept  3 34.3 [34.1-36.4]            0.036  2%  2%   1    no-cmp tcf:no-tcf
+hbm-machines.com accept  1 210.8 [210.8-210.8]         0      24% 27%  2    accepted:consentmanager.net tcf:no-tcf
+hbm-machines.com refuse  0 BLOCKED/ERROR http-403
+helloasso.com   accept  3 117.7 [115.4-119.9]         0.019  12% 14%  1    accepted:axeptio tcf:no-tcf
+helloasso.com   refuse  3 97.2 [97-99.8]              0.016  5%  6%   1    refused:axeptio tcf:no-tcf
+hellotickets.fr accept  0 BLOCKED/ERROR http-403
+hellotickets.fr refuse  0 BLOCKED/ERROR http-403
+hellowatt.fr    accept  5 167.3 [162.5-186]           0.054  3%  5%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+hellowatt.fr    refuse  3 187.8 [180.8-195.2]         0.038  3%  5%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+hellowork.com   accept  5 75.6 [70.9-115.9]           0.224  4%  4%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+hellowork.com   refuse  3 81 [79.5-81.7]              0.014  4%  5%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+henrri.net      accept  3 42.8 [42.1-44]              0.023  3%  4%   1    accepted:hubspot tcf:no-tcf
+henrri.net      refuse  3 42.8 [41.9-42.8]            0.012  3%  4%   1    refused:hubspot tcf:no-tcf
+hertz.fr        accept  3 310.4 [310.3-311.7]         0.002  63% 63%  6    accepted:Complianz optin tcf:no-tcf
+hertz.fr        refuse  3 201.8 [198.3-205.3]         0.017  53% 54%  4    refused:Complianz optin tcf:no-tcf
+hglycee.fr      accept  5 64.3 [63.1-112.2]           0.278  5%  5%   1    no-cmp tcf:no-tcf
+histoiredor.com accept  3 153.9 [151.9-157.8]         0.019  30% 31%  2    accepted:didomi tcf:no-tcf
+histoiredor.com refuse  5 118.7 [96.2-121.2]          0.118  6%  8%   1    refused:didomi tcf:no-tcf
+histoiresroyales.fr accept  5 674.7 [612.7-820.6]         0.117  86% 86%  18   accepted:fastcmp tcf:ok
+histoiresroyales.fr refuse  5 115.6 [112.5-163.1]         0.18   14% 23%  1    refused:fastcmp tcf:ok
+hltv.org        accept  0 BLOCKED/ERROR http-403
+hltv.org        refuse  0 BLOCKED/ERROR http-403
+hobbii.fr       accept  5 505.7 [434.4-644.2]         0.156  15% 15%  4    accepted:usercentrics-api tcf:no-tcf
+hobbii.fr       refuse  3 378.6 [368.7-381.1]         0.017  14% 15%  3    refused:usercentrics-api tcf:no-tcf
+holzkern.com    accept  3 540.1 [516.1-559.4]         0.04   5%  6%   2    accepted:consentmo tcf:no-tcf
+holzkern.com    refuse  3 469.6 [462.9-471.9]         0.01   4%  5%   2    refused:consentmo tcf:no-tcf
+home24.fr       accept  3 151.1 [151-155.6]           0.017  5%  5%   1    accepted:usercentrics-api tcf:no-tcf
+home24.fr       refuse  3 126.8 [126.1-129.1]         0.012  2%  3%   1    refused:usercentrics-api tcf:no-tcf
+homecinesolutions.fr accept  0 BLOCKED/ERROR http-403
+honor.com       accept  3 393.9 [385.6-419.5]         0.044  41% 48%  6    accepted:TrustArc-top tcf:no-tcf
+honor.com       refuse  5 145.1 [135.5-175.5]         0.107  9%  11%  1    refused:TrustArc-top tcf:no-tcf
+hotel-bb.com    accept  3 158.3 [158.1-158.4]         0.001  27% 29%  2    accepted:Onetrust tcf:no-tcf
+hotel-bb.com    refuse  5 119.6 [114.5-162.1]         0.157  9%  11%  1    refused:Onetrust tcf:no-tcf
+howwelldoyoureallyknow.com accept  3 50.9 [48.9-52.3]            0.034  7%  9%   1    accepted:funding-choices tcf:no-tcf
+howwelldoyoureallyknow.com refuse  3 50.6 [47.5-52]              0.046  7%  8%   1    refused:funding-choices tcf:no-tcf
+hubspot.com     accept  3 53.6 [53.4-54]              0.006  13% 15%  1    no-cmp tcf:no-tcf
+huffingtonpost.fr accept  3 384 [379.7-384.9]           0.007  82% 83%  7    detected-no-action:HEURISTIC-TIER2 tcf:no-tcf
+huffingtonpost.fr refuse  5 740.2 [592.4-1141.5]        0.253  83% 85%  13   refused:HEURISTIC-TIER2 tcf:MISMATCH:233-vendors-consented
+humanite.fr     accept  3 298.3 [294.3-303.2]         0.015  68% 68%  5    accepted:Sirdata tcf:MISMATCH:0-vendors,no-stored-choice
+humanite.fr     refuse  3 298.3 [294.2-303.4]         0.015  68% 68%  5    refused:Sirdata tcf:ok,no-stored-choice
+i-cad.fr        accept  3 64.8 [64.4-65.8]            0.011  9%  10%  1    accepted:axeptio tcf:no-tcf
+i-cad.fr        refuse  3 65 [64.9-65.4]              0.004  9%  10%  1    refused:axeptio tcf:no-tcf
+i-run.fr        accept  5 226.8 [173-230.7]           0.114  17% 18%  2    accepted:didomi tcf:no-tcf
+i-run.fr        refuse  5 170.4 [143-198.9]           0.137  4%  5%   1    refused:didomi tcf:no-tcf
+ici.fr          accept  3 928.9 [912.8-929.3]         0.01   80% 80%  25   accepted:didomi tcf:ok
+ici.fr          refuse  3 176.9 [175.3-178.1]         0.008  6%  8%   1    refused:didomi tcf:ok
+idealo.fr       accept  3 255.9 [255.5-272.9]         0.038  43% 45%  4    accepted:usercentrics-api tcf:no-tcf
+idealo.fr       refuse  3 297.8 [291.6-303.3]         0.02   14% 24%  2    refused:usercentrics-api tcf:no-tcf
+idmarket.com    accept  5 312.9 [234.6-338.4]         0.165  27% 29%  3    accepted:didomi tcf:no-tcf
+idmarket.com    refuse  5 114.9 [114.4-216.9]         0.318  6%  8%   1    refused:didomi tcf:no-tcf
+ient.fr         accept  3 32 [31.8-33.3]              0.024  0%  0%   1    no-cmp tcf:no-tcf
+ikea            accept  3 250.6 [250.4-251.2]         0.002  26% 27%  3    accepted:Onetrust tcf:no-tcf
+ikea            refuse  3 148.7 [148.4-149.3]         0.003  0%  0%   1    refused:Onetrust tcf:no-tcf
+iledefrance-mobilites.fr accept  3 127.8 [122.9-128.2]         0.023  11% 12%  1    accepted:axeptio tcf:no-tcf
+iledefrance-mobilites.fr refuse  3 116.8 [113.8-117.1]         0.015  7%  8%   1    refused:axeptio tcf:no-tcf
+ilovepdf.com    accept  3 55.1 [54.6-56.6]            0.019  3%  4%   1    accepted:ilovepdf tcf:MISMATCH:0-vendors
+ilovepdf.com    refuse  3 51.7 [51.5-53.9]            0.026  3%  3%   1    refused:ilovepdf tcf:ok
+imgsrc.ru       accept  3 63.7 [63.7-64.3]            0.005  1%  2%   1    no-cmp tcf:no-tcf
+immo-pour-vous.fr accept  3 28.6 [28.5-28.8]            0.006  0%  0%   1    no-cmp tcf:no-tcf
+imonecho.com    accept  3 38.8 [38.8-38.9]            0.002  0%  0%   1    no-cmp tcf:no-tcf
+impots          accept  3 63 [62.9-63.3]              0.003  0%  0%   1    no-cmp tcf:no-tcf
+indeed.com      accept  0 BLOCKED/ERROR http-403
+indeed.com      refuse  0 BLOCKED/ERROR http-403
+info-retraite.fr accept  3 38.1 [37.6-38.3]            0.01   0%  1%   1    accepted:tarteaucitron deny tcf:no-tcf
+info-retraite.fr refuse  3 37.5 [37.4-37.6]            0.003  1%  1%   1    refused:tarteaucitron deny tcf:no-tcf
+instagram.com   accept  3 77.7 [77.3-77.7]            0.003  0%  0%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+instagram.com   refuse  3 75.2 [73.8-75.3]            0.012  0%  0%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+instant-gaming.com accept  3 117.4 [114.8-122.6]         0.033  30% 30%  2    accepted:auto_CH_instant-gaming.com_8j3 tcf:no-tcf
+instant-gaming.com refuse  3 117.4 [111.2-120.3]         0.04   30% 30%  2    refused:auto_CH_instant-gaming.com_8j3 tcf:no-tcf
+interieur.gouv.fr accept  3 79.4 [77.9-79.7]            0.012  3%  3%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+interieur.gouv.fr refuse  3 76.9 [76.7-77]              0.002  2%  3%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+isp.golf        accept  3 48.6 [48.5-49.6]            0.013  1%  1%   1    no-cmp tcf:no-tcf
+ivdid.com       accept  3 31.8 [30.1-31.8]            0.032  1%  2%   1    no-cmp tcf:no-tcf
+jcphi.com       accept  3 28.6 [28.4-28.6]            0.003  0%  0%   1    no-cmp tcf:no-tcf
+jeanmarcmorandini.com accept  0 BLOCKED/ERROR http-403
+jeanmarcmorandini.com refuse  0 BLOCKED/ERROR http-403
+jechange.fr     accept  5 64.6 [57.1-66.6]            0.073  1%  1%   1    no-cmp tcf:no-tcf
+jecontacte.com  accept  5 191.5 [170.5-201.9]         0.064  76% 76%  4    accepted:funding-choices tcf:no-tcf
+jecontacte.com  refuse  3 110.1 [109.2-116.8]         0.037  57% 58%  2    refused:funding-choices tcf:no-tcf
+jellycat.com    accept  0 BLOCKED/ERROR http-403
+jellycat.com    refuse  0 BLOCKED/ERROR http-403
+jetpunk.com     accept  0 BLOCKED/ERROR http-403
+jetpunk.com     refuse  0 BLOCKED/ERROR http-403
+jeu-du-solitaire.com accept  5 165.2 [162-189.8]           0.078  65% 65%  4    accepted:funding-choices tcf:no-tcf
+jeu-du-solitaire.com refuse  3 101.4 [100.6-101.6]         0.006  42% 43%  2    refused:funding-choices tcf:no-tcf
+jeusol.fr       accept  5 715.4 [682.1-801.5]         0.071  85% 90%  20   accepted:cookie-script tcf:ok
+jeusol.fr       refuse  5 121.9 [121.6-164]           0.145  44% 49%  2    refused:cookie-script tcf:ok
+jigsawplanet.com accept  3 114 [112.6-115.5]           0.013  30% 30%  2    accepted:Cybotcookiebot tcf:no-stored-choice
+jigsawplanet.com refuse  5 119.5 [84.7-124.9]          0.19   57% 57%  3    refused:Cybotcookiebot tcf:ok
+jooble.org      accept  0 BLOCKED/ERROR http-403
+jooble.org      refuse  0 BLOCKED/ERROR http-403
+joueclub.fr     accept  3 244.4 [244.3-249.2]         0.011  53% 55%  4    accepted:didomi tcf:ok
+joueclub.fr     refuse  3 162.6 [160.1-171]           0.035  43% 45%  2    refused:didomi tcf:ok
+journaldesfemmes.fr accept  5 1094 [651.3-1122.2]         0.247  79% 81%  29   accepted:AppConsent legacy tcf:ok
+journaldesfemmes.fr refuse  5 94.4 [93.5-133.8]           0.174  23% 25%  1    refused:AppConsent legacy+redirect tcf:no-stored-choice
+journaldugeek.com accept  3 923.8 [918.5-1000]          0.048  88% 89%  24   accepted:Sirdata tcf:ok
+journaldugeek.com refuse  5 85.6 [84.3-292]             0.664  15% 16%  1    refused:Sirdata tcf:ok,no-stored-choice
+joybuy.fr       accept  3 147.5 [147.3-148.5]         0.004  35% 36%  2    no-cmp tcf:no-tcf
+jules.com       accept  3 119.6 [118.4-121.2]         0.012  7%  8%   1    accepted:didomi tcf:no-tcf
+jules.com       refuse  3 102.7 [96.5-103.3]          0.037  5%  5%   1    refused:didomi tcf:no-tcf
+justice.gouv.fr accept  3 39.1 [38.3-40.5]            0.028  0%  0%   1    accepted:casier-judiciaire-justice-gouv-fr tcf:no-tcf
+justice.gouv.fr refuse  3 38.9 [38.7-40]              0.018  0%  0%   1    refused:casier-judiciaire-justice-gouv-fr tcf:no-tcf
+jw.org          accept  3 103.3 [101.8-103.9]         0.01   5%  6%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+jw.org          refuse  3 102.4 [99.6-103]            0.018  5%  6%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+kakamanga.com   accept  3 56.7 [56-58.1]              0.02   4%  5%   1    no-cmp tcf:no-tcf
+kayak.fr        accept  5 257.5 [153.9-419]           0.402  14% 18%  1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+kayak.fr        refuse  5 345.4 [198.3-374.6]         0.304  10% 19%  1    refused:HEURISTIC-REJECT tcf:no-tcf
+keops-ingenierie.fr accept  3 66.8 [66.3-71.9]            0.046  8%  9%   1    no-cmp tcf:no-tcf
+kiauto.fr       accept  3 50.8 [50.6-51.2]            0.006  7%  10%  1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+kiauto.fr       refuse  3 50.3 [49.6-50.4]            0.009  7%  10%  1    refused:HEURISTIC-REJECT tcf:no-tcf
+kikocosmetics.com accept  0 BLOCKED/ERROR challenge
+kinepolis.fr    accept  3 159.9 [159.3-161.3]         0.006  23% 23%  2    accepted:consentmanager.net tcf:no-tcf
+kinepolis.fr    refuse  3 158.2 [158-164.3]           0.022  23% 23%  2    refused:consentmanager.net tcf:no-tcf
+kingmods.net    accept  5 441.4 [225.8-832.8]         0.576  65% 67%  5    accepted:fastcmp tcf:ok
+kingmods.net    refuse  3 167.2 [165.7-176.9]         0.036  14% 17%  1    refused:fastcmp tcf:ok
+klikego.com     accept  3 52.7 [52.2-53.8]            0.015  9%  10%  1    no-cmp tcf:no-tcf
+ko-fi.com       accept  0 BLOCKED/ERROR http-403
+ko-fi.com       refuse  0 BLOCKED/ERROR http-403
+kyara.games     accept  3 98.6 [97.9-101]             0.017  0%  0%   1    no-cmp tcf:no-tcf
+labanquepostale.fr accept  3 60.6 [59.6-61]              0.012  4%  5%   1    accepted:auto_CH_labanquepostale.fr_o6f_+1 tcf:no-tcf
+labanquepostale.fr refuse  3 59.4 [59.1-59.6]            0.004  4%  5%   1    refused:auto_CH_labanquepostale.fr_o6f_+1 tcf:no-tcf
+labourseauxlivres.fr accept  5 271.8 [249.6-349.7]         0.155  3%  3%   2    accepted:pandectes tcf:no-tcf
+labourseauxlivres.fr refuse  5 240 [208.4-325.6]           0.228  3%  3%   2    refused:pandectes tcf:no-tcf
+laboutiqueofficielle.com accept  0 BLOCKED/ERROR http-403
+lacentrale.fr   accept  1 191 [191-191]               0      20% 21%  2    error tcf:no-stored-choice,no-tcf
+lachainemeteo.com accept  5 1381.6 [1139.9-1425.4]      0.087  88% 89%  37   accepted:AppConsent legacy tcf:ok
+lachainemeteo.com refuse  5 122.7 [93.3-125.5]          0.151  30% 30%  2    refused:AppConsent legacy tcf:ok
+lacremedugaming.fr accept  5 413.7 [230-452.7]           0.231  76% 79%  6    accepted:didomi tcf:ok
+lacremedugaming.fr refuse  3 123.4 [122.6-123.6]         0.004  46% 48%  2    refused:didomi tcf:ok
+ladepeche.fr    accept  3 850.1 [829.4-895.9]         0.04   86% 86%  22   accepted:didomi tcf:ok
+ladepeche.fr    refuse  3 112.2 [111.1-112.6]         0.007  37% 38%  2    refused:didomi tcf:no-stored-choice
+ladyxena.com    accept  3 67.6 [65.6-68.3]            0.021  6%  7%   1    no-cmp tcf:no-tcf
+lafeemaraboutee.fr accept  5 407.9 [342.8-454.1]         0.118  25% 26%  3    accepted:didomi tcf:no-tcf
+lafeemaraboutee.fr refuse  5 374.3 [260-459.8]           0.245  21% 22%  3    refused:didomi tcf:no-tcf
+lafoirfouille.fr accept  3 93.4 [92.5-96.8]            0.024  9%  10%  1    accepted:cookieyes tcf:no-tcf
+lafoirfouille.fr refuse  3 91.3 [89.7-92.8]            0.017  9%  10%  1    refused:cookieyes tcf:no-tcf
+lagged.com      accept  5 208.1 [177.5-209.8]         0.069  64% 65%  5    accepted:funding-choices tcf:no-tcf
+lagged.com      refuse  3 126.4 [125.9-126.8]         0.003  35% 36%  2    no-cmp tcf:no-tcf
+lahalle.com     accept  0 BLOCKED/ERROR http-403
+lahalle.com     refuse  0 BLOCKED/ERROR http-403
+lalibre.be      accept  3 1463.7 [1394.7-1501.2]      0.037  87% 88%  35   accepted:didomi tcf:ok
+lalibre.be      refuse  3 418.1 [417.7-419.7]         0.002  63% 63%  7    refused:didomi tcf:ok
+lameteoagricole.net accept  5 1552.7 [1184-1695.9]        0.154  74% 76%  21   accepted:AppConsent legacy tcf:ok
+lameteoagricole.net refuse  5 541 [461-643.9]             0.125  52% 54%  5    refused:AppConsent legacy tcf:ok
+lamontagne.fr   accept  5 1505.6 [1400.2-1714.2]      0.076  89% 90%  39   accepted:didomi tcf:ok
+lamontagne.fr   refuse  3 156.4 [153.5-159.4]         0.019  5%  7%   1    refused:didomi tcf:ok
+lanouvellerepublique.fr accept  5 843.8 [789.2-921.4]         0.062  84% 85%  21   accepted:didomi tcf:ok
+lanouvellerepublique.fr refuse  3 134.5 [133.4-135.2]         0.007  33% 33%  2    refused:didomi tcf:ok
+laparfumerie.eu accept  3 107.6 [107.1-110.2]         0.015  15% 16%  1    accepted:axeptio tcf:no-tcf
+laparfumerie.eu refuse  3 101.2 [101-101.9]           0.004  11% 12%  1    failed:axeptio tcf:no-tcf
+laplateformeducoiffeur.com accept  3 217.8 [208.7-226.3]         0.041  9%  10%  2    accepted:axeptio tcf:no-tcf
+laplateformeducoiffeur.com refuse  5 138.1 [135.5-324.8]         0.477  7%  8%   1    refused:axeptio tcf:no-tcf
+laposte.fr      accept  3 105.6 [104.9-107.3]         0.012  2%  3%   1    accepted:auto_CH_laposte.fr_ctu_+2 tcf:no-tcf
+laposte.fr      refuse  3 164.6 [162.2-164.9]         0.009  23% 24%  2    refused:auto_CH_laposte.fr_ctu_+2 tcf:no-tcf
+laposte.net     accept  5 2179.7 [2054.3-2266.3]      0.044  94% 95%  55   accepted:didomi tcf:ok
+laposte.net     refuse  3 97.7 [97.6-98]              0.002  43% 46%  2    refused:didomi tcf:ok
+laprovence.com  accept  5 1223.1 [996.1-1445.9]       0.153  65% 67%  24   accepted:didomi tcf:ok
+laprovence.com  refuse  5 532.8 [309-578.9]           0.217  21% 21%  4    refused:didomi tcf:ok
+larep.fr        accept  5 1427.8 [1266.2-1526.5]      0.076  89% 89%  39   accepted:didomi tcf:ok
+larep.fr        refuse  4 157.1 [152.5-168.8]         0.044  5%  7%   1    refused:didomi tcf:ok
+larepubliquedespyrenees.fr accept  5 1090.6 [1035.3-1536.4]      0.177  90% 90%  29   accepted:didomi tcf:ok
+larepubliquedespyrenees.fr refuse  3 187.3 [186.9-187.8]         0.002  59% 60%  3    refused:didomi tcf:ok
+largus.fr       accept  5 787.1 [688.4-815]           0.068  89% 90%  23   accepted:didomi tcf:ok
+largus.fr       refuse  3 129.5 [129.1-129.9]         0.003  8%  11%  1    refused:didomi tcf:ok
+lassuranceretraite.fr accept  3 57.7 [57.7-59.5]            0.018  1%  1%   1    accepted:tarteaucitron deny tcf:no-tcf
+lassuranceretraite.fr refuse  3 57.4 [57.3-57.5]            0.002  1%  1%   1    refused:tarteaucitron deny tcf:no-tcf
+lastminute.com  accept  0 BLOCKED/ERROR http-403
+lastminute.com  refuse  0 BLOCKED/ERROR http-403
+lastwar.com     accept  5 50.5 [44.5-56.7]            0.107  0%  0%   1    accepted:Onetrust+redirect tcf:no-tcf
+lastwar.com     refuse  5 46.6 [44.9-56]              0.09   0%  1%   1    detected-no-action:Onetrust+redirect tcf:no-tcf
+lavoixdunord.fr accept  5 1275.6 [1085.2-1344.5]      0.104  89% 89%  30   accepted:didomi tcf:ok
+lavoixdunord.fr refuse  3 121.3 [119.1-123.7]         0.019  36% 37%  2    refused:didomi tcf:ok
+ldlc.com        accept  3 67.6 [67.1-69.1]            0.015  2%  2%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+ldlc.com        refuse  3 69.7 [68.4-70.3]            0.014  2%  2%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+leakimedia.com  accept  5 85 [75.2-112.2]             0.174  7%  8%   1    detected-no-action:HEURISTIC-TIER2 tcf:no-tcf
+leakimedia.com  refuse  5 90.2 [75.7-144.4]           0.291  7%  8%   1    refused:HEURISTIC-TIER2 tcf:no-tcf
+leberry.fr      accept  5 1399.2 [1266.3-1445.4]      0.049  88% 89%  37   accepted:didomi tcf:ok
+leberry.fr      refuse  5 157.1 [116.5-166.5]         0.132  5%  6%   1    refused:didomi tcf:ok
+leclercdrive.fr accept  0 BLOCKED/ERROR http-403
+ledauphine.com  accept  5 1398.7 [1141.9-1425.4]      0.101  89% 90%  37   accepted:didomi tcf:ok
+ledauphine.com  refuse  3 81.1 [79.7-85.8]            0.039  15% 17%  1    refused:didomi tcf:no-stored-choice
+lefigaro        accept  5 1332 [1290.3-1484.1]        0.059  86% 87%  34   accepted:AppConsent tcf:ok
+lefigaro        refuse  3 165.2 [159.1-174.6]         0.047  14% 15%  1    refused:AppConsent+redirect tcf:ok
+lego.com        accept  3 100 [99.9-101]              0.006  0%  0%   1    detected-no-action:lego tcf:no-tcf
+lego.com        refuse  3 99.6 [99.2-101.8]           0.014  0%  0%   1    detected-no-action:lego tcf:no-tcf
+lejdd.fr        accept  0 BLOCKED/ERROR http-403
+lejdd.fr        refuse  0 BLOCKED/ERROR http-403
+lejsl.com       accept  3 1324.8 [1283.3-1389.7]      0.04   88% 89%  36   accepted:didomi tcf:ok
+lejsl.com       refuse  5 81.7 [75.1-123.9]           0.222  16% 18%  1    refused:didomi tcf:no-stored-choice
+lelscans.net    accept  3 28.7 [28.7-28.7]            0.001  0%  0%   1    no-cmp tcf:no-tcf
+lemonde         accept  5 668.2 [445.3-759.8]         0.236  82% 82%  18   accepted:lemonde-pay-or-accept tcf:ok
+lemonde         refuse  3 93.4 [92.3-94.6]            0.012  29% 29%  2    failed:lemonde-pay-or-accept tcf:no-tcf
+leparisien      accept  5 1390 [1219.5-1516.5]        0.078  86% 86%  35   accepted:didomi tcf:ok
+leparisien      refuse  3 172.6 [164.7-176.1]         0.034  24% 25%  2    refused:didomi tcf:ok
+lepopulaire.fr  accept  5 1408.3 [898.2-1520.1]       0.184  88% 89%  37   accepted:didomi tcf:ok
+lepopulaire.fr  refuse  5 152.8 [116.4-155.9]         0.141  5%  7%   1    refused:didomi tcf:ok
+leprogres.fr    accept  5 1482 [1338.9-1591]          0.076  91% 91%  38   accepted:didomi tcf:ok
+leprogres.fr    refuse  5 83.9 [79.8-123.5]           0.201  16% 18%  1    refused:didomi tcf:no-stored-choice
+lequipe.fr      accept  5 1414.5 [1259.8-1592.6]      0.085  81% 82%  33   accepted:didomi tcf:ok
+lequipe.fr      refuse  5 521.3 [329.1-658]           0.231  59% 61%  10   refused:didomi tcf:ok
+lerobert.com    accept  3 1417.7 [1355.8-1461.6]      0.038  89% 91%  37   accepted:didomi tcf:ok
+lerobert.com    refuse  5 156.3 [149.1-185.6]         0.109  52% 52%  3    refused:didomi tcf:ok
+leroymerlin.com accept  3 33.5 [33.4-33.6]            0.002  2%  3%   1    no-cmp tcf:no-tcf
+lesechos.fr     accept  3 1276.6 [1245.7-1332.2]      0.034  83% 83%  31   accepted:didomi tcf:ok
+lesechos.fr     refuse  3 103.9 [102.9-107.3]         0.022  6%  7%   1    refused:didomi tcf:ok
+lesgeorgettes.com accept  3 106.8 [105.5-107.7]         0.01   16% 17%  1    accepted:didomi tcf:ok
+lesgeorgettes.com refuse  3 99.7 [98.4-102.5]           0.021  14% 16%  1    refused:didomi tcf:ok
+lesnumeriques.com accept  5 407.2 [379.3-1381.1]        0.706  58% 59%  7    accepted:didomi tcf:ok
+lesnumeriques.com refuse  5 221 [219.5-270.7]           0.094  12% 15%  1    refused:didomi tcf:ok
+lesoir.be       accept  5 1319.8 [1240.7-1393.5]      0.048  91% 92%  38   accepted:didomi tcf:ok
+lesoir.be       refuse  3 87.3 [86.4-88.6]            0.013  16% 17%  1    refused:didomi tcf:ok
+lespompeurs.com accept  0 BLOCKED/ERROR http-403
+lesrebeus.com   accept  3 40.5 [40-41.9]              0.025  6%  7%   1    no-cmp tcf:no-tcf
+letelegramme.fr accept  5 1047.3 [899.6-1156.8]       0.092  86% 88%  28   accepted:didomi tcf:ok
+letelegramme.fr refuse  3 125.8 [123.9-126.3]         0.01   43% 44%  2    refused:didomi tcf:ok
+letribunaldunet.fr accept  3 1278.8 [1217.6-1330]        0.044  93% 94%  37   accepted:funding-choices tcf:no-tcf
+letribunaldunet.fr refuse  5 71.8 [67.8-78]              0.054  16% 17%  1    refused:funding-choices tcf:no-tcf
+letrot.com      accept  3 210.3 [207.1-210.8]         0.009  59% 60%  4    accepted:tarteaucitron deny tcf:no-tcf
+letrot.com      refuse  3 212.3 [212.2-213.9]         0.005  59% 59%  4    refused:tarteaucitron deny tcf:no-tcf
+leveil.fr       accept  5 1359.5 [1212.4-1446.4]      0.065  88% 90%  36   accepted:didomi tcf:ok
+leveil.fr       refuse  5 155.1 [117.9-157.3]         0.112  5%  6%   1    refused:didomi tcf:ok
+lexpress.fr     accept  3 2226 [2122.3-2275.7]        0.035  92% 93%  51   accepted:didomi tcf:ok
+lexpress.fr     refuse  3 287.3 [285.6-288]           0.004  63% 63%  4    refused:didomi+redirect tcf:ok
+libertic.com    accept  3 111.2 [110.9-111.7]         0.003  56% 57%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+libertic.com    refuse  3 111.8 [111-114.6]           0.017  56% 57%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+libramemoria.com accept  4 1122.6 [1051.1-1155]        0.042  91% 91%  32.5 accepted:didomi tcf:ok
+libramemoria.com refuse  3 173.6 [173.2-174.4]         0.004  58% 58%  3    refused:didomi tcf:ok
+lichess.org     accept  3 69.4 [67-70.8]              0.028  0%  0%   1    no-cmp tcf:no-tcf
+lidl            accept  3 339.7 [331.8-345.1]         0.02   31% 31%  4    accepted:Onetrust tcf:ok
+lidl            refuse  3 189.1 [182.8-196.7]         0.037  2%  2%   1    refused:Onetrust tcf:ok
+lindependant.fr accept  5 1003.5 [812.3-1116.2]       0.126  89% 89%  28   accepted:didomi tcf:ok
+lindependant.fr refuse  3 104.7 [102.9-108.1]         0.025  40% 41%  2    refused:didomi tcf:no-stored-choice
+linkedin.com    accept  5 232.9 [203.3-234.6]         0.059  76% 76%  6    accepted:linkedin.com tcf:no-tcf
+linkedin.com    refuse  3 205.1 [204.1-205.2]         0.003  73% 73%  5    refused:linkedin.com tcf:no-tcf
+linternaute.com accept  5 1098.4 [910.4-1329.4]       0.134  87% 89%  31   accepted:AppConsent legacy tcf:ok
+linternaute.com refuse  3 99.1 [98.1-103.5]           0.029  22% 23%  1    refused:AppConsent legacy+redirect tcf:no-stored-choice
+linvosges.com   accept  5 131.7 [127.5-161.4]         0.102  25% 25%  2    accepted:Onetrust tcf:no-tcf
+linvosges.com   refuse  3 87.7 [86.1-92.8]            0.039  3%  4%   1    refused:Onetrust tcf:no-tcf
+listesdemots.net accept  5 988.7 [886.4-1023.8]        0.061  94% 94%  26   accepted:AppConsent tcf:ok
+listesdemots.net refuse  5 141.7 [74.1-149.6]          0.262  61% 66%  3    refused:AppConsent tcf:ok
+live.com        accept  3 211 [209.5-212.5]           0.007  25% 26%  2    accepted:microsoft.com tcf:no-tcf
+live.com        refuse  3 161.3 [158.6-161.5]         0.01   4%  5%   1    failed:microsoft.com tcf:no-tcf
+livebyoptimum.com accept  3 104.3 [102.8-104.8]         0.01   0%  0%   1    no-cmp tcf:no-tcf
+liveffn.com     accept  3 41.8 [41.7-43]              0.017  0%  0%   1    no-cmp tcf:no-tcf
+livefoot.fr     accept  3 1583.4 [1544.5-1601.8]      0.019  84% 86%  32   accepted:Sirdata tcf:ok
+livefoot.fr     refuse  5 64.3 [56.4-65.4]            0.058  4%  4%   1    refused:Sirdata tcf:ok,no-stored-choice
+livetrail.net   accept  3 93.3 [93.1-93.8]            0.004  0%  0%   1    no-cmp tcf:no-tcf
+locservice.fr   accept  5 140.6 [132.8-187.4]         0.149  27% 29%  2    accepted:Sirdata tcf:ok
+locservice.fr   refuse  5 126.7 [85-151.8]            0.201  3%  5%   1    refused:Sirdata tcf:ok,no-stored-choice
+logic-immo.com  accept  0 BLOCKED/ERROR http-403
+logicieleducatif.fr accept  0 BLOCKED/ERROR http-403
+logicieleducatif.fr refuse  0 BLOCKED/ERROR http-403
+lovetrans.com   accept  3 40.1 [40-40.3]              0.003  6%  7%   1    no-cmp tcf:no-tcf
+lpsg.com        accept  3 53 [53-54.5]                0.017  9%  9%   1    accepted:xenforo-cookie-consent tcf:no-tcf
+lpsg.com        refuse  3 48 [47.9-48.6]              0.008  6%  7%   1    refused:xenforo-cookie-consent tcf:no-tcf
+lrpresse.fr     accept  3 40.6 [40.2-40.7]            0.006  0%  0%   1    hidden-no-choice:Complianz notice tcf:no-tcf
+lrpresse.fr     refuse  3 40.7 [40.6-40.7]            0.001  0%  0%   1    hidden-no-choice:Complianz notice tcf:no-tcf
+lunion.fr       accept  5 1055.7 [947.1-1171.7]       0.095  89% 90%  30   accepted:didomi tcf:ok
+lunion.fr       refuse  3 119.4 [117.4-119.7]         0.011  38% 40%  2    refused:didomi tcf:ok
+luugy.com       accept  3 29.6 [29.6-29.9]            0.006  0%  0%   1    no-cmp tcf:no-tcf
+lyonaeroports.com accept  3 232.4 [232.3-233.5]         0.003  52% 53%  3    accepted:Sirdata tcf:ok
+lyonaeroports.com refuse  3 191.3 [191.3-193.5]         0.007  46% 46%  2    refused:Sirdata tcf:ok
+m6.fr           accept  3 245.5 [244.9-247.6]         0.006  27% 28%  3    accepted:didomi tcf:ok
+m6.fr           refuse  3 182.4 [180.7-184]           0.009  5%  6%   1    refused:didomi+redirect tcf:ok
+ma-queue.com    accept  3 36 [35.5-36.2]              0.01   8%  9%   1    no-cmp tcf:no-tcf
+mabanque.bnpparibas accept  4 258.7 [234.1-259.9]         0.05   15% 22%  2    accepted:Onetrust tcf:no-tcf
+mabanque.bnpparibas refuse  5 133.4 [122.9-140.4]         0.052  0%  0%   1    refused:Onetrust tcf:no-tcf
+macifvie.fr     accept  0 BLOCKED/ERROR http-403
+made-in-china.com accept  3 94.4 [93.4-95]              0.009  21% 22%  1    accepted:consentmanager.net tcf:no-tcf
+made-in-china.com refuse  3 88.8 [88.5-91.9]            0.021  19% 21%  1    refused:consentmanager.net tcf:no-tcf
+mademoiselle-bio.com accept  0 BLOCKED/ERROR http-403
+magicmaman.com  accept  3 2607.8 [2466-2650.1]        0.037  95% 95%  64   accepted:didomi tcf:ok
+magicmaman.com  refuse  3 415.1 [413.9-415.2]         0.002  74% 75%  10   refused:didomi tcf:no-stored-choice
+mahjong.fr      accept  3 38.7 [38.4-39.1]            0.008  6%  7%   1    no-cmp tcf:no-tcf
+maieuticapp.com accept  3 86.2 [85.5-87.5]            0.012  18% 22%  1    no-cmp tcf:no-tcf
+maif.fr         accept  3 92.2 [91.3-92.5]            0.007  0%  0%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+maif.fr         refuse  3 91.9 [91-92.8]              0.01   0%  0%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+maiia.com       accept  3 90.6 [89.7-93]              0.019  0%  0%   1    accepted:tarteaucitron deny tcf:no-tcf
+maiia.com       refuse  3 89.7 [89.3-92.2]            0.017  0%  0%   1    refused:tarteaucitron deny tcf:no-tcf
+mailo.com       accept  3 53.4 [52.9-54]              0.011  0%  0%   1    no-cmp tcf:no-tcf
+maison-etanche.com accept  1 258.4 [258.4-258.4]         0      47% 48%  3    accepted:AppConsent legacy tcf:ok
+maison-etanche.com refuse  0 BLOCKED/ERROR http-403
+maison-travaux.fr accept  3 1238.3 [1225.1-1286.5]      0.026  92% 92%  33   accepted:didomi tcf:ok
+maison-travaux.fr refuse  5 135.4 [101.6-145]           0.13   38% 39%  2    refused:didomi tcf:ok,no-stored-choice
+maisonetstyles.com accept  3 88 [85.1-88.2]              0.02   12% 13%  1    accepted:didomi tcf:no-tcf
+maisonetstyles.com refuse  3 67.6 [66.5-69.1]            0.019  9%  10%  1    refused:didomi tcf:no-tcf
+mangago.me      accept  3 85.1 [82.1-86.3]            0.026  15% 16%  1    no-cmp tcf:no-tcf
+mango.com       accept  3 76.5 [74.7-77.8]            0.02   0%  0%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+mango.com       refuse  3 88.7 [88.2-89.5]            0.007  4%  4%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+manucurist.com  accept  3 325.5 [323.6-326.8]         0.005  21% 22%  3    accepted:didomi tcf:ok
+manucurist.com  refuse  3 252.4 [252.3-254.1]         0.004  25% 26%  3    refused:didomi tcf:ok
+mappy.com       accept  3 121 [120.2-121.3]           0.005  16% 17%  1    accepted:didomi tcf:no-stored-choice
+mappy.com       refuse  5 191.4 [184.8-212.1]         0.057  10% 14%  1    refused:didomi tcf:ok
+marcwiner.com   accept  5 1511.7 [1096.7-1574.7]      0.138  84% 88%  36   accepted:consentmanager.net tcf:ok
+marcwiner.com   refuse  5 162.6 [135.4-163.4]         0.078  33% 42%  2    refused:consentmanager.net tcf:ok
+maree.info      accept  3 85 [81.5-85.7]              0.027  52% 53%  2    accepted:maree-info tcf:no-tcf
+maree.info      refuse  5 41.1 [40.3-45]              0.047  5%  6%   1    refused:maree-info tcf:no-tcf
+marianne.net    accept  5 1099.7 [981.7-1402.2]       0.142  84% 86%  25   accepted:didomi tcf:ok
+marianne.net    refuse  5 79.9 [79-123.1]             0.243  13% 14%  1    refused:didomi tcf:ok,no-stored-choice
+marieclaire.fr  accept  4 937 [855.2-1270.5]          0.185  86% 86%  24   accepted:didomi, tcf:ok,no-tcf
+marieclaire.fr  refuse  5 201.9 [173.4-202.7]         0.065  48% 49%  3    refused:didomi tcf:no-stored-choice
+mariefrance.fr  accept  5 624.8 [255.6-722.3]         0.319  73% 75%  13   accepted:fastcmp tcf:ok
+mariefrance.fr  refuse  3 196.6 [191.2-200.7]         0.024  41% 45%  3    refused:fastcmp tcf:ok
+marmiton        accept  4 1330 [1264-1396]            0.045  86% 86%  32.5 accepted:didomi tcf:ok
+marmiton        refuse  3 105.8 [103.8-105.8]         0.011  20% 22%  1    refused:didomi tcf:no-stored-choice
+masjidbox.com   accept  3 65.1 [64.3-65.5]            0.01   8%  8%   1    no-cmp tcf:no-tcf
+matchendirect.fr accept  5 1356.3 [856.5-1522.7]       0.199  87% 88%  29   accepted:didomi tcf:ok
+matchendirect.fr refuse  5 349.2 [305.9-979.9]         0.63   59% 68%  4    refused:didomi tcf:ok
+matmut.fr       accept  3 63 [62.4-63.7]              0.011  9%  10%  1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+matmut.fr       refuse  3 68.6 [66.9-69.1]            0.017  9%  9%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+mawaqit.net     accept  3 214 [209.2-221.4]           0.029  0%  0%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+mawaqit.net     refuse  3 217.4 [212.4-217.7]         0.014  0%  0%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+maxicoffee.com  accept  3 266.8 [264.7-275]           0.02   51% 54%  4    accepted:TrustArc-top tcf:no-tcf
+maxicoffee.com  refuse  3 220.9 [217.7-223.4]         0.013  56% 57%  4    refused:TrustArc-top tcf:no-tcf
+maxifoot.fr     accept  5 863.9 [842.1-994.6]         0.072  91% 92%  24   accepted:AppConsent legacy tcf:ok
+maxifoot.fr     refuse  5 182.3 [178.8-253.7]         0.16   57% 61%  4    refused:AppConsent legacy tcf:ok
+maximiles.com   accept  3 32.2 [31.9-32.2]            0.005  2%  2%   1    no-cmp tcf:no-tcf
+mc2g-app.com    accept  3 51.6 [51.4-52.1]            0.007  0%  0%   1    no-cmp tcf:no-tcf
+medallia.eu     accept  3 29.3 [29.2-29.6]            0.006  0%  0%   1    no-cmp tcf:no-tcf
+mediapart.fr    accept  3 74.1 [72.4-75.4]            0.021  1%  1%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+mediapart.fr    refuse  3 87.3 [84.7-87.4]            0.018  1%  1%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+meetic.fr       accept  3 91.8 [91.6-92.2]            0.003  7%  8%   1    accepted:Onetrust tcf:ok
+meetic.fr       refuse  3 73.1 [73.1-77.4]            0.034  5%  5%   1    refused:Onetrust tcf:ok
+melty.fr        accept  5 985.6 [649.1-1161.1]        0.256  87% 87%  15   accepted:fastcmp tcf:ok
+melty.fr        refuse  5 170 [133.4-190.5]           0.148  37% 41%  2    refused:fastcmp tcf:ok
+mesenvies.fr    accept  3 118.3 [117.4-121]           0.016  0%  0%   1    no-cmp tcf:no-tcf
+meteo-npdc.fr   accept  5 181.9 [166.8-188]           0.047  0%  0%   1    no-cmp tcf:no-tcf
+meteo60.fr      accept  5 678.7 [544.7-772]           0.152  68% 74%  10   accepted:quantcast tcf:ok
+meteo60.fr      refuse  5 252.6 [210.5-269.6]         0.113  45% 53%  3    refused:quantcast tcf:ok
+meteoblue.com   accept  3 370.7 [359-374.2]           0.022  18% 18%  4    accepted:funding-choices tcf:no-tcf
+meteoblue.com   refuse  5 390.4 [329.7-418.8]         0.099  17% 18%  3    refused:funding-choices tcf:no-tcf
+meteociel.fr    accept  5 132.6 [102.9-175.5]         0.191  66% 67%  4    accepted:AppConsent legacy tcf:ok
+meteociel.fr    refuse  5 77.2 [53.9-82.3]            0.153  42% 42%  2    refused:AppConsent legacy tcf:ok
+meteoconsult.fr accept  3 1193.8 [1178.3-1252.8]      0.033  84% 84%  31   accepted:AppConsent legacy tcf:ok
+meteoconsult.fr refuse  3 189 [185.2-194.5]           0.025  8%  9%   1    refused:AppConsent legacy tcf:ok
+meteofrance.com accept  5 1070.5 [1028.7-1171]        0.05   85% 85%  26   accepted:didomi tcf:ok
+meteofrance.com refuse  3 241.1 [235.1-247.5]         0.026  52% 52%  3    refused:didomi tcf:ok
+meteofrance.fr  accept  3 76.6 [73.1-77.6]            0.031  6%  6%   1    detected-no-action:didomi tcf:no-stored-choice
+meteofrance.fr  refuse  3 77 [73-80.4]                0.048  6%  6%   1    detected-no-action:didomi tcf:no-stored-choice
+meteorama.fr    accept  5 179.6 [170.3-264.1]         0.215  70% 70%  4    accepted:funding-choices tcf:no-tcf
+meteorama.fr    refuse  3 103.2 [103-103.4]           0.002  50% 51%  2    refused:funding-choices tcf:no-tcf
+meyclub.com     accept  3 94.1 [93.6-94.2]            0.003  14% 15%  1    accepted:Onetrust tcf:no-tcf
+meyclub.com     refuse  3 80.2 [79.9-80.7]            0.005  7%  8%   1    refused:Onetrust tcf:no-tcf
+mgread.io       accept  0 BLOCKED/ERROR http-403
+michaelpage.fr  accept  3 164.3 [162.5-164.9]         0.008  27% 29%  2    accepted:Onetrust tcf:no-tcf
+michaelpage.fr  refuse  3 120.6 [119.8-121.4]         0.007  7%  8%   1    refused:Onetrust tcf:no-tcf
+micromania.fr   accept  3 224.3 [221.6-224.8]         0.008  27% 29%  2    accepted:didomi tcf:ok
+micromania.fr   refuse  3 130.4 [130.1-131.3]         0.005  6%  6%   1    refused:didomi tcf:ok
+microsoft.com   accept  5 277.8 [234.3-371.6]         0.214  5%  16%  1    accepted:microsoft.com tcf:no-tcf
+microsoft.com   refuse  5 248 [201.6-289.8]           0.148  3%  5%   1    failed:microsoft.com tcf:no-tcf
+midilibre.fr    accept  5 741 [670.4-834.5]           0.089  85% 86%  19   accepted:didomi tcf:ok
+midilibre.fr    refuse  3 103.9 [103.5-104.1]         0.003  39% 40%  2    refused:didomi tcf:no-stored-choice
+milesrepublic.com accept  5 154.5 [126.4-155.4]         0.085  32% 33%  2    no-cmp tcf:no-tcf
+milirose.com    accept  0 BLOCKED/ERROR http-403
+milirose.com    refuse  0 BLOCKED/ERROR http-403
+milou.care      accept  3 84.8 [84.2-85.1]            0.006  38% 39%  2    accepted:Cybotcookiebot tcf:no-tcf
+milou.care      refuse  3 82.9 [82.8-83.2]            0.002  39% 40%  2    refused:Cybotcookiebot tcf:no-tcf
+minodusud.com   accept  3 216.2 [215.8-217.3]         0.004  53% 54%  3    accepted:axeptio tcf:no-tcf
+minodusud.com   refuse  3 214.2 [213.6-215.2]         0.004  53% 54%  3    refused:axeptio tcf:no-tcf
+mischool.fr     accept  3 79.3 [79.1-81.7]            0.018  7%  8%   1    no-cmp tcf:no-tcf
+mister-auto.com accept  3 316.1 [313.7-318.8]         0.008  44% 45%  5    accepted:didomi tcf:ok
+mister-auto.com refuse  3 187.1 [186.3-189.2]         0.008  21% 22%  2    refused:didomi tcf:ok
+misterbooking.com accept  3 53.1 [52.8-53.4]            0.006  11% 12%  1    no-cmp tcf:no-tcf
+mlab-groupe.fr  accept  3 32.7 [32.6-34.5]            0.033  0%  0%   1    no-cmp tcf:no-tcf
+modesettravaux.fr accept  5 1232.8 [1152.8-1424.4]      0.082  90% 91%  31   accepted:didomi tcf:ok
+modesettravaux.fr refuse  3 204.7 [203.8-208.4]         0.012  50% 52%  3    refused:didomi tcf:ok
+modz.fr         accept  3 291.5 [286.7-292.1]         0.01   14% 21%  2    accepted:Onetrust tcf:no-tcf
+modz.fr         refuse  5 282.7 [242.6-342]           0.139  12% 22%  2    refused:Onetrust tcf:no-tcf
+mon-essence.fr  accept  5 300.8 [238.9-342.2]         0.154  82% 82%  6    accepted:funding-choices tcf:no-tcf
+mon-essence.fr  refuse  3 112.7 [103.8-113.2]         0.048  51% 53%  2    refused:funding-choices tcf:no-tcf
+mon-horoscope-du-jour.com accept  5 946 [815.4-962.2]           0.078  74% 76%  20   accepted:funding-choices tcf:no-tcf
+mon-horoscope-du-jour.com refuse  5 422.9 [349.2-441.7]         0.088  52% 56%  6    refused:funding-choices tcf:no-tcf
+monbureaunumerique.fr accept  3 80.3 [80-80.5]              0.003  0%  0%   1    no-cmp tcf:no-tcf
+moncompteformation.gouv.fr accept  3 82.1 [81.7-83.7]            0.013  1%  1%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+moncompteformation.gouv.fr refuse  3 79 [77.6-79.2]              0.011  1%  1%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+mondial.paris   accept  5 183.6 [126.8-186.5]         0.196  39% 41%  2    accepted:cookieyes tcf:ok
+mondial.paris   refuse  3 124.5 [123.4-125]           0.007  14% 16%  1    refused:cookieyes tcf:ok
+mondialrelay.fr accept  5 248.2 [180-256.5]           0.134  64% 64%  5    accepted:didomi tcf:no-tcf
+mondialrelay.fr refuse  5 209.7 [142.5-214.5]         0.155  60% 61%  4    refused:didomi tcf:no-tcf
+mondialtissus.fr accept  3 324.6 [320.5-324.6]         0.007  46% 46%  5    accepted:didomi tcf:no-tcf
+mondialtissus.fr refuse  3 260.9 [256.7-262.1]         0.011  45% 46%  3    refused:didomi tcf:no-tcf
+monespacesante.fr accept  3 138.8 [138.3-139.3]         0.004  0%  0%   1    accepted:trustcommander-footer tcf:no-tcf
+monespacesante.fr refuse  3 139 [138.5-139.2]           0.003  0%  0%   1    refused:trustcommander-footer tcf:no-tcf
+monopolygo.com  accept  3 158.3 [156.4-159.3]         0.009  20% 20%  2    accepted:usercentrics-api tcf:no-tcf
+monopolygo.com  refuse  3 156.4 [155.6-157.3]         0.005  20% 20%  2    refused:usercentrics-api tcf:no-tcf
+monoprix.fr     accept  0 BLOCKED/ERROR http-403
+monoprix.fr     refuse  0 BLOCKED/ERROR http-403
+morgandetoi.fr  accept  3 221.9 [221.4-222.5]         0.003  67% 67%  5    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+morgandetoi.fr  refuse  3 221.6 [221-221.9]           0.002  67% 67%  5    refused:HEURISTIC-REJECT tcf:no-tcf
+motor1.com      accept  3 160 [159.8-160.4]           0.002  49% 50%  3    failed:sourcepoint-top tcf:no-stored-choice
+motor1.com      refuse  3 158.7 [157.5-160.1]         0.008  50% 51%  3    refused:sourcepoint-top tcf:no-stored-choice
+motorsport.com  accept  3 2759.3 [2670.1-2791.2]      0.023  73% 77%  39   accepted:Sourcepoint-frame tcf:ok
+motorsport.com  refuse  5 388.5 [283.9-502.1]         0.199  23% 25%  3    refused:sourcepoint-top tcf:no-stored-choice
+mr-bricolage.fr accept  0 BLOCKED/ERROR http-403
+msa.fr          accept  3 68.1 [68-69.5]              0.012  9%  9%   1    no-cmp tcf:no-tcf
+msn.com         accept  5 461 [447-663.2]             0.184  0%  0%   1    accepted:msn tcf:ok
+msn.com         refuse  3 410.5 [407-412.8]           0.007  0%  0%   1    refused:HEURISTIC-REJECT tcf:ok
+my-origines.com accept  3 203.5 [201.1-203.6]         0.007  37% 38%  3    accepted:didomi tcf:ok
+my-origines.com refuse  3 174.5 [174-176.5]           0.007  37% 38%  3    refused:didomi tcf:ok
+myextrabat.com  accept  3 35.9 [35.7-36]              0.005  1%  1%   1    no-cmp tcf:no-tcf
+myheritage.fr   accept  3 199.8 [199.4-202]           0.007  70% 71%  4    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+myheritage.fr   refuse  3 203.2 [202.5-204.5]         0.005  69% 70%  4    refused:HEURISTIC-REJECT tcf:no-tcf
+myinstants.com  accept  5 553.5 [437-1127.5]          0.432  69% 70%  8    accepted:quantcast tcf:ok
+myinstants.com  refuse  5 330.3 [311.4-383.1]         0.091  42% 44%  2    refused:quantcast tcf:ok
+mym.fans        accept  3 120.1 [116-120.9]           0.022  9%  10%  1    accepted:cookiefirst.com tcf:no-tcf
+mym.fans        refuse  3 109 [108.4-109.7]           0.006  7%  8%   1    refused:cookiefirst.com tcf:no-tcf
+myprotein.com   accept  3 440.9 [428.9-451.9]         0.026  18% 20%  4    accepted:Onetrust tcf:no-tcf
+myprotein.com   refuse  3 321.6 [315.6-322.8]         0.012  5%  6%   2    refused:Onetrust tcf:no-tcf
+namemc.com      accept  0 BLOCKED/ERROR http-403
+naturabuy.fr    accept  3 180.9 [180.8-184.6]         0.012  48% 48%  3    no-cmp tcf:no-tcf
+natureetdecouvertes.com accept  3 96.9 [96.7-97.6]            0.005  3%  3%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+natureetdecouvertes.com refuse  3 105.5 [105.2-105.6]         0.002  5%  6%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+nautiljon.com   accept  0 BLOCKED/ERROR http-403
+nautiljon.com   refuse  0 BLOCKED/ERROR http-403
+netflix.com     accept  3 169.4 [169.2-170.2]         0.003  50% 51%  2    accepted:Onetrust tcf:no-tcf
+netflix.com     refuse  5 222.7 [162.8-226.2]         0.13   38% 40%  2    refused:Onetrust tcf:no-tcf
+newpharma.fr    accept  0 BLOCKED/ERROR http-403
+newpharma.fr    refuse  0 BLOCKED/ERROR http-403
+newsouest.fr    accept  3 42.9 [42.9-44.3]            0.019  8%  9%   1    detected-no-action:HEURISTIC-TIER1 tcf:no-tcf
+newsouest.fr    refuse  3 44.2 [43-44.8]              0.02   8%  9%   1    refused:HEURISTIC-TIER1 tcf:no-tcf
+newspulsenow.net accept  3 150.5 [149.7-152.6]         0.01   51% 52%  3    no-cmp tcf:no-tcf
+nextplz.fr      accept  5 640.5 [545-671.5]           0.079  84% 84%  15   accepted:fastcmp tcf:ok
+nextplz.fr      refuse  3 143.2 [142.4-154.7]         0.047  44% 45%  2    refused:fastcmp tcf:ok
+nexusmods.com   accept  3 158.6 [157.7-159]           0.004  29% 31%  2    accepted:consentmanager.net tcf:MISMATCH:0-vendors
+nexusmods.com   refuse  3 152.3 [146.3-155.3]         0.03   30% 31%  2    refused:consentmanager.net tcf:ok
+nexxchange.com  accept  3 44.3 [44.2-44.5]            0.003  0%  0%   1    no-cmp tcf:no-tcf
+nicematin.com   accept  4 824 [711.8-1053.1]          0.171  82% 83%  20.5 accepted:didomi, tcf:ok,no-tcf
+nicematin.com   refuse  3 131.6 [131.1-133.9]         0.011  30% 31%  2    refused:didomi tcf:ok
+nickel.eu       accept  3 156.7 [154.3-157.1]         0.01   48% 49%  3    accepted:Onetrust tcf:no-tcf
+nickel.eu       refuse  3 107 [106.8-107.3]           0.002  35% 35%  2    refused:Onetrust tcf:no-tcf
+nihaojewelry.com accept  0 BLOCKED/ERROR http-403
+nike.com        accept  3 148.8 [148.1-150.2]         0.007  24% 24%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+nike.com        refuse  3 148.8 [147.4-149.5]         0.007  25% 25%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+nintendo.com    accept  5 160.8 [154.4-202.2]         0.114  3%  3%   2    accepted:Onetrust tcf:no-tcf
+nintendo.com    refuse  5 176.8 [146.8-186.2]         0.09   1%  2%   2    refused:Onetrust tcf:no-tcf
+notino.fr       accept  0 BLOCKED/ERROR http-403
+notino.fr       refuse  0 BLOCKED/ERROR http-403
+notretemps.com  accept  5 889.8 [823.2-953]           0.061  86% 87%  25   accepted:didomi tcf:ok
+notretemps.com  refuse  5 136 [107.1-136.8]           0.1    35% 35%  2    refused:didomi tcf:ok
+notube.lol      accept  3 45.4 [45.3-47.7]            0.029  0%  0%   1    accepted:corona-in-zahlen.de tcf:no-tcf
+notube.lol      refuse  3 45.4 [45.3-45.5]            0.003  0%  0%   1    failed:corona-in-zahlen.de tcf:no-tcf
+nounou-top.fr   accept  3 135.7 [133.9-136.1]         0.009  15% 17%  1    accepted:AppConsent tcf:ok
+nounou-top.fr   refuse  3 202.7 [187.2-202.8]         0.045  10% 13%  1    refused:AppConsent tcf:ok
+nouveautes-tele.com accept  5 387 [147.9-415.4]           0.322  88% 88%  11   accepted:fastcmp tcf:ok
+nouveautes-tele.com refuse  3 50.4 [50.2-51.1]            0.009  10% 12%  1    refused:fastcmp tcf:ok
+nouvelobs.com   accept  3 59.2 [58.7-59.7]            0.008  0%  0%   1    detected-no-action:HEURISTIC-TIER2 tcf:no-tcf
+nouvelobs.com   refuse  5 416.2 [352.2-789.9]         0.366  76% 77%  9    refused:HEURISTIC-TIER2 tcf:MISMATCH:233-vendors-consented
+numerama.com    accept  3 1128.1 [1097-1187]          0.04   86% 86%  27   accepted:didomi tcf:ok
+numerama.com    refuse  3 132.3 [129.2-134.1]         0.019  9%  9%   1    refused:didomi tcf:no-stored-choice
+numerique.gouv.fr accept  3 56.3 [56.1-57.8]            0.017  0%  0%   1    no-cmp tcf:no-tcf
+nutripure.fr    accept  0 BLOCKED/ERROR http-403
+nutripure.fr    refuse  0 BLOCKED/ERROR http-403
+nvgallery.com   accept  3 195.4 [194.1-201.4]         0.02   8%  9%   2    accepted:axeptio tcf:no-tcf
+nvgallery.com   refuse  3 198.7 [198.6-205.7]         0.02   9%  9%   2    failed:axeptio tcf:no-tcf
+occe.coop       accept  3 30.6 [30.6-30.7]            0.002  0%  0%   1    no-cmp tcf:no-tcf
+octopusenergy.fr accept  3 230 [229.2-232.1]           0.006  35% 35%  3    accepted:didomi tcf:no-tcf
+octopusenergy.fr refuse  3 180 [179.9-183.7]           0.012  25% 25%  2    refused:didomi tcf:no-tcf
+odalys-vacances.com accept  3 193.8 [193.5-196.6]         0.009  43% 45%  3    accepted:didomi tcf:ok
+odalys-vacances.com refuse  3 144.9 [144.7-145.2]         0.002  33% 35%  2    refused:didomi tcf:ok
+office.com      accept  3 45.1 [45-45.7]              0.008  10% 11%  1    no-cmp tcf:no-tcf
+office365.com   accept  3 45.4 [44.6-45.9]            0.015  10% 11%  1    no-cmp tcf:no-tcf
+ok.ru           accept  3 123.9 [122.3-125.6]         0.014  22% 23%  1    accepted:ok tcf:no-tcf
+ok.ru           refuse  3 122.4 [121.9-126.5]         0.02   22% 24%  1    refused:ok+redirect tcf:no-tcf
+omg10.com       accept  3 29.6 [29.6-30]              0.008  0%  0%   1    no-cmp tcf:no-tcf
+omio.com        accept  0 BLOCKED/ERROR http-403
+omio.com        refuse  0 BLOCKED/ERROR http-403
+omoda-jaecoo.fr accept  5 271.2 [256.8-363]           0.149  13% 14%  2    accepted:Cybotcookiebot tcf:no-tcf
+omoda-jaecoo.fr refuse  5 260.5 [242.9-303.2]         0.099  14% 15%  2    refused:Cybotcookiebot tcf:no-tcf
+onche.org       accept  5 199.3 [197.6-239.7]         0.096  70% 70%  5    accepted:funding-choices tcf:no-tcf
+onche.org       refuse  5 108.7 [95.8-111.2]          0.058  42% 43%  2    refused:funding-choices tcf:no-tcf
+onestock-retail.com accept  3 69.5 [69.1-69.5]            0.004  4%  4%   1    no-cmp tcf:no-tcf
+onseconnait.com accept  5 82.5 [81.8-113.8]           0.182  2%  2%   1    no-cmp tcf:no-tcf
+onvasortir.com  accept  5 1035.2 [822.6-1377.5]       0.201  92% 92%  27   accepted:quantcast tcf:ok
+onvasortir.com  refuse  3 110.4 [108.1-114.4]         0.029  39% 40%  2    refused:quantcast tcf:ok
+openai.com      accept  0 BLOCKED/ERROR http-403
+opodo.fr        accept  3 395.2 [389.1-396.3]         0.01   43% 44%  5    accepted:didomi tcf:ok
+opodo.fr        refuse  3 294.3 [286.5-295.8]         0.017  32% 32%  3    refused:didomi tcf:ok
+orange.fr       accept  5 2145.1 [2039.2-2374]        0.064  92% 93%  54   accepted:didomi tcf:ok
+orange.fr       refuse  3 135.1 [134.3-137.3]         0.011  35% 37%  2    refused:didomi tcf:ok
+oscaro.com      accept  0 BLOCKED/ERROR http-403
+oscaro.com      refuse  0 BLOCKED/ERROR http-403
+ouest-france    accept  3 1667.9 [1597-1741.2]        0.043  89% 90%  43   accepted:didomi tcf:ok
+ouest-france    refuse  3 166.6 [165.6-166.6]         0.004  50% 51%  3    refused:didomi tcf:ok
+ouestfrance-immo.com accept  5 392.1 [264.7-401.8]         0.158  61% 62%  7    accepted:didomi tcf:ok
+ouestfrance-immo.com refuse  3 128.2 [128-129.9]           0.008  7%  7%   1    refused:didomi tcf:ok
+ovhcloud.com    accept  3 137.9 [136.3-137.9]         0.007  24% 24%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+ovhcloud.com    refuse  3 137.5 [134.5-138.3]         0.015  25% 25%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+ovoko.fr        accept  0 BLOCKED/ERROR http-403
+ovoko.fr        refuse  0 BLOCKED/ERROR http-403
+oxantis.net     accept  3 36.7 [35.6-37.6]            0.026  0%  0%   1    no-cmp tcf:no-tcf
+ozap.com        accept  5 2749 [1963.9-2846.8]        0.145  96% 96%  66   accepted:didomi tcf:ok
+ozap.com        refuse  5 177 [175.7-210.3]           0.098  57% 58%  3    refused:didomi tcf:ok
+pacificpeche.com accept  3 184.5 [182.1-185.6]         0.01   47% 48%  3    accepted:Cybotcookiebot tcf:no-tcf
+pacificpeche.com refuse  5 188.1 [181.2-228.3]         0.102  46% 47%  3    refused:Cybotcookiebot tcf:no-tcf
+paddock-gp.com  accept  5 361.3 [171.9-450.5]         0.382  49% 54%  5    accepted:fastcmp tcf:ok
+paddock-gp.com  refuse  3 110.2 [109.6-114.5]         0.024  15% 17%  1    refused:fastcmp tcf:ok
+pagesjaunes.fr  accept  3 106.4 [105-106.9]           0.009  29% 31%  2    accepted:AppConsent tcf:ok
+pagesjaunes.fr  refuse  3 66.9 [66.8-68]              0.01   3%  3%   1    refused:AppConsent tcf:ok
+palombe.com     accept  5 91.2 [80.2-93.2]            0.058  52% 53%  2    no-cmp tcf:no-tcf
+pandora.net     accept  0 BLOCKED/ERROR http-403
+papillesetpupilles.fr accept  5 1788.4 [1093.9-2148.6]      0.305  92% 93%  41   accepted:consentmanager.net tcf:ok
+papillesetpupilles.fr refuse  5 236.7 [157.4-256.5]         0.229  55% 60%  4    refused:consentmanager.net tcf:ok
+pappers.fr      accept  3 64.5 [64.3-65.1]            0.006  1%  2%   1    no-cmp tcf:no-tcf
+paris-normandie.fr accept  5 1252.9 [1100.7-1386.7]      0.081  87% 89%  34   accepted:didomi tcf:ok
+paris-normandie.fr refuse  3 150.1 [149.8-151.6]         0.007  53% 53%  3    refused:didomi tcf:ok
+parismatch.be   accept  5 1416 [1372.1-1620]          0.076  89% 90%  36   accepted:didomi tcf:ok
+parismatch.be   refuse  3 453.3 [447.3-482.3]         0.041  72% 72%  8    refused:didomi tcf:ok
+parismatch.com  accept  3 74.4 [73.5-76.2]            0.018  5%  5%   1    failed:didomi tcf:no-stored-choice
+parismatch.com  refuse  3 80.8 [79.7-82.9]            0.02   6%  6%   1    refused:didomi tcf:ok
+partouche.com   accept  5 80.7 [77.5-102.6]           0.122  0%  0%   1    accepted:tarteaucitron deny tcf:no-tcf
+partouche.com   refuse  5 89.2 [80.1-101.9]           0.111  0%  0%   1    refused:tarteaucitron deny tcf:no-tcf
+paruvendu.fr    accept  4 65.7 [60.1-66]              0.045  4%  4%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+paruvendu.fr    refuse  5 141 [134.8-158.7]           0.062  23% 25%  2    refused:HEURISTIC-REJECT tcf:ok
+pathe.fr        accept  3 293.4 [292.4-295.8]         0.006  24% 24%  3    accepted:didomi tcf:ok
+pathe.fr        refuse  3 251.2 [250.3-253.6]         0.007  15% 15%  2    refused:didomi tcf:ok
+paulmarius.fr   accept  3 194.8 [191.3-194.8]         0.011  45% 47%  3    accepted:Onetrust tcf:no-tcf
+paulmarius.fr   refuse  3 188.5 [186.9-189.6]         0.007  46% 47%  3    refused:Onetrust tcf:no-tcf
+paypal.com      accept  0 BLOCKED/ERROR http-403
+pecheur.com     accept  3 186.4 [183-189.2]           0.017  56% 56%  3    accepted:didomi tcf:no-tcf
+pecheur.com     refuse  3 109 [107.4-112.5]           0.024  38% 38%  2    refused:didomi tcf:no-tcf
+perfactive.fr   accept  0 BLOCKED/ERROR http-403
+perfactive.fr   refuse  0 BLOCKED/ERROR http-403
+perlesandco.com accept  3 179.1 [179-179.6]           0.002  49% 49%  3    accepted:Onetrust tcf:no-tcf
+perlesandco.com refuse  3 175.2 [171-178.8]           0.022  50% 50%  3    refused:Onetrust tcf:no-tcf
+petitbleu.fr    accept  3 796.7 [792.6-825.6]         0.022  88% 89%  20   accepted:didomi tcf:ok
+petitbleu.fr    refuse  3 62.5 [62.4-62.5]            0.001  14% 14%  1    refused:didomi tcf:no-stored-choice
+petitfute.com   accept  5 808.7 [725.6-932.1]         0.096  89% 89%  24   accepted:Sirdata tcf:ok
+petitfute.com   refuse  5 127.2 [83.5-239.6]          0.441  33% 33%  2    refused:Sirdata tcf:ok,no-stored-choice
+philibertnet.com accept  3 140.2 [140-142]             0.008  33% 33%  2    accepted:didomi tcf:ok
+philibertnet.com refuse  3 98.8 [96.6-99.8]            0.016  12% 14%  1    refused:didomi tcf:ok
+picard.fr       accept  3 229.3 [228.3-230.4]         0.004  49% 49%  4    accepted:didomi tcf:no-tcf
+picard.fr       refuse  3 133.5 [131.8-134.4]         0.01   32% 32%  2    refused:didomi tcf:no-tcf
+pinterest.com   accept  3 188.4 [188.2-189.4]         0.003  43% 43%  3    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+pinterest.com   refuse  3 190.9 [190.5-191.3]         0.002  42% 42%  3    refused:HEURISTIC-REJECT tcf:no-tcf
+planity.com     accept  3 106.5 [105.2-106.6]         0.008  23% 24%  1    accepted:didomi tcf:ok
+planity.com     refuse  3 112.5 [104.4-113.9]         0.047  14% 18%  1    refused:didomi tcf:ok
+playstation.com accept  3 271.3 [266.4-275.1]         0.016  31% 34%  3    accepted:Onetrust tcf:no-tcf
+playstation.com refuse  3 156.4 [153.7-157.3]         0.012  4%  4%   1    refused:Onetrust tcf:no-tcf
+pleinevie.fr    accept  5 1426 [1313.1-1591.9]        0.07   93% 93%  35   accepted:didomi tcf:ok
+pleinevie.fr    refuse  3 137.5 [130.4-140.2]         0.037  42% 43%  2    refused:didomi tcf:ok
+pmu.fr          accept  3 244 [241.2-248.6]           0.015  53% 53%  5    accepted:axeptio tcf:no-tcf
+pmu.fr          refuse  3 122.6 [122.4-123.5]         0.005  9%  10%  1    refused:axeptio tcf:no-tcf
+pointdevue.fr   accept  5 1086 [994.2-1330.2]         0.114  90% 91%  30   accepted:Sirdata tcf:ok
+pointdevue.fr   refuse  5 195.9 [194.9-404.8]         0.362  53% 54%  3    refused:Sirdata tcf:ok,no-stored-choice
+pokepedia.fr    accept  3 42.8 [42.8-43.7]            0.011  0%  0%   1    no-cmp tcf:no-tcf
+poki.com        accept  3 89.8 [89.7-89.9]            0.001  11% 12%  1    accepted:quantcast tcf:ok
+poki.com        refuse  3 125.4 [123.8-127.1]         0.013  7%  8%   1    refused:quantcast tcf:ok
+polybuzz.ai     accept  5 489.5 [398.5-584.3]         0.136  51% 67%  6    accepted:funding-choices tcf:no-tcf
+polybuzz.ai     refuse  5 266.6 [167.5-276.7]         0.243  30% 54%  2    refused:funding-choices tcf:no-tcf
+poseidon-scans.net accept  3 96 [95.6-97.4]              0.01   0%  0%   1    no-cmp tcf:no-tcf
+presse-citron.net accept  4 818.2 [783.1-868.9]         0.043  89% 90%  23   accepted:Sirdata tcf:ok
+presse-citron.net refuse  5 140.1 [83.6-202.6]          0.308  46% 48%  2    refused:Sirdata tcf:ok,no-stored-choice
+primeearn.com   accept  3 58.5 [55.3-58.6]            0.033  0%  0%   1    no-cmp tcf:no-tcf
+primevideo.com  accept  3 62.3 [62-63.5]              0.013  12% 13%  1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+primevideo.com  refuse  3 74.2 [73-74.9]              0.013  11% 12%  1    refused:HEURISTIC-REJECT tcf:no-tcf
+privatemodele.com accept  3 189.1 [29.9-191.5]          0.677  0%  0%   1    no-cmp tcf:no-tcf
+prix-carburants.gouv.fr accept  3 74.5 [72.4-76.6]            0.028  0%  0%   1    no-cmp tcf:no-tcf
+procyclingstats.com accept  0 BLOCKED/ERROR http-403
+procyclingstats.com refuse  0 BLOCKED/ERROR http-403
+programme-television.org accept  5 2773.5 [2117.3-3369.9]      0.164  90% 93%  58   accepted:didomi tcf:ok
+programme-television.org refuse  5 385.6 [368-429.3]           0.065  72% 73%  7    refused:didomi tcf:ok
+programme-tv.net accept  3 3051.3 [2912.4-3065.7]      0.028  94% 95%  75   accepted:Sourcepoint-frame tcf:ok
+programme-tv.net refuse  3 80.8 [79.2-81]              0.012  5%  5%   1    refused:Sourcepoint-frame+redirect tcf:no-stored-choice
+programme.tv    accept  5 1602.2 [1462.4-1825.2]      0.088  91% 92%  40   accepted:Sourcepoint-frame tcf:ok
+programme.tv    refuse  3 58 [57.8-58.2]              0.003  1%  1%   1    refused:Sourcepoint-frame+redirect tcf:no-stored-choice
+promessedefleurs.com accept  3 171 [166.1-177.3]           0.033  42% 43%  2    accepted:mirasvit-gdpr tcf:no-tcf
+promessedefleurs.com refuse  3 159.8 [159.8-171.2]         0.04   42% 43%  2    refused:mirasvit-gdpr tcf:no-tcf
+pronosoft.com   accept  3 80.8 [80.5-83.2]            0.018  42% 43%  2    failed:Klaro tcf:no-tcf
+pronosoft.com   refuse  3 79.3 [78.4-80.6]            0.014  42% 44%  2    refused:Klaro tcf:no-tcf
+psychologies.com accept  5 1661.9 [1591.5-1779.7]      0.046  92% 92%  44   accepted:didomi tcf:ok
+psychologies.com refuse  5 164.4 [120.5-207.3]         0.21   28% 37%  2    refused:didomi tcf:ok,no-stored-choice
+purebreak.com   accept  3 108.8 [108.2-109.6]         0.006  21% 46%  1    error tcf:no-stored-choice
+purebreak.com   refuse  3 119.8 [119.4-124.2]         0.022  45% 46%  2    refused:didomi tcf:ok
+purepeople.com  accept  3 2348.5 [2324.2-2378.3]      0.012  94% 94%  59   accepted:didomi tcf:ok
+purepeople.com  refuse  3 135.7 [133-136.6]           0.014  16% 17%  1    refused:didomi tcf:ok
+quechoisir.org  accept  0 BLOCKED/ERROR http-403
+quechoisir.org  refuse  0 BLOCKED/ERROR http-403
+questionablequesting.com accept  3 48.1 [47.8-48.9]            0.012  0%  0%   1    no-cmp tcf:no-tcf
+quick.fr        accept  5 272.9 [209.5-304]           0.135  3%  3%   1    accepted:didomi tcf:no-tcf
+quick.fr        refuse  3 286.7 [268.7-290.3]         0.041  2%  2%   1    refused:didomi tcf:no-tcf
+qwant.com       accept  3 61.6 [61.1-62]              0.007  0%  0%   1    no-cmp tcf:no-tcf
+racingzone.fr   accept  5 68.1 [65-106.5]             0.25   10% 11%  1    no-cmp tcf:no-tcf
+radiofrance.fr  accept  3 240.3 [238.6-244]           0.012  19% 20%  2    accepted:didomi tcf:ok
+radiofrance.fr  refuse  3 196.7 [191.8-198.8]         0.018  5%  5%   1    refused:didomi tcf:ok
+rallye-lecture.fr accept  3 47.9 [47.2-49.2]            0.02   0%  0%   1    no-cmp tcf:no-tcf
+rangerover.com  accept  3 301.2 [297.1-301.5]         0.008  44% 46%  4    accepted:Onetrust tcf:no-tcf
+rangerover.com  refuse  3 125.2 [124.4-127.2]         0.012  13% 14%  1    refused:Onetrust tcf:no-tcf
+rassemblementnational.fr accept  3 159.5 [158.1-159.9]         0.006  53% 54%  2    accepted:axeptio tcf:no-tcf
+rassemblementnational.fr refuse  3 153 [151.6-153.4]           0.006  52% 53%  2    refused:axeptio tcf:no-tcf
+ratp.fr         accept  0 BLOCKED/ERROR http-403
+ravelry.com     accept  3 162 [161.9-162.1]           0.001  1%  1%   1    no-cmp tcf:no-tcf
+rdv-vidi.fr     accept  3 76 [75.8-76.1]              0.002  38% 39%  2    accepted:Cybotcookiebot tcf:no-tcf
+rdv-vidi.fr     refuse  3 71.5 [70.8-72.8]            0.014  40% 40%  2    refused:Cybotcookiebot tcf:no-tcf
+rdvasos.fr      accept  3 39.6 [39.6-39.7]            0.002  4%  4%   1    no-cmp tcf:no-tcf
+rdvdentiste.net accept  3 33.1 [32.9-34.9]            0.033  0%  0%   1    no-cmp tcf:no-tcf
+real-france.fr  accept  5 292.9 [185.7-398.7]         0.262  75% 77%  6    accepted:fastcmp tcf:ok
+real-france.fr  refuse  5 120.7 [83.5-131.8]          0.21   39% 45%  2    refused:fastcmp tcf:ok
+rebrickable.com accept  0 BLOCKED/ERROR http-403
+red-by-sfr.fr   accept  3 53.2 [52.8-53.3]            0.005  2%  3%   1    detected-no-action:HEURISTIC-REJECT tcf:no-stored-choice
+red-by-sfr.fr   refuse  3 52.6 [52.5-55.3]            0.029  5%  7%   1    refused:HEURISTIC-REJECT tcf:ok
+redcare-pharmacie.fr accept  3 117.3 [115.4-118.9]         0.015  14% 15%  1    accepted:usercentrics-api tcf:no-tcf
+redcare-pharmacie.fr refuse  3 102.9 [100.6-106]           0.026  12% 13%  1    refused:usercentrics-api tcf:no-tcf
+reddit.com      accept  3 254.7 [244.4-256.5]         0.026  32% 32%  3    accepted:reddit.com tcf:no-tcf
+reddit.com      refuse  5 256.3 [250.1-330.1]         0.128  33% 33%  3    refused:reddit.com tcf:no-tcf
+reducmiz.com    accept  5 308.1 [240.3-382.4]         0.2    81% 82%  6    accepted:funding-choices tcf:no-tcf
+reducmiz.com    refuse  5 117.7 [99.7-156.2]          0.168  59% 60%  2    refused:funding-choices tcf:no-tcf
+renault.com     accept  3 28.8 [28.7-28.9]            0.003  0%  0%   1    no-cmp tcf:no-tcf
+renault.fr      accept  3 356 [347.4-374.1]           0.038  37% 37%  5    accepted:Onetrust tcf:no-tcf
+renault.fr      refuse  3 203.6 [197.9-212.9]         0.037  3%  3%   1    refused:Onetrust tcf:no-tcf
+renole.com      accept  3 45 [44.9-46.7]              0.022  5%  6%   1    no-cmp tcf:no-tcf
+republicain-lorrain.fr accept  3 1436.9 [1369.7-1467.2]      0.035  89% 90%  37   accepted:didomi tcf:ok
+republicain-lorrain.fr refuse  3 84.1 [84-85.5]              0.01   16% 17%  1    refused:didomi tcf:no-stored-choice
+reso-m.fr       accept  3 83.5 [82-83.8]              0.012  7%  8%   1    accepted:tarteaucitron deny tcf:no-tcf
+reso-m.fr       refuse  3 77.3 [75.7-77.9]            0.015  4%  5%   1    refused:tarteaucitron deny tcf:no-tcf
+restaurantguru.com accept  3 146.3 [143.3-147]           0.013  46% 46%  3    accepted:funding-choices tcf:no-tcf
+restaurantguru.com refuse  3 113 [110.5-118.9]           0.038  35% 35%  2    refused:funding-choices tcf:no-tcf
+retro-stage.fr  accept  5 128.2 [127-156.1]           0.094  14% 15%  1    no-cmp tcf:no-tcf
+reverso.net     accept  5 1669.6 [1473.3-1770.2]      0.072  90% 92%  41   accepted:didomi tcf:ok
+reverso.net     refuse  5 126.3 [99.4-129.1]          0.103  34% 35%  2    refused:didomi tcf:ok
+revolut.com     accept  3 105.8 [104.6-107]           0.011  0%  0%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+revolut.com     refuse  3 102 [100-105.6]             0.027  0%  0%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+rexel.fr        accept  3 210.2 [208.2-211.9]         0.009  22% 22%  2    accepted:Onetrust tcf:no-tcf
+rexel.fr        refuse  3 140.9 [140.8-145.8]         0.02   2%  2%   1    refused:Onetrust tcf:no-tcf
+rfi.fr          accept  5 289 [209.1-343.9]           0.187  58% 58%  5    accepted:didomi tcf:ok
+rfi.fr          refuse  3 106.7 [105.6-107.3]         0.008  6%  6%   1    refused:didomi tcf:ok
+ricardocuisine.com accept  3 261.3 [260.8-269.2]         0.018  61% 62%  6    detected-no-action:didomi tcf:no-stored-choice
+ricardocuisine.com refuse  3 261.7 [260.8-262.3]         0.003  61% 62%  6    detected-no-action:didomi tcf:no-stored-choice
+rika-firenet.com accept  3 37.2 [36.9-38.5]            0.022  0%  0%   1    no-cmp tcf:no-tcf
+rituals.com     accept  3 116.1 [114.9-117.3]         0.011  4%  4%   1    accepted:Onetrust tcf:no-tcf
+rituals.com     refuse  3 97 [95.5-97.6]              0.011  4%  5%   1    refused:Onetrust tcf:no-tcf
+roblox.com      accept  3 129.3 [128.8-129.8]         0.004  22% 23%  1    accepted:roblox tcf:no-tcf
+roblox.com      refuse  3 129.2 [127.7-130.6]         0.011  22% 23%  1    refused:roblox tcf:no-tcf
+routard.com     accept  3 85.1 [81.8-85.2]            0.023  7%  8%   1    no-cmp tcf:MISMATCH:0-vendors
+rowenta.fr      accept  3 244.9 [243.9-246.6]         0.006  39% 39%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+rowenta.fr      refuse  3 276.4 [273.6-276.6]         0.006  35% 35%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+royalairmaroc.com accept  3 208.1 [207.6-209.9]         0.006  36% 37%  2    accepted:Onetrust tcf:no-tcf
+royalairmaroc.com refuse  3 173.3 [173.2-173.9]         0.002  35% 36%  2    refused:Onetrust tcf:no-tcf
+rs-online.com   accept  3 204.4 [203.1-206.8]         0.009  36% 37%  3    accepted:Ensighten tcf:no-tcf
+rs-online.com   refuse  3 97.6 [97.4-98.9]            0.008  4%  4%   1    refused:Ensighten tcf:no-tcf
+rtbf.be         accept  5 262.6 [178.7-305.2]         0.188  50% 50%  5    accepted:didomi tcf:ok
+rtbf.be         refuse  5 214.4 [125.4-252.1]         0.231  43% 44%  4    refused:didomi tcf:ok
+rtl.fr          accept  5 1147.8 [1026.7-1247]        0.093  86% 86%  32   accepted:didomi tcf:ok
+rtl.fr          refuse  5 177.6 [171.7-195.2]         0.05   3%  4%   1    refused:didomi tcf:ok
+rts.ch          accept  3 117.5 [116.7-117.6]         0.004  30% 30%  2    detected-no-action:usercentrics-api tcf:no-tcf
+rts.ch          refuse  3 111.5 [111-112.2]           0.006  28% 28%  2    refused:usercentrics-api tcf:no-tcf
+rue-des-puzzles.com accept  3 79.6 [77-81.4]              0.028  13% 14%  1    no-cmp tcf:no-tcf
+rueducommerce.fr accept  3 72.9 [72.4-73.7]            0.009  2%  2%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+rueducommerce.fr refuse  3 73.6 [71.4-75.8]            0.03   2%  2%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+rugbyrama.fr    accept  5 696.4 [670.9-865.1]         0.129  84% 86%  19   accepted:didomi tcf:ok
+rugbyrama.fr    refuse  3 104.4 [104.3-105.7]         0.007  39% 39%  2    refused:didomi tcf:no-stored-choice
+ryanair.com     accept  3 78.2 [77.7-78.3]            0.004  2%  2%   1    accepted:ryanair tcf:no-tcf
+ryanair.com     refuse  3 72.6 [72.5-73.6]            0.008  0%  0%   1    refused:ryanair tcf:no-tcf
+samsung.com     accept  3 446.6 [446-462]             0.02   62% 64%  9    accepted:TrustArc-top tcf:no-tcf
+samsung.com     refuse  3 208.8 [208.8-210]           0.003  48% 49%  4    refused:TrustArc-top tcf:no-tcf
+savefrom.net    accept  3 61.4 [61.2-64]              0.025  6%  7%   1    no-cmp tcf:no-tcf
+scan-manga.com  accept  0 BLOCKED/ERROR http-403
+scan-manga.com  refuse  0 BLOCKED/ERROR http-403
+science-et-vie.com accept  3 1314.4 [1302.3-1378.8]      0.031  93% 93%  35   accepted:didomi tcf:ok
+science-et-vie.com refuse  3 127.1 [126.9-128.3]         0.006  41% 43%  2    refused:didomi tcf:ok
+sciencepost.fr  accept  5 1054.7 [873.1-1194.9]       0.127  60% 61%  19   accepted:fastcmp tcf:ok
+sciencepost.fr  refuse  5 467.1 [432.4-515.7]         0.068  13% 15%  2    refused:fastcmp tcf:ok
+scribd.com      accept  5 196.6 [192.9-239.7]         0.099  38% 48%  3    detected-no-action:HEURISTIC-REJECT tcf:no-stored-choice
+scribd.com      refuse  5 193.1 [182.4-239.6]         0.127  40% 51%  3    refused:HEURISTIC-REJECT tcf:ok
+search-io.com   accept  3 28.4 [28.2-28.6]            0.006  0%  0%   1    no-cmp tcf:no-tcf
+search-redirect.com accept  3 28.5 [28.5-28.5]            0.001  0%  0%   1    no-cmp tcf:no-tcf
+search-sprint.com accept  3 28.4 [28.3-28.9]            0.01   0%  0%   1    no-cmp tcf:no-tcf
+secretsdujeu.com accept  5 962.2 [800-1088.8]          0.143  87% 89%  28   detected-no-action:AppConsent tcf:ok
+secretsdujeu.com refuse  5 951.7 [796.4-1110.9]        0.119  87% 89%  27   detected-no-action:AppConsent tcf:MISMATCH:830-vendors-consented
+selectra.info   accept  3 68.6 [68-70]                0.015  1%  1%   1    no-cmp tcf:no-tcf
+senscritique.com accept  3 103.4 [103.2-104.4]         0.007  14% 15%  1    error tcf:no-stored-choice
+senscritique.com refuse  5 726.4 [539.4-760.2]         0.127  60% 63%  15   refused:didomi tcf:ok
+sephora.fr      accept  0 BLOCKED/ERROR http-403
+sephora.fr      refuse  0 BLOCKED/ERROR http-403
+service-public  accept  3 68.5 [67.7-69.5]            0.013  2%  2%   1    accepted:orejime tcf:no-tcf
+service-public  refuse  3 68 [67.3-68.7]              0.011  2%  2%   1    refused:orejime tcf:no-tcf
+service-public.gouv.fr accept  3 68.8 [68.5-69.9]            0.01   2%  3%   1    accepted:orejime tcf:no-tcf
+service-public.gouv.fr refuse  3 67.6 [67.5-68.1]            0.005  1%  2%   1    refused:orejime tcf:no-tcf
+sesamath.net    accept  3 33.4 [33.1-33.4]            0.005  0%  0%   1    no-cmp tcf:no-tcf
+sexylib.com     accept  3 70.3 [69.8-71.9]            0.015  5%  5%   1    no-cmp tcf:no-tcf
+sfr.fr          accept  3 56.4 [56.3-56.8]            0.004  3%  5%   1    detected-no-action:HEURISTIC-REJECT tcf:no-stored-choice
+sfr.fr          refuse  3 55.8 [55.6-55.9]            0.003  6%  11%  1    refused:HEURISTIC-REJECT tcf:ok
+sg.fr           accept  3 78.6 [78.5-78.8]            0.002  0%  0%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+sg.fr           refuse  3 81.2 [80.9-83.5]            0.017  0%  0%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+shein.com       accept  3 247.7 [245.6-247.9]         0.005  34% 36%  2    accepted:shein.com tcf:no-tcf
+shein.com       refuse  3 185.8 [185.7-191.1]         0.016  22% 25%  1    refused:shein.com tcf:no-tcf
+shop-orchestra.com accept  3 176.5 [173.6-179.1]         0.016  26% 26%  2    accepted:axeptio tcf:no-tcf
+shop-orchestra.com refuse  3 132.6 [125.8-134]           0.034  8%  9%   1    refused:axeptio tcf:no-tcf
+shop.com        accept  5 485.8 [422.4-499.4]         0.065  5%  7%   1    accepted:shopify-dux tcf:no-tcf
+shop.com        refuse  3 447.4 [424.7-453.3]         0.034  6%  7%   1    refused:shopify-dux tcf:no-tcf
+shopify.com     accept  3 559.1 [525.8-568.3]         0.041  1%  1%   1    accepted:shopify-dux tcf:no-tcf
+shopify.com     refuse  5 465 [341.2-469.9]           0.154  0%  0%   1    refused:shopify-dux tcf:no-tcf
+shotgun.live    accept  3 124.4 [117.7-125.5]         0.034  24% 24%  2    accepted:Cybotcookiebot tcf:no-tcf
+shotgun.live    refuse  3 117.5 [113.4-118.4]         0.023  25% 25%  2    refused:Cybotcookiebot tcf:no-tcf
+showroomprive.com accept  3 120.7 [119-124.2]           0.022  2%  3%   1    accepted:showroomprive tcf:no-tcf
+showroomprive.com refuse  3 114.4 [113-114.7]           0.008  1%  1%   1    refused:showroomprive tcf:no-tcf
+sider.biz       accept  3 76.2 [75.7-76.6]            0.006  9%  9%   1    accepted:didomi tcf:no-tcf
+sider.biz       refuse  3 76.5 [75.7-76.6]            0.006  8%  9%   1    refused:didomi tcf:no-tcf
+simplifia.fr    accept  3 69.5 [68.3-70.3]            0.014  19% 20%  1    accepted:axeptio tcf:no-tcf
+simplifia.fr    refuse  3 69.1 [69.1-71.1]            0.017  19% 20%  1    refused:axeptio tcf:no-tcf
+sips-services.com accept  3 32.2 [32-32.2]              0.005  0%  0%   1    no-cmp tcf:no-tcf
+sklum.com       accept  3 177.3 [172.7-178]           0.016  42% 44%  3    accepted:didomi tcf:no-tcf
+sklum.com       refuse  3 139.8 [136.4-146.6]         0.037  31% 33%  2    refused:didomi tcf:no-tcf
+smartingly.com  accept  3 30.2 [29.9-30.3]            0.007  0%  0%   1    no-cmp tcf:no-tcf
+smartrecruiters.com accept  3 60.2 [59.3-62.6]            0.028  2%  2%   1    accepted:Onetrust tcf:no-tcf
+smartrecruiters.com refuse  3 60.2 [58.8-62.6]            0.032  1%  2%   1    refused:Onetrust tcf:no-tcf
+smythstoys.com  accept  0 BLOCKED/ERROR http-403
+snapchat.com    accept  3 64.5 [64-65.7]              0.014  0%  0%   1    no-cmp tcf:no-tcf
+snaptik.app     accept  5 318 [235.2-371.9]           0.161  80% 83%  6    accepted:funding-choices tcf:no-tcf
+snaptik.app     refuse  5 138.7 [130.9-171.4]         0.108  55% 60%  2    refused:funding-choices tcf:no-tcf
+sncf.com        accept  0 BLOCKED/ERROR http-403
+societe.com     accept  3 1461.3 [1357.8-1462.1]      0.042  93% 93%  41   accepted:didomi tcf:ok
+societe.com     refuse  3 100.2 [100-106.8]           0.038  14% 20%  1    refused:didomi tcf:ok
+sonovente.com   accept  3 158.5 [157.9-163.5]         0.019  29% 31%  2    accepted:Onetrust tcf:no-tcf
+sonovente.com   refuse  3 141.8 [141.2-145]           0.014  26% 26%  2    refused:Onetrust tcf:no-tcf
+sony.fr         accept  5 533.1 [320-544.2]           0.266  37% 38%  8    accepted:Onetrust tcf:no-tcf
+sony.fr         refuse  3 140.1 [139.2-142]           0.01   6%  7%   1    refused:Onetrust tcf:no-tcf
+sortiraparis.com accept  3 916.2 [888.6-949.1]         0.033  88% 88%  26   accepted:quantcast tcf:ok
+sortiraparis.com refuse  3 103.7 [103.4-105.9]         0.013  20% 21%  1    failed:quantcast tcf:no-stored-choice
+sosh.fr         accept  3 310.9 [302.6-312.8]         0.018  64% 65%  7    accepted:didomi tcf:ok
+sosh.fr         refuse  3 125.3 [116.2-127.8]         0.05   33% 34%  2    refused:didomi tcf:ok
+sowell.fr       accept  3 238.2 [235.5-238.8]         0.007  58% 71%  4    accepted:Sirdata tcf:MISMATCH:0-vendors
+sowell.fr       refuse  3 232.5 [230.6-236.1]         0.012  57% 71%  4    refused:Sirdata tcf:ok
+spartoo.com     accept  3 74.2 [71.9-74.4]            0.019  5%  6%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+spartoo.com     refuse  3 73.8 [73.7-74.2]            0.003  5%  5%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+speedway.fr     accept  3 158 [155.8-158.5]           0.009  19% 22%  1    accepted:axeptio tcf:no-tcf
+speedway.fr     refuse  3 132.3 [130.8-133.6]         0.01   17% 19%  1    failed:axeptio tcf:no-tcf
+speedy.fr       accept  3 272.4 [271.7-280.5]         0.018  73% 73%  7    accepted:didomi tcf:ok
+speedy.fr       refuse  3 102.8 [102.1-104.3]         0.011  41% 42%  2    refused:didomi tcf:ok
+spidersolitaire.fr accept  5 289.9 [247.4-309.3]         0.08   84% 84%  6    accepted:funding-choices tcf:no-tcf
+spidersolitaire.fr refuse  5 306.5 [238.2-323.3]         0.141  85% 85%  6    refused:HEURISTIC-TIER2 tcf:no-tcf
+sport-decouverte.com accept  3 257.5 [256.3-262.3]         0.012  66% 68%  6    accepted:didomi tcf:no-tcf
+sport-decouverte.com refuse  3 119.4 [118.6-119.5]         0.004  40% 40%  2    refused:didomi tcf:no-tcf
+sport.es        accept  3 2407.9 [2254.4-2467.1]      0.046  90% 90%  53   accepted:didomi tcf:ok
+sport.es        refuse  3 295 [292.3-296.6]           0.007  43% 44%  4    refused:didomi tcf:no-stored-choice
+sports.fr       accept  3 780.2 [775.5-792.2]         0.011  81% 83%  16   accepted:fastcmp tcf:ok
+sports.fr       refuse  5 228.9 [224.1-268.5]         0.079  43% 51%  2    refused:fastcmp tcf:ok
+sportsdirect.fr accept  3 159 [155.9-159.6]           0.012  23% 24%  2    accepted:Onetrust tcf:no-tcf
+sportsdirect.fr refuse  3 111.1 [110-114.5]           0.021  1%  1%   1    refused:Onetrust tcf:no-tcf
+spotify.com     accept  3 251.8 [251.6-259]           0.017  35% 36%  2    accepted:Onetrust tcf:ok
+spotify.com     refuse  3 246.6 [246.2-253]           0.015  35% 35%  2    refused:Onetrust tcf:ok
+stardewvalleywiki.com accept  3 47.1 [46.9-47.3]            0.004  3%  4%   1    no-cmp tcf:no-tcf
+steamcommunity.com accept  5 93.9 [92.7-106.4]           0.074  9%  9%   1    accepted:steampowered.com tcf:no-tcf
+steamcommunity.com refuse  5 104.5 [92.2-120.7]          0.111  9%  9%   1    refused:steampowered.com tcf:no-tcf
+steampowered.com accept  3 146.7 [144.6-150.8]         0.021  10% 11%  1    accepted:steampowered.com tcf:no-tcf
+steampowered.com refuse  3 147.5 [144.2-152.7]         0.029  10% 10%  1    refused:steampowered.com tcf:no-tcf
+stokomani.fr    accept  5 422.2 [347.3-448.7]         0.095  3%  4%   2    accepted:shopify tcf:no-tcf
+stokomani.fr    refuse  4 332.2 [310.4-344.7]         0.046  7%  8%   1.5  refused:shopify tcf:no-tcf
+stores-discount.com accept  3 86.3 [85.9-88.5]            0.017  10% 11%  1    detected-no-action:HEURISTIC-REJECT tcf:MISMATCH:0-vendors
+stores-discount.com refuse  3 87.9 [87.8-88.6]            0.005  9%  10%  1    refused:HEURISTIC-REJECT tcf:ok
+strava.com      accept  3 165.1 [163.7-165.6]         0.006  51% 51%  3    accepted:Cybotcookiebot tcf:no-tcf
+strava.com      refuse  3 160.5 [159.3-161.5]         0.007  52% 52%  3    refused:Cybotcookiebot tcf:no-tcf
+stych.fr        accept  3 303.5 [300.6-305.8]         0.009  28% 30%  3    accepted:axeptio tcf:no-tcf
+stych.fr        refuse  5 240.2 [235.2-313]           0.143  10% 13%  1    failed:axeptio tcf:no-tcf
+subito.it       accept  5 295.6 [217-338.1]           0.2    56% 58%  7    accepted:didomi tcf:ok
+subito.it       refuse  3 96.4 [92.3-97.3]            0.028  14% 14%  1    refused:didomi tcf:ok
+sudexpress.fr   accept  5 227.8 [201.7-232.2]         0.067  20% 21%  3    accepted:Onetrust tcf:no-tcf
+sudexpress.fr   refuse  3 162 [160.8-168.8]           0.026  8%  11%  2    refused:Onetrust tcf:no-tcf
+sudinfo.be      accept  5 387 [263.5-396.9]           0.175  30% 31%  4    error tcf:no-stored-choice
+sudinfo.be      refuse  5 400.2 [255.3-465.8]         0.213  33% 38%  4    refused:didomi tcf:ok
+sudoku.com      accept  3 2006.6 [1988.7-2107.9]      0.032  91% 92%  51   accepted:TrustArc-top tcf:ok
+sudoku.com      refuse  5 301.2 [272.6-363.3]         0.121  42% 44%  5    refused:TrustArc-top tcf:ok
+sudouest.fr     accept  3 942.7 [926.3-971.8]         0.024  77% 78%  21   accepted:didomi tcf:ok
+sudouest.fr     refuse  3 158.9 [158.6-161.8]         0.011  7%  8%   1    refused:didomi tcf:ok
+superencontre.com accept  3 65.1 [65-65.6]              0.005  18% 19%  1    accepted:AppConsent tcf:ok
+superencontre.com refuse  3 64.7 [64.5-65.3]            0.006  17% 18%  1    refused:AppConsent tcf:ok
+supersoluce.com accept  5 1054.8 [548-1145.6]         0.257  50% 51%  15   accepted:fastcmp tcf:ok
+supersoluce.com refuse  5 485.5 [461.9-634.2]         0.139  14% 16%  2    refused:fastcmp tcf:ok
+surveycenter.com accept  3 29 [28.8-29.2]              0.007  0%  0%   1    no-cmp tcf:no-tcf
+surveymonkey.com accept  3 128 [123.3-129.4]           0.025  27% 29%  1    accepted:fides tcf:no-tcf
+surveymonkey.com refuse  3 108.3 [106.5-109.9]         0.016  24% 25%  1    refused:fides tcf:no-tcf
+swgoh.gg        accept  0 BLOCKED/ERROR http-403
+t.me            accept  3 103.6 [102.8-105.4]         0.013  0%  0%   1    no-cmp tcf:no-tcf
+tameteo.com     accept  3 3381.2 [3237.1-3547]        0.046  88% 90%  71   accepted:meteored tcf:ok
+tameteo.com     refuse  5 411.6 [350.5-481.6]         0.121  68% 71%  10   refused:meteored tcf:ok
+tamildhool.tech accept  0 BLOCKED/ERROR http-403
+taokids.com     accept  3 123.7 [120.1-127.3]         0.029  41% 42%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+taokids.com     refuse  3 127.3 [122.9-133.3]         0.041  40% 41%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+tchatche.com    accept  5 994.5 [674.1-1382.8]        0.254  83% 84%  15   accepted:Sirdata tcf:ok
+tchatche.com    refuse  5 244.4 [234.3-368]           0.233  63% 64%  5    refused:Sirdata tcf:ok,no-stored-choice
+tecnomat.fr     accept  0 BLOCKED/ERROR http-403
+telemat.org     accept  3 28.7 [28.6-28.8]            0.002  0%  0%   1    no-cmp tcf:no-tcf
+telerama.fr     accept  3 85.8 [85.3-86.8]            0.009  3%  3%   1    detected-no-action:HEURISTIC-TIER2 tcf:no-tcf
+telerama.fr     refuse  3 629.6 [596.6-659.1]         0.05   78% 79%  16   refused:HEURISTIC-TIER2 tcf:MISMATCH:233-vendors-consented
+telestar.fr     accept  5 1993.3 [1871.9-2547.3]      0.145  84% 88%  33   accepted:fastcmp tcf:ok
+telestar.fr     refuse  5 407.4 [206-458.2]           0.274  27% 34%  2    refused:fastcmp tcf:ok
+temu.com        accept  3 86 [83.3-90.8]              0.044  16% 18%  1    accepted:temu tcf:no-tcf
+temu.com        refuse  3 85.1 [82.1-88.5]            0.038  15% 17%  1    refused:temu tcf:no-tcf
+tennistemple.com accept  0 BLOCKED/ERROR http-403
+tescort.com     accept  3 78.5 [77-78.8]              0.013  2%  3%   1    no-cmp tcf:no-tcf
+testerdesproduits.fr accept  3 53.7 [53.7-54.2]            0.005  6%  7%   1    detected-no-action:tarteaucitron.js tcf:no-tcf
+testerdesproduits.fr refuse  3 54.1 [53.5-54.1]            0.006  6%  7%   1    detected-no-action:tarteaucitron.js tcf:no-tcf
+tezenis.com     accept  5 699.8 [663.8-759.9]         0.054  28% 36%  6    accepted:Onetrust tcf:no-tcf
+tezenis.com     refuse  5 566 [544.1-615.8]           0.048  22% 32%  4    refused:Onetrust tcf:no-tcf
+tf1.fr          accept  3 210.8 [208.8-213.4]         0.011  5%  5%   1    accepted:didomi tcf:ok
+tf1.fr          refuse  3 194.8 [193.5-195.7]         0.006  3%  3%   1    refused:didomi tcf:ok
+tf1info.fr      accept  5 984.5 [983.3-1192.7]        0.089  59% 59%  19   accepted:didomi tcf:ok
+tf1info.fr      refuse  5 399.9 [375.4-433.8]         0.059  22% 23%  3    refused:didomi tcf:ok
+tgvinoui.sncf   accept  3 61.6 [61.6-61.9]            0.003  5%  5%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+tgvinoui.sncf   refuse  3 67.5 [67.3-67.9]            0.005  5%  5%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+thalasseo.com   accept  5 176.4 [155.1-178.1]         0.057  24% 24%  2    no-cmp tcf:no-stored-choice
+theguardian.com accept  3 96 [95.5-96.3]              0.004  6%  7%   1    failed:sourcepoint-top tcf:no-stored-choice
+theguardian.com refuse  3 95.2 [93.9-97.5]            0.019  6%  7%   1    refused:sourcepoint-top tcf:no-stored-choice
+thehalara.fr    accept  5 151.9 [143.4-189.2]         0.121  20% 21%  1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+thehalara.fr    refuse  3 147.6 [145.8-157.5]         0.042  18% 19%  1    refused:HEURISTIC-REJECT tcf:no-tcf
+thetrainline.com accept  5 346.3 [290.7-359.9]         0.082  56% 58%  7    accepted:Onetrust tcf:ok
+thetrainline.com refuse  3 179.9 [177-181]             0.012  26% 26%  2    refused:Onetrust tcf:MISMATCH:111-vendors-consented
+thomann.fr      accept  3 201 [195.9-204]             0.02   32% 33%  2    accepted:cookie-consent-spice tcf:no-tcf
+thomann.fr      refuse  3 109.2 [104.9-110.1]         0.026  1%  1%   1    refused:cookie-consent-spice tcf:no-tcf
+threads.com     accept  3 63.9 [63.1-64.1]            0.008  17% 19%  1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+threads.com     refuse  3 58.8 [57.6-59.8]            0.019  15% 17%  1    refused:HEURISTIC-REJECT tcf:no-tcf
+tiktok.com      accept  3 199.9 [195.7-206.3]         0.026  31% 33%  1    accepted:tiktok.com tcf:no-tcf
+tiktok.com      refuse  5 209.1 [187.3-222.6]         0.061  30% 32%  1    refused:tiktok.com tcf:no-tcf
+tirage-gagnant.com accept  5 160.9 [159-188.2]           0.075  49% 49%  3    accepted:AppConsent tcf:ok
+tirage-gagnant.com refuse  5 158.2 [143.1-210]           0.171  49% 49%  3    failed:AppConsent tcf:MISMATCH:600-vendors-consented
+tokyvideo.com   accept  5 68.7 [67.1-218.4]           0.619  12% 13%  1    accepted:Sirdata tcf:MISMATCH:0-vendors,no-stored-choice
+tokyvideo.com   refuse  5 70.9 [65.9-204.9]           0.592  13% 14%  1    refused:Sirdata tcf:ok,no-stored-choice
+tolunastart.com accept  3 29.1 [28.9-29.2]            0.005  0%  0%   1    no-cmp tcf:no-tcf
+tommy.com       accept  3 108.8 [106.7-113.8]         0.033  0%  0%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+tommy.com       refuse  3 110.6 [108.4-114.2]         0.026  0%  0%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+topsante.com    accept  5 1403.1 [1275.2-1490.9]      0.061  93% 93%  36   accepted:didomi tcf:ok
+topsante.com    refuse  5 163.2 [103.2-166.9]         0.187  49% 51%  3    refused:didomi tcf:ok
+totalav.com     accept  3 113.1 [112.7-113.4]         0.003  56% 56%  3    accepted:Cybotcookiebot tcf:no-tcf
+totalav.com     refuse  3 113.3 [112.6-113.4]         0.004  56% 56%  3    refused:Cybotcookiebot tcf:no-tcf
+totalenergies.com accept  3 38.6 [38.5-38.6]            0.002  0%  0%   1    no-cmp tcf:no-tcf
+totalenergies.fr accept  3 80.1 [79.6-81.3]            0.011  14% 15%  1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+totalenergies.fr refuse  3 89.3 [88.4-90.3]            0.011  13% 13%  1    refused:HEURISTIC-REJECT tcf:no-tcf
+toutatice.fr    accept  3 35.9 [35.8-36]              0.004  0%  1%   1    no-cmp tcf:no-tcf
+toutes-mes-sorties.com accept  3 53.7 [53.7-55.7]            0.022  0%  0%   1    hidden-no-choice:cookieinfo tcf:no-tcf
+toutes-mes-sorties.com refuse  3 53.6 [53.5-55.6]            0.021  0%  0%   1    hidden-no-choice:cookieinfo tcf:no-tcf
+transavia.com   accept  0 BLOCKED/ERROR http-403
+transavia.com   refuse  0 BLOCKED/ERROR http-403
+transfermarkt.fr accept  3 129.1 [128.1-130.7]         0.01   33% 33%  2    failed:sourcepoint-top tcf:no-stored-choice
+transfermarkt.fr refuse  3 130.3 [128.9-131.5]         0.01   33% 34%  2    refused:sourcepoint-top tcf:no-stored-choice
+transtrav.com   accept  3 71.2 [69.8-72.2]            0.017  3%  3%   1    no-cmp tcf:no-tcf
+tripadvisor.fr  accept  0 BLOCKED/ERROR http-403
+troc-velo.com   accept  0 BLOCKED/ERROR http-403
+trombi.com      accept  5 198.2 [197.2-225.6]         0.061  68% 69%  5    accepted:Sourcepoint-frame tcf:ok
+trombi.com      refuse  3 96 [95.1-96.6]              0.008  43% 44%  2    refused:Sourcepoint-frame tcf:ok
+turbo.fr        accept  5 1004.6 [967.7-1108.5]       0.056  90% 90%  27   accepted:Sourcepoint-frame tcf:ok
+turbo.fr        refuse  3 60.5 [60.1-61.6]            0.013  5%  6%   1    refused:Sourcepoint-frame+redirect tcf:no-stored-choice
+turf-fr.com     accept  5 1653.4 [1415.5-2045.3]      0.158  83% 87%  23   accepted:Sirdata tcf:ok
+turf-fr.com     refuse  5 294.5 [193.7-630.3]         0.464  56% 60%  4    refused:Sirdata tcf:ok,no-stored-choice
+turfomania.fr   accept  0 BLOCKED/ERROR http-403
+turfomania.fr   refuse  0 BLOCKED/ERROR http-403
+turfoo.fr       accept  5 294.2 [264.2-423.9]         0.195  77% 77%  5    accepted:cookie-script tcf:ok
+turfoo.fr       refuse  5 318.8 [285.8-418.9]         0.165  72% 73%  6    refused:cookie-script tcf:no-stored-choice
+tv-programme.com accept  5 288.6 [263-309.4]           0.06   61% 61%  5    accepted:funding-choices tcf:no-tcf
+tv-programme.com refuse  3 182.4 [170.8-188.2]         0.049  36% 36%  2    refused:funding-choices tcf:no-tcf
+twitch.tv       accept  5 186.5 [182.5-231.7]         0.121  17% 17%  2    accepted:twitch.tv tcf:ok
+twitch.tv       refuse  5 155.4 [151.1-196.9]         0.133  1%  1%   1    refused:twitch.tv tcf:ok
+u-pariscite.fr  accept  3 67.6 [67.4-69.5]            0.016  0%  0%   1    no-cmp tcf:no-tcf
+ube.fr          accept  3 50.9 [50.2-51]              0.008  0%  0%   1    no-cmp tcf:no-tcf
+ubereats.com    accept  3 51.9 [51.2-53]              0.017  2%  2%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+ubereats.com    refuse  3 139.6 [138.2-145.4]         0.027  0%  0%   1    refused:auto_CA_ubereats.com_4nx tcf:no-tcf
+uefa.com        accept  5 494.4 [486.2-570.4]         0.07   13% 17%  3    accepted:consentmanager.net tcf:ok
+uefa.com        refuse  5 439.4 [390-521]             0.117  9%  14%  2    refused:consentmanager.net tcf:ok
+ugc.fr          accept  3 66.5 [66.2-66.7]            0.003  7%  8%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+ugc.fr          refuse  3 72.2 [71.3-73.1]            0.012  6%  7%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+undiz.com       accept  3 112.4 [111.7-113.9]         0.01   14% 15%  1    accepted:didomi tcf:no-tcf
+undiz.com       refuse  3 87.7 [86.6-88.5]            0.011  6%  7%   1    refused:didomi tcf:no-tcf
+univ-angers.fr  accept  3 30.3 [29.7-30.5]            0.013  0%  0%   1    no-cmp tcf:no-tcf
+univ-lorraine.fr accept  3 60.7 [59-62]                0.025  0%  0%   1    no-cmp tcf:no-tcf
+univ-lyon1.fr   accept  3 71.2 [70.4-73.6]            0.023  0%  0%   1    no-cmp tcf:no-tcf
+univ-lyon2.fr   accept  3 157.7 [145-158]             0.048  64% 64%  2    accepted:orejime tcf:no-tcf
+univ-lyon2.fr   refuse  3 58.2 [57.6-59.6]            0.018  0%  0%   1    refused:orejime tcf:no-tcf
+univ-rennes.fr  accept  3 47.7 [46.7-48.4]            0.017  0%  0%   1    no-cmp tcf:no-tcf
+universfreebox.com accept  5 760.2 [596.5-928.5]         0.174  69% 75%  17   accepted:Sirdata tcf:ok
+universfreebox.com refuse  5 338.3 [296.6-367.6]         0.084  65% 66%  8    refused:Sirdata tcf:ok
+universmini.com accept  0 BLOCKED/ERROR http-403
+universmini.com refuse  0 BLOCKED/ERROR http-403
+ups.com         accept  3 190 [188.7-190.4]           0.005  37% 38%  3    accepted:Onetrust tcf:no-tcf
+ups.com         refuse  3 92.2 [88.5-93.1]            0.027  3%  4%   1    refused:Onetrust tcf:no-tcf
+urssaf          accept  5 87.6 [60.2-88]              0.161  7%  7%   1    accepted:trustcommander-footer tcf:no-tcf
+urssaf          refuse  5 72 [61-90]                  0.166  0%  0%   1    refused:trustcommander-footer tcf:no-tcf
+usinenouvelle.com accept  0 BLOCKED/ERROR http-403
+usinenouvelle.com refuse  0 BLOCKED/ERROR http-403
+vaticannews.va  accept  5 73.7 [72.2-128.2]           0.29   6%  9%   1    detected-no-action:HEURISTIC-TIER2 tcf:no-tcf
+vaticannews.va  refuse  5 72.1 [70.7-130.6]           0.316  6%  10%  1    refused:HEURISTIC-TIER2 tcf:no-tcf
+veepee.fr       accept  5 110 [106.1-131.5]           0.091  9%  11%  1    accepted:Onetrust tcf:no-tcf
+veepee.fr       refuse  5 91.9 [89.6-107.3]           0.076  2%  2%   1    refused:Onetrust tcf:no-tcf
+vente-unique.com accept  3 250.6 [248.3-252.5]         0.009  59% 60%  3    accepted:didomi tcf:ok
+vente-unique.com refuse  5 273.4 [205.6-306.7]         0.144  40% 41%  2    refused:didomi tcf:ok
+venum.com       accept  5 461.6 [375.3-510.8]         0.12   22% 27%  4    accepted:cookieyes tcf:no-tcf
+venum.com       refuse  5 307.3 [217.2-404.7]         0.254  6%  12%  1    refused:cookieyes tcf:no-tcf
+vertbaudet.fr   accept  5 185.1 [181.5-215.1]         0.076  9%  11%  1    accepted:axeptio tcf:no-tcf
+vertbaudet.fr   refuse  3 155.1 [149.9-156.7]         0.023  5%  6%   1    refused:axeptio tcf:no-tcf
+vestiairecollective.com accept  0 BLOCKED/ERROR http-403
+vestiairecollective.com refuse  0 BLOCKED/ERROR http-403
+vevor.fr        accept  5 619.2 [476.1-625.8]         0.109  19% 32%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+vevor.fr        refuse  5 597.4 [556.5-779.1]         0.143  16% 30%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+vibs.com        accept  5 82.5 [82.2-117.7]           0.191  3%  4%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+vibs.com        refuse  3 151.6 [150.5-154.4]         0.013  2%  3%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+vidal.fr        accept  3 61.4 [60.6-62.1]            0.012  6%  6%   1    detected-no-action:didomi tcf:no-stored-choice
+vidal.fr        refuse  3 63.5 [62.3-63.5]            0.012  6%  7%   1    detected-no-action:didomi tcf:no-stored-choice
+vide-greniers.org accept  3 813.2 [785.1-854.9]         0.043  90% 91%  20   accepted:quantcast tcf:ok
+vide-greniers.org refuse  5 90.7 [69.7-165.9]           0.373  18% 32%  1    refused:quantcast tcf:ok
+vinci-autoroutes.com accept  3 128.4 [127.5-138.4]         0.046  4%  4%   1    accepted:didomi tcf:no-tcf
+vinci-autoroutes.com refuse  3 128.2 [127.9-139.1]         0.048  4%  4%   1    refused:didomi tcf:no-tcf
+vinted          accept  3 182.6 [181.2-183.4]         0.006  24% 24%  2    accepted:Onetrust tcf:ok
+vinted          refuse  3 132.8 [130.3-133]           0.011  10% 10%  1    refused:Onetrust tcf:ok
+vintedgo.com    accept  3 105.2 [104.8-105.6]         0.004  39% 40%  2    accepted:Onetrust tcf:no-tcf
+vintedgo.com    refuse  3 57.4 [57.1-57.7]            0.005  7%  7%   1    refused:Onetrust tcf:no-tcf
+visa-algerie.com accept  5 355.4 [308.1-445.6]         0.137  64% 65%  8    error tcf:no-stored-choice
+visa-algerie.com refuse  5 323.1 [305.7-443.6]         0.195  70% 71%  8    refused:quantcast+redirect tcf:no-stored-choice
+visiodent.com   accept  3 84.2 [83.7-84.3]            0.004  0%  0%   1    no-cmp tcf:no-tcf
+vistaprint.fr   accept  3 149.1 [139.4-149.2]         0.039  21% 21%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+vistaprint.fr   refuse  5 146.1 [102.5-147.2]         0.141  22% 22%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+vogue.fr        accept  5 1731 [1527.9-2167.1]        0.137  84% 85%  39   accepted:fides tcf:ok
+vogue.fr        refuse  3 151.9 [150.5-152.8]         0.007  5%  6%   1    refused:fides tcf:ok
+voici.fr        accept  5 1458.3 [1191.6-1654]        0.141  91% 92%  36   accepted:Sourcepoint-frame tcf:ok
+voici.fr        refuse  3 64.7 [64.7-64.9]            0.002  7%  8%   1    refused:Sourcepoint-frame+redirect tcf:no-stored-choice
+voir-anime.to   accept  3 30.3 [30.1-32.5]            0.044  0%  0%   1    no-cmp tcf:no-tcf
+vosgesmatin.fr  accept  5 1345.2 [1308-1686.6]        0.109  89% 90%  36   accepted:didomi tcf:ok
+vosgesmatin.fr  refuse  3 79.5 [76.9-82.9]            0.038  15% 17%  1    refused:didomi tcf:no-stored-choice
+voyage-prive.com accept  3 81.1 [81.1-81.1]            0      3%  4%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+voyage-prive.com refuse  3 80.5 [80.5-80.6]            0.001  4%  4%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+voyages.leclerc accept  0 BLOCKED/ERROR http-403
+voyages.leclerc refuse  0 BLOCKED/ERROR http-403
+vroomly.com     accept  3 91.4 [90.7-91.9]            0.007  5%  6%   1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+vroomly.com     refuse  3 96.3 [95.4-97.9]            0.013  8%  8%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+wattpad.com     accept  3 98.4 [97.9-99.5]            0.008  14% 16%  1    no-cmp tcf:no-stored-choice
+weather.com     accept  5 1054.5 [969.3-1525.5]       0.201  79% 81%  22   accepted:Sourcepoint-frame tcf:ok
+weather.com     refuse  5 198.6 [194.7-285.5]         0.182  32% 33%  2    refused:Sourcepoint-frame tcf:ok
+wecasa.fr       accept  3 97.4 [94.8-97.8]            0.017  37% 38%  2    accepted:Cybotcookiebot tcf:no-tcf
+wecasa.fr       refuse  3 94.6 [92.6-95.2]            0.015  38% 38%  2    refused:Cybotcookiebot tcf:no-tcf
+weekendesk.fr   accept  3 174 [173.8-176.1]           0.007  26% 26%  2    accepted:didomi tcf:ok
+weekendesk.fr   refuse  3 160.6 [160.5-161.3]         0.003  24% 25%  2    refused:didomi tcf:ok
+welcometothejungle.com accept  5 166 [163-215.8]             0.128  6%  8%   1    accepted:axeptio tcf:no-tcf
+welcometothejungle.com refuse  3 160 [159.6-163]             0.012  6%  7%   1    refused:axeptio tcf:no-tcf
+wellaray.com    accept  3 119.9 [119.8-121.3]         0.007  10% 11%  1    no-cmp tcf:no-tcf
+welovetennis.fr accept  5 1815.4 [1373-2020.8]        0.149  80% 83%  38   accepted:AppConsent tcf:ok
+welovetennis.fr refuse  3 321.7 [320.4-337.4]         0.029  63% 66%  6    refused:AppConsent tcf:ok
+wetransfer.com  accept  3 435.8 [432.5-439.8]         0.008  57% 58%  8    accepted:Onetrust tcf:ok
+wetransfer.com  refuse  3 341.5 [328.1-348.3]         0.03   50% 50%  5    refused:Onetrust tcf:no-tcf
+whatsapp.com    accept  3 66.8 [66.1-67.9]            0.014  14% 15%  1    no-cmp tcf:no-tcf
+wikipedia.org   accept  3 51.1 [50.7-51.3]            0.005  0%  0%   1    no-cmp tcf:no-tcf
+wikisource.org  accept  3 61.7 [61.4-62.3]            0.008  0%  0%   1    no-cmp tcf:no-tcf
+winamax.fr      accept  5 66.2 [59.1-200.6]           0.679  13% 14%  1    accepted:tarteaucitron deny tcf:no-tcf
+winamax.fr      refuse  5 65.3 [58.9-193.4]           0.649  13% 14%  1    refused:tarteaucitron deny tcf:no-tcf
+windfinder.com  accept  5 249.6 [178-281.4]           0.173  68% 69%  6    accepted:Admiral tcf:ok
+windfinder.com  refuse  3 73.1 [72.8-73.5]            0.005  10% 11%  1    refused:HEURISTIC-REJECT tcf:ok
+wonderbox.fr    accept  5 273.6 [265.8-320]           0.09   53% 56%  5    accepted:didomi tcf:ok
+wonderbox.fr    refuse  3 284.8 [284-293.6]           0.019  49% 51%  5    refused:didomi tcf:ok
+woopets.fr      accept  5 514.6 [258.1-798.6]         0.425  87% 87%  12   accepted:AppConsent tcf:ok
+woopets.fr      refuse  5 110.6 [65.2-119.6]          0.232  44% 47%  2    refused:AppConsent tcf:ok
+wordreference.com accept  3 37.1 [36.9-37.1]            0.003  6%  7%   1    no-cmp tcf:no-tcf
+wordwall.net    accept  3 67 [65.5-68.4]              0.022  12% 13%  1    no-cmp tcf:no-tcf
+worldofshinobi.com accept  3 38.5 [38.3-38.8]            0.006  0%  0%   1    no-cmp tcf:no-tcf
+wyylde.com      accept  3 58.2 [58-58.3]              0.003  16% 17%  1    no-cmp tcf:no-tcf
+x.com           accept  3 114.8 [114.6-116.8]         0.01   42% 43%  2    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+x.com           refuse  3 114.4 [113.6-119.7]         0.028  42% 43%  2    refused:HEURISTIC-REJECT tcf:no-tcf
+yahoo.com       accept  5 784.7 [675.8-1048.4]        0.176  44% 47%  7    accepted:didomi tcf:ok
+yahoo.com       refuse  3 498.9 [485.4-499.2]         0.016  16% 21%  2    refused:didomi tcf:ok
+youtube.com     accept  5 157.3 [130.8-159.9]         0.081  17% 17%  2    detected-no-action:youtube-desktop tcf:no-tcf
+youtube.com     refuse  3 154.8 [154.1-154.9]         0.003  18% 18%  2    refused:youtube-desktop tcf:no-tcf
+yves-rocher.fr  accept  3 201.3 [201.2-204.3]         0.009  20% 21%  2    accepted:Onetrust tcf:no-tcf
+yves-rocher.fr  refuse  3 157.3 [157.2-157.4]         0.001  5%  5%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+zalando-prive.fr accept  3 126.5 [122.7-129.8]         0.028  38% 38%  2    accepted:usercentrics-api tcf:no-tcf
+zalando-prive.fr refuse  3 105.9 [102.5-108.1]         0.027  42% 43%  2    refused:usercentrics-api tcf:no-tcf
+zalando.fr      accept  3 162.2 [153.9-164.8]         0.035  34% 36%  2    accepted:usercentrics-api tcf:no-tcf
+zalando.fr      refuse  3 148.3 [148.1-150.3]         0.008  35% 36%  2    refused:usercentrics-api tcf:no-tcf
+zeendoc.com     accept  3 38.7 [38.2-39]              0.011  0%  0%   1    no-cmp tcf:no-tcf
+zeturf.fr       accept  5 171.1 [122.1-283.5]         0.359  9%  13%  1    detected-no-action:HEURISTIC-REJECT tcf:no-tcf
+zeturf.fr       refuse  5 293.3 [248.3-307.1]         0.082  5%  7%   1    refused:HEURISTIC-REJECT tcf:no-tcf
+zone-turf.fr    accept  5 1096.5 [674.2-1207.1]       0.255  91% 91%  30   accepted:didomi tcf:ok
+zone-turf.fr    refuse  3 144.2 [139.1-146.8]         0.028  50% 51%  3    refused:didomi tcf:ok
+zonebourse.com  accept  5 531.4 [391.3-783.3]         0.283  67% 68%  8    accepted:didomi tcf:ok
+zonebourse.com  refuse  5 120.1 [118.6-135.7]         0.058  43% 44%  2    refused:didomi+redirect tcf:no-stored-choice
+zoomalia.com    accept  0 BLOCKED/ERROR http-403
+zoomalia.com    refuse  0 BLOCKED/ERROR http-403
+zooplus.fr      accept  3 363.2 [349.1-364.3]         0.024  1%  1%   1    accepted:Onetrust tcf:no-tcf
+zooplus.fr      refuse  5 176.6 [131.2-181.1]         0.124  1%  2%   1    refused:Onetrust tcf:no-tcf

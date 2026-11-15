@@ -1,0 +1,10 @@
+node_modules/
+tmp/
+test/out/
+*.log
+data/*.gz
+# campaign working dirs (raw traces, screenshots); only the published aggregates are tracked
+results/*
+!results/2026-11/
+!results/feasibility-2026-11/
+sites-1000.excluded-adult.json

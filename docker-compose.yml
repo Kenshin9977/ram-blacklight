@@ -1,0 +1,15 @@
+# One-shot campaign container. Usage: ./campaign.sh  (see README.md)
+services:
+  ram-blacklight:
+    build: .
+    image: ram-blacklight:pw1.51.1
+    init: true
+    shm_size: 2gb        # Chromium uses /dev/shm heavily; Docker's 64 MB default crashes renderers
+    mem_limit: 9g        # NAS headroom for Plex/Jellyfin; the runner gates starts on free memory inside this limit
+    cpus: 3              # leave one thread to the NAS services
+    environment:
+      - TZ=Europe/Paris
+    volumes:
+      - ./results:/app/results
+      - ./sites.json:/app/sites.json:ro
+      - ./sites-1000.json:/app/sites-1000.json:ro

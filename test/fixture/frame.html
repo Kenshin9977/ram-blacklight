@@ -1,0 +1,5 @@
+<!doctype html><html><body>iframe tierce
+<script>
+  // cross-site iframe: 40 MB of retained arrays, in its own process under site isolation
+  window.__fr = []; for (let i = 0; i < 5120; i++) window.__fr.push(new Array(1024).fill(i + 0.5)); // 40 MB of doubles (128 x 8 KB per MB)
+</script></body></html>

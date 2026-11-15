@@ -1,0 +1,303 @@
+{
+ "generatedAt": "2026-11-15T10:21:03.412Z",
+ "listed": 1000,
+ "measured": 827,
+ "notMeasured": 173,
+ "blockedReasons": {
+  "http-403": 133,
+  "captcha": 27,
+  "challenge": 4,
+  "blocked-page": 5,
+  "http-503": 2,
+  "http-429": 2
+ },
+ "baseline": 28.4,
+ "accept": {
+  "n": 827,
+  "median": 154,
+  "p90": 1166,
+  "max": 3381,
+  "over500": 171,
+  "over1g": 104
+ },
+ "pairs": {
+  "n": 479,
+  "acceptMedian": 262,
+  "refuseMedian": 135,
+  "ratioMedian": 1.5,
+  "ratioP75": 4.6,
+  "ratioP90": 10.2,
+  "over2x": 182,
+  "over4x": 129
+ },
+ "thirdShareMedian": 0.22,
+ "variability": {
+  "cvMedian": 0.02,
+  "over5": 407,
+  "over20": 108,
+  "n": 1446
+ },
+ "categories": [
+  {
+   "key": "media",
+   "label": "Médias",
+   "sites": 141,
+   "measured": 132,
+   "acceptMedian": 1051,
+   "acceptP90": 1597,
+   "pairs": 113,
+   "pairAccept": 1098,
+   "pairRefuse": 132,
+   "thirdShare": 0.85
+  },
+  {
+   "key": "sport",
+   "label": "Sport, paris",
+   "sites": 53,
+   "measured": 50,
+   "acceptMedian": 428,
+   "acceptP90": 1616,
+   "pairs": 36,
+   "pairAccept": 840,
+   "pairRefuse": 192,
+   "thirdShare": 0.7
+  },
+  {
+   "key": "loisirs-pratique",
+   "label": "Loisirs, pratique",
+   "sites": 55,
+   "measured": 44,
+   "acceptMedian": 249,
+   "acceptP90": 1391,
+   "pairs": 29,
+   "pairAccept": 533,
+   "pairRefuse": 119,
+   "thirdShare": 0.53
+  },
+  {
+   "key": "ecommerce",
+   "label": "E-commerce",
+   "sites": 251,
+   "measured": 175,
+   "acceptMedian": 183,
+   "acceptP90": 448,
+   "pairs": 118,
+   "pairAccept": 217,
+   "pairRefuse": 147,
+   "thirdShare": 0.22
+  },
+  {
+   "key": "voyage-transport",
+   "label": "Voyage, transport",
+   "sites": 70,
+   "measured": 55,
+   "acceptMedian": 178,
+   "acceptP90": 394,
+   "pairs": 37,
+   "pairAccept": 232,
+   "pairRefuse": 145,
+   "thirdShare": 0.37
+  },
+  {
+   "key": "divertissement",
+   "label": "Divertissement",
+   "sites": 98,
+   "measured": 77,
+   "acceptMedian": 133,
+   "acceptP90": 458,
+   "pairs": 41,
+   "pairAccept": 187,
+   "pairRefuse": 156,
+   "thirdShare": 0.17
+  },
+  {
+   "key": "services",
+   "label": "Services (télécom, énergie, mail)",
+   "sites": 41,
+   "measured": 35,
+   "acceptMedian": 106,
+   "acceptP90": 607,
+   "pairs": 20,
+   "pairAccept": 135,
+   "pairRefuse": 105,
+   "thirdShare": 0.19
+  },
+  {
+   "key": "annonces-emploi-immo",
+   "label": "Annonces, emploi, immobilier",
+   "sites": 35,
+   "measured": 26,
+   "acceptMedian": 103,
+   "acceptP90": 279,
+   "pairs": 16,
+   "pairAccept": 138,
+   "pairRefuse": 114,
+   "thirdShare": 0.08
+  },
+  {
+   "key": "banque-assurance",
+   "label": "Banque, assurance",
+   "sites": 31,
+   "measured": 27,
+   "acceptMedian": 94,
+   "acceptP90": 557,
+   "pairs": 12,
+   "pairAccept": 208,
+   "pairRefuse": 100,
+   "thirdShare": 0.09
+  },
+  {
+   "key": "social-forums",
+   "label": "Réseaux sociaux, forums",
+   "sites": 60,
+   "measured": 56,
+   "acceptMedian": 82,
+   "acceptP90": 257,
+   "pairs": 22,
+   "pairAccept": 177,
+   "pairRefuse": 109,
+   "thirdShare": 0.09
+  },
+  {
+   "key": "education-sante",
+   "label": "Éducation, santé",
+   "sites": 40,
+   "measured": 38,
+   "acceptMedian": 61,
+   "acceptP90": 111,
+   "pairs": 5,
+   "pairAccept": 91,
+   "pairRefuse": 83,
+   "thirdShare": 0
+  },
+  {
+   "key": "tech-outils",
+   "label": "Outils, tech",
+   "sites": 64,
+   "measured": 55,
+   "acceptMedian": 59,
+   "acceptP90": 302,
+   "pairs": 17,
+   "pairAccept": 168,
+   "pairRefuse": 126,
+   "thirdShare": 0.02
+  },
+  {
+   "key": "administration",
+   "label": "Administration",
+   "sites": 37,
+   "measured": 36,
+   "acceptMedian": 57,
+   "acceptP90": 90,
+   "pairs": 12,
+   "pairAccept": 70,
+   "pairRefuse": 66,
+   "thirdShare": 0
+  },
+  {
+   "key": "autre",
+   "label": "Autre",
+   "sites": 24,
+   "measured": 21,
+   "acceptMedian": 42,
+   "acceptP90": 160,
+   "pairs": 1,
+   "pairAccept": 160,
+   "pairRefuse": 153,
+   "thirdShare": 0
+  }
+ ],
+ "entities": [
+  {
+   "entity": "Google/Doubleclick Ads",
+   "category": "pub",
+   "mb": 21983,
+   "sites": 337
+  },
+  {
+   "entity": "Other Google APIs/SDKs",
+   "category": "utilitaire",
+   "mb": 8414,
+   "sites": 256
+  },
+  {
+   "entity": "Pubmatic",
+   "category": "pub",
+   "mb": 8172,
+   "sites": 160
+  },
+  {
+   "entity": "Index Exchange",
+   "category": "pub",
+   "mb": 5650,
+   "sites": 127
+  },
+  {
+   "entity": "Rubicon Project",
+   "category": "pub",
+   "mb": 5363,
+   "sites": 148
+  },
+  {
+   "entity": "Criteo",
+   "category": "pub",
+   "mb": 5149,
+   "sites": 197
+  },
+  {
+   "entity": "OpenX",
+   "category": "pub",
+   "mb": 4962,
+   "sites": 153
+  },
+  {
+   "entity": "Smart AdServer",
+   "category": "pub",
+   "mb": 4724,
+   "sites": 129
+  },
+  {
+   "entity": "OneTag",
+   "category": "pub",
+   "mb": 4389,
+   "sites": 131
+  },
+  {
+   "entity": "Amazon Ads",
+   "category": "pub",
+   "mb": 4389,
+   "sites": 153
+  },
+  {
+   "entity": "Improve Digital",
+   "category": "pub",
+   "mb": 3733,
+   "sites": 113
+  },
+  {
+   "entity": "adtrafficquality.google",
+   "category": "inconnu",
+   "mb": 2744,
+   "sites": 120
+  },
+  {
+   "entity": "Seedtag",
+   "category": "pub",
+   "mb": 2583,
+   "sites": 67
+  },
+  {
+   "entity": "presage.io",
+   "category": "inconnu",
+   "mb": 2450,
+   "sites": 74
+  },
+  {
+   "entity": "TripleLift",
+   "category": "pub",
+   "mb": 2392,
+   "sites": 78
+  }
+ ],
+ "sites": 827
+}
