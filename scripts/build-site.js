@@ -64,7 +64,7 @@ const vars = {
   acceptMedian: fmt(s.accept.median), over1g: s.accept.over1g,
   mediaRatio: Math.round(media.pairAccept / media.pairRefuse), mediaAccept: fmt(media.pairAccept), mediaRefuse: fmt(media.pairRefuse),
   mediaThird: Math.round(media.thirdShare * 100), thirdShareMedian: Math.round(s.thirdShareMedian * 100),
-  thisPage: thisPage ? fmt(thisPage) : 'à mesurer',
+  thisPage: thisPage ? fmt(thisPage) : 'à mesurer', baseline: fmt(s.baseline),
   scaleBars, categoryBars, categoryRows, entityBars, entityCount: ents.length, adCount,
   tabsDefault, tabsData: JSON.stringify(tabsData), catLabels: JSON.stringify(CATEGORY_LABELS),
   chrome: (summary.chrome || '134'), blockedTop, cvMedian: Math.round(s.variability.cvMedian * 100) || 2, over20: s.variability.over20,
