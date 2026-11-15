@@ -167,7 +167,7 @@ out.innerHTML=(i===w?'<b>Bien vu.</b> ':'<b>Raté.</b> ')+pair[w][0]+' : '+fmt(p
 // search
 const q=$('#q'),res=$('#res');
 q.addEventListener('focus',load,{once:true});
-q.addEventListener('change',()=>load().then(()=>{const v=q.value.trim().toLowerCase(),s=D.find(x=>x[0]===v)||D.find(x=>x[0].startsWith(v));if(!s){res.innerHTML='<p class="muted">Site non mesuré (bloqué ou hors du top 1000).</p>';return}
+q.addEventListener('change',()=>load().then(()=>{const v=q.value.trim().toLowerCase().replace(/^https?:\/\//,'').replace(/^www\./,'').replace(/\/.*$/,''),s=v&&(D.find(x=>x[0]===v)||D.find(x=>x[0].startsWith(v))||D.find(x=>x[0].includes(v)));if(!s){res.innerHTML='<p class="muted">Site non mesuré (bloqué ou hors du top 1000).</p>';return}
 const mx=Math.max(s[2]||0,s[3]||0)||1,bar=(c,m,l)=>m==null?'':'<div class="b '+c+'"><i style="width:'+(m/mx*70)+'%"></i>'+l+' : '+fmt(m)+'</div>';
 res.innerHTML='<div class="card"><b>'+s[0]+'</b> <span class="muted">· '+(CAT[s[1]]||s[1])+'</span>'+bar('',s[2],s[5][0]==='n'?'sans bannière':'acceptés')+bar('r',s[3],'refusés')+
 (s[4]!=null?'<p class="muted">'+s[4]+' % de la mémoire vient de tiers'+(s[7].length?' : '+s[7].map(t=>t[0]+' ('+fmt(t[1])+')').join(', '):'')+'.</p>':'')+(s[6]>20?'<p class="muted">Ce site varie beaucoup d\'une visite à l\'autre (±'+s[6]+' %).</p>':'')+(s[5].includes('?')?'<p class="muted">Le choix des cookies n\'a pas pu être confirmé pour ce site.</p>':'')+'</div>'}));

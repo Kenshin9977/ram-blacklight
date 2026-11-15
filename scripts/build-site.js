@@ -16,7 +16,7 @@ const esc = t => String(t).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;',
 const fmt = m => m >= 1000 ? (m / 1024).toFixed(1).replace('.', ',') + ' Go' : Math.round(m) + ' Mo';
 const pct = (v, max) => (Math.max(v / max, 0.004) * 100).toFixed(1);
 const bar = (cls, v, max, label) => `<div class="b ${cls}"><i style="width:${(pct(v, max) * 0.8).toFixed(1)}%"></i>${label ? label + ' : ' : ''}${fmt(v)}</div>`;
-const site = id => s.sites.find(x => x.id === id);
+const site = host => s.sites.find(x => x.id === host);
 
 const thisPage = +arg('this-page-mb', 0) || null;
 const campaign = arg('campaign', summary.generatedAt.slice(0, 7));
@@ -27,7 +27,7 @@ const heaviest = s.sites[0];
 const scale = [
   thisPage && ['Cette page', thisPage, 'me'],
   ['Onglet vide', s.baseline, 'k'],
-  site('wikipedia.org') && ['wikipedia.org', site('wikipedia.org').a, 'k'],
+  ...s.sites.filter(x => /(^|\.)wikipedia\.org$/.test(x.id) && x.a).slice(0, 1).map(x => [x.id, x.a, 'k']),
   ['Page médiane du top', s.accept.median, 'k'],
   ['Média médian, cookies refusés', media.pairRefuse, 'r'],
   ['Média médian, cookies acceptés', media.pairAccept, ''],

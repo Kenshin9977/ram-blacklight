@@ -69,7 +69,7 @@ footer{border-top:1px solid var(--line);margin-top:3rem;padding-top:1rem;font-si
 <section id="echelle">
 <h2>À quoi ça ressemble</h2>
 <p>Mémoire vive occupée par la page, 60 secondes après son chargement (médiane de 3 à 5 mesures).</p>
-<ul class="bars"><li><span class="n">Cette page</span><div class="b me"><i style="width:0.7%"></i>31 Mo</div></li><li><span class="n">Onglet vide</span><div class="b k"><i style="width:0.6%"></i>28 Mo</div></li><li><span class="n">wikipedia.org</span><div class="b k"><i style="width:1.2%"></i>51 Mo</div></li><li><span class="n">Page médiane du top</span><div class="b k"><i style="width:3.7%"></i>154 Mo</div></li><li><span class="n">Média médian, cookies refusés</span><div class="b r"><i style="width:3.1%"></i>132 Mo</div></li><li><span class="n">Média médian, cookies acceptés</span><div class="b "><i style="width:26.0%"></i>1,1 Go</div></li><li><span class="n">tameteo.com (la plus lourde)</span><div class="b "><i style="width:80.0%"></i>3,3 Go</div></li></ul>
+<ul class="bars"><li><span class="n">Cette page</span><div class="b me"><i style="width:0.7%"></i>31 Mo</div></li><li><span class="n">Onglet vide</span><div class="b k"><i style="width:0.6%"></i>28 Mo</div></li><li><span class="n">en.wikipedia.org</span><div class="b k"><i style="width:1.2%"></i>51 Mo</div></li><li><span class="n">Page médiane du top</span><div class="b k"><i style="width:3.7%"></i>154 Mo</div></li><li><span class="n">Média médian, cookies refusés</span><div class="b r"><i style="width:3.1%"></i>132 Mo</div></li><li><span class="n">Média médian, cookies acceptés</span><div class="b "><i style="width:26.0%"></i>1,1 Go</div></li><li><span class="n">tameteo.com (la plus lourde)</span><div class="b "><i style="width:80.0%"></i>3,3 Go</div></li></ul>
 </section>
 
 <section id="jeu">
@@ -145,7 +145,7 @@ footer{border-top:1px solid var(--line);margin-top:3rem;padding-top:1rem;font-si
 <li>aucun script tiers : ni mesure d'audience, ni bannière de cookies (il n'y a pas de cookie) ;</li>
 <li>les graphiques sont du HTML et du CSS, sans bibliothèque ni canvas ;</li>
 <li>pas d'animation ni de minuterie : rien ne tourne quand vous ne faites rien ;</li>
-<li>les données des sites (81 ko) ne sont chargées que si vous jouez ou cherchez un site ;</li>
+<li>les données des sites (82 ko) ne sont chargées que si vous jouez ou cherchez un site ;</li>
 <li>les sections hors de l'écran ne sont pas mises en page tant qu'on n'y arrive pas.</li>
 </ul>
 <p>Résultat : <b>31 Mo</b> de RAM, mesuré avec le même protocole, contre 154 Mo pour la page médiane du top 1000.</p>
@@ -167,7 +167,7 @@ out.innerHTML=(i===w?'<b>Bien vu.</b> ':'<b>Raté.</b> ')+pair[w][0]+' : '+fmt(p
 // search
 const q=$('#q'),res=$('#res');
 q.addEventListener('focus',load,{once:true});
-q.addEventListener('change',()=>load().then(()=>{const v=q.value.trim().toLowerCase(),s=D.find(x=>x[0]===v)||D.find(x=>x[0].startsWith(v));if(!s){res.innerHTML='<p class="muted">Site non mesuré (bloqué ou hors du top 1000).</p>';return}
+q.addEventListener('change',()=>load().then(()=>{const v=q.value.trim().toLowerCase().replace(/^https?:\/\//,'').replace(/^www\./,'').replace(/\/.*$/,''),s=v&&(D.find(x=>x[0]===v)||D.find(x=>x[0].startsWith(v))||D.find(x=>x[0].includes(v)));if(!s){res.innerHTML='<p class="muted">Site non mesuré (bloqué ou hors du top 1000).</p>';return}
 const mx=Math.max(s[2]||0,s[3]||0)||1,bar=(c,m,l)=>m==null?'':'<div class="b '+c+'"><i style="width:'+(m/mx*70)+'%"></i>'+l+' : '+fmt(m)+'</div>';
 res.innerHTML='<div class="card"><b>'+s[0]+'</b> <span class="muted">· '+(CAT[s[1]]||s[1])+'</span>'+bar('',s[2],s[5][0]==='n'?'sans bannière':'acceptés')+bar('r',s[3],'refusés')+
 (s[4]!=null?'<p class="muted">'+s[4]+' % de la mémoire vient de tiers'+(s[7].length?' : '+s[7].map(t=>t[0]+' ('+fmt(t[1])+')').join(', '):'')+'.</p>':'')+(s[6]>20?'<p class="muted">Ce site varie beaucoup d\'une visite à l\'autre (±'+s[6]+' %).</p>':'')+(s[5].includes('?')?'<p class="muted">Le choix des cookies n\'a pas pu être confirmé pour ce site.</p>':'')+'</div>'}));

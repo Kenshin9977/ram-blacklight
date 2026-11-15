@@ -60,7 +60,8 @@ function siteStats(summary, sitesList) {
   }
 
   const sites = Object.entries(by).map(([id, p]) => ({
-    id, c: p.cat,
+    // shown and searched by host name (hand-picked sites have short ids such as "impots")
+    id: new URL(p.url).hostname.replace(/^www\./, ''), c: p.cat,
     a: p.accept ? r0(p.accept.pageTotal.median) : null, r: p.refuse ? r0(p.refuse.pageTotal.median) : null,
     t: p.accept ? r0(p.accept.thirdShare.median * 100) : null,
     // consent states the mode really had: a = accepted, r = refused, n = no banner, ? = not sure
