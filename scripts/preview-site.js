@@ -1,4 +1,4 @@
-// Serve site/ locally and screenshot it (light, dark, phone width), exercising the game and the search.
+// Serve site/ locally and screenshot it (light, dark, phone width), exercising the ranking table (search, filter, sort, more).
 // node scripts/preview-site.js [outDir]
 const http = require('http');
 const fs = require('fs');
@@ -23,16 +23,27 @@ const server = http.createServer((req, res) => {
     page.on('pageerror', e => errors.push(name + ': ' + e.message));
     page.on('console', m => m.type() === 'error' && errors.push(name + ': ' + m.text()));
     await page.goto(url);
-    await page.click('#game button[data-i="0"]');
-    await page.waitForFunction(() => document.querySelector('#game button').textContent !== 'Jouer');
-    await page.click('#game button[data-i="1"]');
-    await page.fill('#q', 'lemonde');
-    await page.dispatchEvent('#q', 'change');
-    await page.waitForSelector('#res .card');
+    await page.locator('#classement').scrollIntoViewIfNeeded();
+    await page.waitForSelector('#t tbody tr');
+    const rows = async () => page.locator('#t tbody tr').count();
+    const check = (cond, msg) => cond || errors.push(name + ': ' + msg);
+    check(await rows() === 50, 'table should show 50 rows first');
+    await page.fill('#q', 'impots.gouv.fr');
+    check(await rows() === 1, 'search impots.gouv.fr');
+    await page.fill('#q', '');
+    await page.selectOption('#ff', 'p');
+    check(await rows() > 5, 'wall filter');
+    await page.selectOption('#ff', '');
+    await page.click('#t th button[data-k="0"]');
+    check(/^\d|^[a]/.test(await page.locator('#t tbody tr td b').first().textContent()), 'sort by name');
+    await page.click('#t th button[data-k="2"]');
+    await page.click('#more');
+    check(await rows() === 250, 'show more');
+    await page.evaluate(() => scrollTo(0, 0));
     // content-visibility:auto skips off-screen sections, which a full-page capture would show blank
     await page.addStyleTag({ content: 'section{content-visibility:visible!important}' });
     await page.screenshot({ path: path.join(out, name + '.png'), fullPage: true });
-    await (await page.$('#categories')).screenshot({ path: path.join(out, name + '-categories.png') });
+    for (const id of ['classement', 'refus', 'agir']) await (await page.$('#' + id)).screenshot({ path: path.join(out, `${name}-${id}.png`) });
     const scroll =await page.evaluate(() => document.documentElement.scrollWidth > window.innerWidth);
     if (scroll) errors.push(name + ': horizontal scroll');
     await page.close();

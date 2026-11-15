@@ -4,20 +4,22 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Blacklight de la RAM</title>
-<meta name="description" content="Combien de mémoire vive coûtent les 1000 sites les plus visités en France, et qui la consomme : mesures {{campaign}}.">
+<meta name="description" content="Combien de mémoire vive coûtent les 1000 sites les plus visités en France, qui la consomme, et quels sites font payer le refus des cookies : mesures {{campaign}}.">
 <link rel="icon" href="data:,">
 <style>
-:root{color-scheme:light;--bg:#fcfcfb;--panel:#f3f2ef;--ink:#0b0b0b;--ink2:#52514e;--line:#dddcd7;--acc:#eb6834;--ref:#2a78d6;--hi:#0b0b0b}
-@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#1a1a19;--panel:#242422;--ink:#f0efec;--ink2:#c3c2b7;--line:#3a3a37;--acc:#d95926;--ref:#3987e5;--hi:#f0efec}}
+:root{color-scheme:light;--bg:#fcfcfb;--panel:#f3f2ef;--ink:#0b0b0b;--ink2:#52514e;--line:#dddcd7;--acc:#eb6834;--ref:#2a78d6;--hi:#0b0b0b;--warn:#a3360c}
+@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#1a1a19;--panel:#242422;--ink:#f0efec;--ink2:#c3c2b7;--line:#3a3a37;--acc:#d95926;--ref:#3987e5;--hi:#f0efec;--warn:#ff9f73}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-main{max-width:46rem;margin:0 auto;padding:0 16px 4rem}
+main{max-width:52rem;margin:0 auto;padding:0 16px 4rem}
 section{content-visibility:auto;contain-intrinsic-size:auto 40rem;padding-top:2.5rem}
 h1{font-size:2.1rem;line-height:1.15;margin:2.5rem 0 .5rem}
 h2{font-size:1.35rem;margin:0 0 .6rem}
+h3{font-size:1.05rem;margin:1.4rem 0 .4rem}
 p,li{color:var(--ink2)}
 strong,b{color:var(--ink)}
 a{color:inherit}
+nav{display:flex;flex-wrap:wrap;gap:.2rem .9rem;font-size:.95rem;color:var(--ink2)}
 .lead{font-size:1.15rem}
 .big{display:grid;grid-template-columns:repeat(auto-fit,minmax(10rem,1fr));gap:12px;margin:1.5rem 0}
 .big div{background:var(--panel);border-radius:8px;padding:12px 14px}
@@ -36,19 +38,29 @@ a{color:inherit}
 .legend{display:flex;gap:16px;font-size:.9rem;color:var(--ink2)}
 .legend i{display:inline-block;width:12px;height:12px;border-radius:3px;background:var(--acc);margin-right:6px;vertical-align:-1px}
 .legend .r i{background:var(--ref)}
-.game{background:var(--panel);border-radius:8px;padding:16px}
-.game button,.find input{font:inherit;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:10px 12px}
-.game button{cursor:pointer;width:100%;text-align:left;margin:6px 0}
-.game button:focus-visible,.find input:focus-visible{outline:2px solid var(--ref);outline-offset:2px}
-.game .vs{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.find input{width:100%}
-.card{background:var(--panel);border-radius:8px;padding:12px 16px;margin-top:10px}
 .muted{color:var(--ink2);font-size:.9rem}
+.scroll{overflow-x:auto;margin:.6rem 0}
 table{border-collapse:collapse;width:100%;font-size:.9rem;font-variant-numeric:tabular-nums}
-th,td{text-align:left;padding:4px 6px;border-bottom:1px solid var(--line)}
-td+td,th+th{text-align:right}
+th,td{text-align:left;padding:5px 6px;border-bottom:1px solid var(--line);vertical-align:top}
+.num{text-align:right;white-space:nowrap}
+td small{display:block;color:var(--ink2);font-size:.78rem}
+.warn{color:var(--warn);font-weight:600}
+#t .m{display:none}
+@media (max-width:560px){#t{font-size:.85rem}#t td:first-child{overflow-wrap:anywhere}#t th,#t td{padding:5px 3px}#t .m{display:block;margin-top:2px}#t td:nth-child(n+4),#t th:nth-child(n+4){display:none}}
+th button{font:inherit;font-weight:600;color:var(--ink);background:none;border:0;padding:0;cursor:pointer;text-align:inherit}
+th button[aria-sort]::after{content:" ↓"}
+th button[aria-sort=ascending]::after{content:" ↑"}
+th button[aria-sort=none]::after{content:""}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin:.6rem 0}
+.filters input,.filters select,.more{font:inherit;font-size:.95rem;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:8px 10px}
+.filters input{flex:1 1 12rem}
+.filters select{flex:0 1 auto;max-width:100%}
+.more{cursor:pointer;margin-top:8px}
+:focus-visible{outline:2px solid var(--ref);outline-offset:2px}
+.box{background:var(--panel);border-radius:8px;padding:4px 16px 12px;margin:1rem 0}
 details summary{cursor:pointer;color:var(--ink2);font-size:.9rem}
 ol li,ul li{margin:.3rem 0}
+code{font-size:.85em;background:var(--panel);padding:1px 4px;border-radius:4px;overflow-wrap:anywhere}
 footer{border-top:1px solid var(--line);margin-top:3rem;padding-top:1rem;font-size:.9rem;color:var(--ink2)}
 </style>
 </head>
@@ -56,13 +68,14 @@ footer{border-top:1px solid var(--line);margin-top:3rem;padding-top:1rem;font-si
 <main>
 <header>
 <h1>Blacklight de la RAM</h1>
-<p class="lead">On a ouvert les <b>{{listed}} sites les plus visités en France</b> dans un vrai Chrome, accepté puis refusé les cookies, et pesé la mémoire vive que chaque page occupe. Puis on a regardé <b>qui</b> la consomme.</p>
+<p class="lead">On a ouvert les <b>{{listed}} sites les plus visités en France</b> dans un vrai Chrome, accepté puis refusé les cookies, et pesé la mémoire vive que chaque page occupe. Puis on a regardé <b>qui</b> la consomme, et <b>ce qui se passe quand on refuse</b>.</p>
+<nav><a href="#classement">Le classement</a><a href="#refus">Refuser, à quel prix</a><a href="#agir">Que faire</a><a href="#methode">La méthode</a></nav>
 </header>
 
 <div class="big">
 <div><b>{{acceptMedian}}</b><span>la page médiane, cookies acceptés</span></div>
 <div><b>×{{mediaRatio}}</b><span>un site de médias, en acceptant plutôt qu'en refusant ({{mediaAccept}} contre {{mediaRefuse}})</span></div>
-<div><b>{{over1g}} sites</b><span>dépassent 1 Go de RAM pour une seule page</span></div>
+<div><b>{{wallCount}} sites</b><span>ne laissent refuser qu'en s'abonnant ou en se connectant</span></div>
 <div><b>{{thisPage}}</b><span>cette page-ci, mesurée avec le même outil (un onglet vide : {{baseline}})</span></div>
 </div>
 
@@ -72,33 +85,52 @@ footer{border-top:1px solid var(--line);margin-top:3rem;padding-top:1rem;font-si
 <ul class="bars">{{scaleBars}}</ul>
 </section>
 
-<section id="jeu">
-<h2>Lequel pèse le plus ?</h2>
-<p>Deux sites, cookies acceptés. Cliquez sur celui qui occupe le plus de RAM.</p>
-<div class="game" id="game">
-<div class="vs"><button type="button" data-i="0">Jouer</button><button type="button" data-i="1">Jouer</button></div>
-<p class="muted" id="gameOut" aria-live="polite">Score : 0 / 0</p>
+<section id="classement" style="contain-intrinsic-size:auto 80rem">
+<h2>Le classement complet</h2>
+<p>Les {{measured}} sites mesurés, du plus lourd au plus léger. Cliquez sur un titre de colonne pour trier. Les mesures sont en mégaoctets de mémoire vive pour une seule page d'accueil.</p>
+<div class="filters">
+<input id="q" type="search" placeholder="Chercher un site : lemonde, impots…" aria-label="Chercher un site" autocomplete="off">
+<select id="fc" aria-label="Type de site"><option value="">Tous les types</option>{{catOptions}}</select>
+<select id="ff" aria-label="Signalement"><option value="">Tous les sites</option><option value="p">Refuser = s'abonner ou se connecter</option><option value="ad">Publicité après un refus</option><option value="n">Sans bannière de cookies</option></select>
 </div>
+<p class="muted" id="count" aria-live="polite">Chargement des {{measured}} sites ({{dataKb}} ko)…</p>
+<div class="scroll"><table id="t">
+<thead><tr><th><button type="button" data-k="0" aria-sort="none">Site</button></th><th class="num"><button type="button" data-k="2" aria-sort="descending">Accepter</button></th><th class="num"><button type="button" data-k="3" aria-sort="none">Refuser</button></th><th class="num"><button type="button" data-k="4" aria-sort="none">Tiers</button></th><th>Remarque</th></tr></thead>
+<tbody></tbody></table></div>
+<button type="button" class="more" id="more" hidden></button>
+<noscript><p>Le tableau a besoin de JavaScript. Les mêmes données sont dans le fichier <a href="{{csv}}">{{csv}}</a>.</p></noscript>
+<p class="muted"><b>Tiers</b> : part de la mémoire de la page prise par d'autres sociétés que l'éditeur (cookies acceptés). Sous le nom du site, les trois tiers qui en prennent le plus. Toutes les données : <a href="{{csv}}" download>{{csv}}</a> (CSV, licence CC BY 4.0).</p>
 </section>
 
-<section id="chercher">
-<h2>Et votre site ?</h2>
-<div class="find">
-<label for="q" class="muted">Nom de domaine (parmi les {{measured}} sites mesurés)</label>
-<input id="q" list="ids" placeholder="lemonde, leboncoin, impots…" autocomplete="off">
-<datalist id="ids"></datalist>
-</div>
-<div id="res" aria-live="polite"></div>
+<section id="refus">
+<h2>Refuser les cookies, à quel prix ?</h2>
+<p>La CNIL demande que <a href="https://www.cnil.fr/fr/refuser-les-cookies-doit-etre-aussi-simple-quaccepter-mise-en-conformite-de-tous-les-organismes">refuser soit aussi simple qu'accepter</a>. Voici ce qu'on a constaté en cliquant sur « refuser ».</p>
+
+<h3>{{wallCount}} sites où refuser, c'est s'abonner ou se connecter</h3>
+<p>Sur ces sites, le seul bouton de refus mène vers une page d'abonnement, de paiement ou de création de compte : c'est un « mur de cookies » (accepter ou payer). La CNIL ne l'interdit pas par principe, mais <a href="https://www.cnil.fr/fr/cookie-walls-la-cnil-publie-des-premiers-criteres-devaluation">l'examine au cas par cas</a> : l'alternative doit être réelle, son prix raisonnable, et l'éditeur doit pouvoir le justifier. Pour la mémoire, la différence est nette : ces sites sont exclus des comparaisons accepter/refuser, car leur page « refusée » n'est que le mur.</p>
+<div class="scroll"><table><thead><tr><th>Site</th><th class="num">Accepter</th><th>Où mène le refus</th></tr></thead><tbody>{{wallRows}}</tbody></table></div>
+
+<h3>{{adCount}} sites qui chargent encore de la publicité après un refus</h3>
+<p>Sur {{refusedOkCount}} sites où le refus a bien été enregistré, {{adCount}} font encore tourner plus de 20 Mo de code de régies publicitaires. Ce n'est pas forcément illégal : une publicité non ciblée ne demande pas de consentement. Mais <b>on a mesuré la mémoire, pas les cookies déposés</b> : ces sites méritent qu'on vérifie ce que ces régies font sans consentement. Les 15 premiers (« – » : l'acceptation n'a pas pu être appliquée sur ce site) :</p>
+<div class="scroll"><table><thead><tr><th>Site</th><th class="num">Pub après refus</th><th class="num">Pub en acceptant</th></tr></thead><tbody>{{adRows}}</tbody></table></div>
+<p class="muted">La liste complète : filtre « Publicité après un refus » dans <a href="#classement">le classement</a>.</p>
+<details><summary>Ce qu'on ne peut pas affirmer</summary>
+<ul>
+<li>Le refus est cliqué par un robot (règles autoconsent). Sur {{unsure}} sites, le choix enregistré contredit le choix demandé : le robot a pu se tromper de bouton. Ils sont marqués « choix non vérifié » et exclus des comparaisons, sans être accusés.</li>
+<li>Quand le robot n'a pas trouvé de bouton « refuser », on ne sait pas si le bouton n'existe pas ou si les règles ne le connaissent pas. Ces sites ne sont pas listés ici.</li>
+<li>La page d'arrivée après un refus est relevée automatiquement. Les cas de 20 Minutes et du Figaro ont été vérifiés à l'œil sur capture : leur bouton de refus s'intitule « Refuser et s'abonner ».</li>
+</ul>
+</details>
 </section>
 
 <section id="categories">
 <h2>Par type de site</h2>
-<p>Pour les {{pairs}} sites où l'on a pu à la fois accepter et refuser : mémoire médiane de la page.</p>
+<p>Pour les {{pairs}} sites où l'on a pu à la fois accepter et refuser librement : mémoire médiane de la page.</p>
 <p class="legend"><span><i></i>Cookies acceptés</span><span class="r"><i></i>Cookies refusés</span></p>
 <ul class="bars">{{categoryBars}}</ul>
 <p>Les médias sont à part : <b>{{mediaThird}} %</b> de la mémoire de leurs pages vient de tiers (publicité, mesure d'audience, vidéo), contre {{thirdShareMedian}} % pour la page médiane.</p>
-<details><summary>Le tableau complet</summary>
-<table><thead><tr><th>Type</th><th>Sites mesurés</th><th>Médiane (acceptés)</th><th>90 % des sites sous</th><th>Part des tiers</th></tr></thead><tbody>{{categoryRows}}</tbody></table>
+<details><summary>Le détail par type</summary>
+<div class="scroll"><table><thead><tr><th>Type</th><th class="num">Sites mesurés</th><th class="num">Médiane (acceptés)</th><th class="num">90 % des sites sous</th><th class="num">Part des tiers</th></tr></thead><tbody>{{categoryRows}}</tbody></table></div>
 </details>
 </section>
 
@@ -106,7 +138,37 @@ footer{border-top:1px solid var(--line);margin-top:3rem;padding-top:1rem;font-si
 <h2>Qui consomme</h2>
 <p>Mémoire occupée par chaque acteur tiers, additionnée sur les sites où il est présent (cookies acceptés).</p>
 <ul class="bars">{{entityBars}}</ul>
-<p>Sur les {{entityCount}} premiers, {{adCount}} sont des régies publicitaires ou des places de marché d'enchères.</p>
+<p>Sur les {{entityCount}} premiers, {{adEntityCount}} sont des régies publicitaires ou des places de marché d'enchères.</p>
+</section>
+
+<section id="agir">
+<h2>Que faire ?</h2>
+<div class="box">
+<h3>En tant qu'internaute</h3>
+<ol>
+<li><b>Refusez.</b> C'est le geste qui compte le plus : sur un site de médias, la page refusée pèse en médiane {{mediaRatio}} fois moins lourd. Pour le site médian, c'est ×{{ratioMedian}} ; pour un site sur quatre, plus de ×{{ratioP75}}.</li>
+<li><b>Bloquez les tiers.</b> Un bloqueur comme <a href="https://ublockorigin.com/">uBlock Origin</a> (ou uBlock Origin Lite sur Chrome) empêche ces scripts de se charger, donc d'occuper de la mémoire. Nous ne l'avons pas mesuré : c'est la prochaine étape du projet.</li>
+<li><b>Laissez le navigateur décharger les onglets.</b> Chrome : Paramètres › Performances › Économiseur de mémoire. Edge : onglets en veille. Firefox décharge les onglets quand la mémoire manque.</li>
+<li><b>Fermez les onglets lourds.</b> Cherchez vos sites dans <a href="#classement">le classement</a> : un onglet de média ouvert toute la journée peut occuper plus de 1 Go.</li>
+</ol>
+<h3>Si un site ne vous laisse pas refuser</h3>
+<ol>
+<li>Écrivez à son délégué à la protection des données (son adresse est dans la politique de confidentialité du site), en citant la règle de la CNIL : refuser doit être aussi simple qu'accepter.</li>
+<li>Sans réponse sous un mois, ou si la réponse ne vous convient pas, <a href="https://www.cnil.fr/fr/plaintes">déposez une plainte auprès de la CNIL</a>. Joignez une capture de la bannière et la date.</li>
+</ol>
+<h3>Si vous faites des sites</h3>
+<ol>
+<li><b>Mesurez votre page</b> avec le même outil : <code>npm ci</code>, <code>npx playwright-core install chromium</code>, puis <code>node src/measure.js https://votre-site.fr accept</code> (et <code>refuse</code>). Le mode d'emploi est dans le <a href="{{repo}}">dépôt</a>.</li>
+<li><b>Ne chargez rien avant le consentement</b>, et rien de soumis au consentement après un refus.</li>
+<li><b>Regardez vos tiers un par un</b> : sur les pages lourdes, quelques régies d'enchères pèsent plus que tout le reste de la page.</li>
+<li><b>Fixez-vous un budget de mémoire</b> et suivez les référentiels d'écoconception : <a href="https://www.w3.org/TR/web-sustainability-guidelines/">WSG du W3C</a>, <a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/">RGESN</a>.</li>
+</ol>
+<h3>Pour aider le projet</h3>
+<ul>
+<li>Une erreur sur votre site, un site à ajouter : <a href="{{repo}}/issues">ouvrez un ticket</a>.</li>
+<li>Réutilisez les données (CSV ci-dessus, licence CC BY 4.0) pour vos articles ou vos recherches. La mesure est refaite chaque mois.</li>
+</ul>
+</div>
 </section>
 
 <section id="onglets">
@@ -121,7 +183,7 @@ footer{border-top:1px solid var(--line);margin-top:3rem;padding-top:1rem;font-si
 <ol>
 <li><b>La liste</b> : les origines les plus visitées en France selon le Chrome UX Report (octobre 2026), une par domaine, sans les pages de connexion ni les sites adultes.</li>
 <li><b>Le navigateur</b> : Chromium {{chrome}} sans affichage, avec l'isolation par site activée (chaque site tiers dans son propre processus) et un agent utilisateur Chrome standard qui se déclare comme robot de mesure. Aucun contournement des protections anti-robots.</li>
-<li><b>Les cookies</b> : une première visite accepte ou refuse la bannière automatiquement (règles <a href="https://github.com/duckduckgo/autoconsent">autoconsent</a> de DuckDuckGo), puis la mesure se fait dans une visite neuve qui garde ce choix. Quand le site suit le standard TCF, on relit le choix enregistré pour vérifier.</li>
+<li><b>Les cookies</b> : une première visite accepte ou refuse la bannière automatiquement (règles <a href="https://github.com/duckduckgo/autoconsent">autoconsent</a> de DuckDuckGo), puis la mesure se fait dans une visite neuve qui garde ce choix. Quand le site suit le standard TCF, on relit le choix enregistré pour vérifier. On note aussi la page où mène le clic.</li>
 <li><b>La visite</b> : chargement, défilement jusqu'en bas, puis 60 secondes sans rien faire. On a vérifié sur 12 sites que la mémoire est stable à ce moment-là.</li>
 <li><b>La mesure</b> : l'empreinte mémoire privée de chaque processus de la page, lue par l'outil de traçage interne de Chrome. Un site tiers isolé dans son propre processus est attribué exactement ; le JavaScript de la page principale est attribué script par script.</li>
 <li><b>La répétition</b> : 3 mesures par site et par choix, jusqu'à 5 tant que l'écart dépasse 5 %. On garde la médiane.</li>
@@ -132,9 +194,9 @@ footer{border-top:1px solid var(--line);margin-top:3rem;padding-top:1rem;font-si
 <li><b>Les pages avec beaucoup de pub varient</b> : la moitié des mesures varient de moins de {{cvMedian}} %, mais {{over20}} combinaisons site × choix varient de plus de 20 %, selon les publicités servies.</li>
 <li><b>Une partie de la mémoire n'est pas attribuée</b> : dans la page principale, seul le JavaScript est attribué à son auteur ; le reste (affichage, images, structure) est compté pour le site lui-même.</li>
 <li><b>Une seule configuration</b> : un Chromium sur Linux, un écran 1366×768, une connexion française. Un autre navigateur ou un téléphone donneraient d'autres chiffres, mais les écarts entre sites restent comparables.</li>
-<li><b>Le choix des cookies n'est pas toujours vérifiable</b> : sans TCF, on se fie à la bannière. Les sites où le choix enregistré contredit le choix demandé sont exclus de la comparaison.</li>
+<li><b>Seule la page d'accueil est mesurée</b>, pas les articles ni les vidéos.</li>
 </ul>
-<p>Le code, les règles, la liste et les résultats complets sont publics : <a href="{{repo}}">{{repoShort}}</a>. La mesure est refaite chaque mois.</p>
+<p>Le code, les règles, la liste et les résultats complets sont publics : <a href="{{repo}}">{{repoShort}}</a>.</p>
 </section>
 
 <section id="sobre">
@@ -145,7 +207,7 @@ footer{border-top:1px solid var(--line);margin-top:3rem;padding-top:1rem;font-si
 <li>aucun script tiers : ni mesure d'audience, ni bannière de cookies (il n'y a pas de cookie) ;</li>
 <li>les graphiques sont du HTML et du CSS, sans bibliothèque ni canvas ;</li>
 <li>pas d'animation ni de minuterie : rien ne tourne quand vous ne faites rien ;</li>
-<li>les données des sites ({{dataKb}} ko) ne sont chargées que si vous jouez ou cherchez un site ;</li>
+<li>les données du classement ({{dataKb}} ko) ne sont chargées qu'à l'approche du tableau, qui n'affiche que 50 lignes à la fois ;</li>
 <li>les sections hors de l'écran ne sont pas mises en page tant qu'on n'y arrive pas.</li>
 </ul>
 <p>Résultat : <b>{{thisPage}}</b> de RAM, mesuré avec le même protocole, contre {{acceptMedian}} pour la page médiane du top {{listed}}.</p>
@@ -156,21 +218,32 @@ footer{border-top:1px solid var(--line);margin-top:3rem;padding-top:1rem;font-si
 <script>
 (()=>{
 const $=s=>document.querySelector(s),CAT={{catLabels}};
-const fmt=m=>m>=1000?(m/1024).toFixed(1).replace('.',',')+' Go':Math.round(m)+' Mo';
-let D,P;
-const load=()=>P||(P=fetch('sites.json').then(r=>r.json()).then(d=>{D=d;$('#ids').innerHTML=d.map(s=>'<option value="'+s[0]+'">').join('');return d}));
-// game: two sites with clearly different weights
-const g=$('#game'),out=$('#gameOut');let pair,score=0,n=0,shown=false;
-const deal=()=>{const a=D.filter(s=>s[2]);let x,y;do{x=a[Math.random()*a.length|0];y=a[Math.random()*a.length|0]}while(x===y||Math.max(x[2],y[2])<1.5*Math.min(x[2],y[2]));pair=[x,y];shown=false;g.querySelectorAll('button').forEach((b,i)=>b.textContent=pair[i][0])};
-g.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;load().then(()=>{if(!pair||shown){deal();return}const i=+b.dataset.i,w=pair[0][2]>pair[1][2]?0:1;n++;if(i===w)score++;shown=true;
-out.innerHTML=(i===w?'<b>Bien vu.</b> ':'<b>Raté.</b> ')+pair[w][0]+' : '+fmt(pair[w][2])+', '+pair[1-w][0]+' : '+fmt(pair[1-w][2])+'. Score : '+score+' / '+n+'. Cliquez pour rejouer.'})});
-// search
-const q=$('#q'),res=$('#res');
-q.addEventListener('focus',load,{once:true});
-q.addEventListener('change',()=>load().then(()=>{const v=q.value.trim().toLowerCase().replace(/^https?:\/\//,'').replace(/^www\./,'').replace(/\/.*$/,''),s=v&&(D.find(x=>x[0]===v)||D.find(x=>x[0].startsWith(v))||D.find(x=>x[0].includes(v)));if(!s){res.innerHTML='<p class="muted">Site non mesuré (bloqué ou hors du top 1000).</p>';return}
-const mx=Math.max(s[2]||0,s[3]||0)||1,bar=(c,m,l)=>m==null?'':'<div class="b '+c+'"><i style="width:'+(m/mx*70)+'%"></i>'+l+' : '+fmt(m)+'</div>';
-res.innerHTML='<div class="card"><b>'+s[0]+'</b> <span class="muted">· '+(CAT[s[1]]||s[1])+'</span>'+bar('',s[2],s[5][0]==='n'?'sans bannière':'acceptés')+bar('r',s[3],'refusés')+
-(s[4]!=null?'<p class="muted">'+s[4]+' % de la mémoire vient de tiers'+(s[7].length?' : '+s[7].map(t=>t[0]+' ('+fmt(t[1])+')').join(', '):'')+'.</p>':'')+(s[6]>20?'<p class="muted">Ce site varie beaucoup d\'une visite à l\'autre (±'+s[6]+' %).</p>':'')+(s[5].includes('?')?'<p class="muted">Le choix des cookies n\'a pas pu être confirmé pour ce site.</p>':'')+'</div>'}));
+const fmt=m=>m==null?'–':m>=1000?(m/1024).toFixed(1).replace('.',',')+' Go':Math.round(m)+' Mo';
+const esc=t=>String(t).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+// rows: [host, type, accept MB, refuse MB, third %, consent states, max CV %, top third parties, wall landing, ad MB after refusal]
+let D=null,key=2,dir=-1,lim=50;
+const tb=$('#t tbody'),cnt=$('#count'),more=$('#more'),q=$('#q'),fc=$('#fc'),ff=$('#ff');
+const note=s=>{const r=[];
+if(s[5][1]==='p')r.push('<span class="warn">Refuser = s\'abonner ou se connecter</span>');
+if(s[9]>=20)r.push('<span class="warn">Pub après refus : '+fmt(s[9])+'</span>');
+if(s[5].includes('?'))r.push('Choix non vérifié');
+if(s[5][0]==='n')r.push('Pas de bannière');
+if(s[6]>20)r.push('Variable (±'+s[6]+' %)');
+return r.join('<br>')};
+const norm=v=>v.trim().toLowerCase().replace(/^https?:\/\//,'').replace(/^www\./,'').replace(/\/.*$/,'');
+const draw=()=>{if(!D)return;const v=norm(q.value),c=fc.value,f=ff.value;
+const rows=D.filter(s=>(!v||s[0].includes(v))&&(!c||s[1]===c)&&(!f||(f==='p'?s[5][1]==='p':f==='ad'?s[9]>=20:s[5][0]==='n')));
+rows.sort((a,b)=>{const x=a[key],y=b[key];if(x==null)return 1;if(y==null)return -1;return(typeof x==='string'?x.localeCompare(y):x-y)*dir});
+cnt.textContent=rows.length+' site'+(rows.length>1?'s':'')+(rows.length<D.length?' sur '+D.length:'');
+tb.innerHTML=rows.slice(0,lim).map(s=>{const n=note(s);return'<tr><td><b>'+esc(s[0])+'</b><small>'+esc(CAT[s[1]]||s[1])+(s[7].length?' · '+s[7].map(t=>esc(t[0])).join(', '):'')+'</small>'+(n?'<small class="m">'+n.replace(/<br>/g,' · ')+'</small>':'')+'</td><td class="num">'+fmt(s[2])+'</td><td class="num">'+(s[5][1]==='p'?'mur':fmt(s[3]))+'</td><td class="num">'+(s[4]==null?'–':s[4]+' %')+'</td><td>'+n+'</td></tr>'}).join('');
+more.hidden=rows.length<=lim;more.textContent='Afficher '+Math.min(rows.length-lim,200)+' lignes de plus'};
+const load=()=>{if(D)return;D=[];fetch('sites.json').then(r=>r.json()).then(d=>{D=d;draw()}).catch(()=>{cnt.textContent='Les données n\'ont pas pu être chargées.'})};
+const sec=$('#classement');
+if('IntersectionObserver'in window){const io=new IntersectionObserver(e=>{if(e.some(x=>x.isIntersecting)){io.disconnect();load()}},{rootMargin:'600px'});io.observe(sec)}else load();
+[q,fc,ff].forEach(el=>el.addEventListener('input',()=>{lim=50;load();draw()}));
+more.addEventListener('click',()=>{lim+=200;draw()});
+$('#t thead').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;const k=+b.dataset.k;dir=k===key?-dir:(k===0?1:-1);key=k;
+document.querySelectorAll('#t th button').forEach(x=>x.setAttribute('aria-sort',x===b?(dir>0?'ascending':'descending'):'none'));draw()});
 // tabs
 const ram=$('#ram'),T={{tabsData}};
 ram.addEventListener('input',()=>{const gb=+ram.value;$('#ramv').textContent=gb+' Go';$('#tabs').innerHTML=T.map(t=>'<b>'+Math.floor(gb*1024/t[1])+'</b> '+t[0]).join(' · ')});

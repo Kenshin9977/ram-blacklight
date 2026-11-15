@@ -37,6 +37,9 @@ function consentCheck(mode, tcf) {
   return v > 0 ? 'ok' : 'MISMATCH:0-vendors';
 }
 
+// origin + path only, long tokens masked: query strings and paths can carry session or payment ids
+const landing = c => { if (!c.redirected || !c.finalUrl) return null; try { const u = new URL(c.finalUrl); return u.origin + u.pathname.replace(/\/[\w-]{24,}/g, '/…'); } catch { return null; } };
+
 const groups = {};
 let baseline = [];
 for (const f of fs.readdirSync(rawDir).filter(f => f.endsWith('.json'))) {
@@ -51,7 +54,7 @@ for (const f of fs.readdirSync(rawDir).filter(f => f.endsWith('.json'))) {
   const a = attributeRun(raw, raw.site.aliases || []);
   a.run = raw.run;
   a.blocked = raw.blocked || (raw.consent && raw.consent.blocked) || (MAINTENANCE.test(raw.title || '') ? 'maintenance' : null);
-  a.consentDetail = raw.consent ? { outcome: raw.consent.outcome, cmp: raw.consent.cmp, redirected: raw.consent.redirected } : null;
+  a.consentDetail = raw.consent ? { outcome: raw.consent.outcome, cmp: raw.consent.cmp, redirected: raw.consent.redirected, landing: landing(raw.consent) } : null;
   a.tcf = raw.tcf || null;
   a.consentCheck = consentCheck(raw.mode, raw.tcf);
   a.error = a.error || raw.error || null;
@@ -75,6 +78,8 @@ for (const g of Object.values(groups)) {
     blocked: g.runs.map(r => r.blocked).find(Boolean) || null,
     errors: g.runs.filter(r => r.error).map(r => r.error),
     consent: [...new Set(g.runs.map(r => r.consentDetail && `${r.consentDetail.outcome}${r.consentDetail.cmp ? ':' + r.consentDetail.cmp : ''}${r.consentDetail.redirected ? '+redirect' : ''}`))],
+    // where the consent click landed when it left the page (e.g. "refuse and subscribe" -> subscription page)
+    consentLanding: [...new Set(g.runs.map(r => r.consentDetail && r.consentDetail.landing).filter(Boolean))],
     tcfVendors: [...new Set(g.runs.map(r => r.tcf && r.tcf.vendorConsents))],
     consentCheck: [...new Set(g.runs.map(r => r.consentCheck))],
     pageTotal: mb(stats(ok.map(r => r.pageTotal))),

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T10:21:03.412Z",
+ "generatedAt": "2026-11-15T13:10:16.832Z",
  "listed": 1000,
  "measured": 827,
  "notMeasured": 173,
@@ -21,14 +21,14 @@
   "over1g": 104
  },
  "pairs": {
-  "n": 479,
-  "acceptMedian": 262,
-  "refuseMedian": 135,
-  "ratioMedian": 1.5,
-  "ratioP75": 4.6,
-  "ratioP90": 10.2,
-  "over2x": 182,
-  "over4x": 129
+  "n": 460,
+  "acceptMedian": 253,
+  "refuseMedian": 137,
+  "ratioMedian": 1.45,
+  "ratioP75": 3.9,
+  "ratioP90": 9.1,
+  "over2x": 166,
+  "over4x": 113
  },
  "thirdShareMedian": 0.22,
  "variability": {
@@ -45,9 +45,9 @@
    "measured": 132,
    "acceptMedian": 1051,
    "acceptP90": 1597,
-   "pairs": 113,
-   "pairAccept": 1098,
-   "pairRefuse": 132,
+   "pairs": 99,
+   "pairAccept": 1056,
+   "pairRefuse": 138,
    "thirdShare": 0.85
   },
   {
@@ -69,8 +69,8 @@
    "measured": 44,
    "acceptMedian": 249,
    "acceptP90": 1391,
-   "pairs": 29,
-   "pairAccept": 533,
+   "pairs": 27,
+   "pairAccept": 552,
    "pairRefuse": 119,
    "thirdShare": 0.53
   },
@@ -93,9 +93,9 @@
    "measured": 55,
    "acceptMedian": 178,
    "acceptP90": 394,
-   "pairs": 37,
-   "pairAccept": 232,
-   "pairRefuse": 145,
+   "pairs": 36,
+   "pairAccept": 231,
+   "pairRefuse": 153,
    "thirdShare": 0.37
   },
   {
@@ -105,8 +105,8 @@
    "measured": 77,
    "acceptMedian": 133,
    "acceptP90": 458,
-   "pairs": 41,
-   "pairAccept": 187,
+   "pairs": 40,
+   "pairAccept": 178,
    "pairRefuse": 156,
    "thirdShare": 0.17
   },
@@ -141,9 +141,9 @@
    "measured": 27,
    "acceptMedian": 94,
    "acceptP90": 557,
-   "pairs": 12,
-   "pairAccept": 208,
-   "pairRefuse": 100,
+   "pairs": 11,
+   "pairAccept": 157,
+   "pairRefuse": 93,
    "thirdShare": 0.09
   },
   {
@@ -299,5 +299,135 @@
    "sites": 78
   }
  ],
- "sites": 827
+ "sites": 827,
+ "walls": [
+  {
+   "id": "programme-tv.net",
+   "c": "media",
+   "landing": "connect.programme-tv.net/",
+   "a": 3051
+  },
+  {
+   "id": "lexpress.fr",
+   "c": "media",
+   "landing": "connexion.lexpress.fr/inscription",
+   "a": 2226
+  },
+  {
+   "id": "programme.tv",
+   "c": "media",
+   "landing": "connect.programme.tv/",
+   "a": 1602
+  },
+  {
+   "id": "geo.fr",
+   "c": "media",
+   "landing": "connect.geo.fr/",
+   "a": 1501
+  },
+  {
+   "id": "voici.fr",
+   "c": "media",
+   "landing": "connect.voici.fr/",
+   "a": 1458
+  },
+  {
+   "id": "droit-finances.commentcamarche.com",
+   "c": "media",
+   "landing": "checkout.stripe.com/g/pay/…",
+   "a": 1456
+  },
+  {
+   "id": "femmeactuelle.fr",
+   "c": "media",
+   "landing": "connect.femmeactuelle.fr/",
+   "a": 1396
+  },
+  {
+   "id": "gala.fr",
+   "c": "media",
+   "landing": "connect.lefigaro.fr/login",
+   "a": 1394
+  },
+  {
+   "id": "lefigaro.fr",
+   "c": "media",
+   "landing": "connect.lefigaro.fr/login",
+   "a": 1332
+  },
+  {
+   "id": "actu.fr",
+   "c": "media",
+   "landing": "moncompte.actu.fr/cookiewall/landing",
+   "a": 1317
+  },
+  {
+   "id": "capital.fr",
+   "c": "media",
+   "landing": "connect.capital.fr/",
+   "a": 1312
+  },
+  {
+   "id": "linternaute.com",
+   "c": "media",
+   "landing": "checkout.stripe.com/g/pay/…",
+   "a": 1098
+  },
+  {
+   "id": "journaldesfemmes.fr",
+   "c": "media",
+   "landing": "checkout.stripe.com/g/pay/…",
+   "a": 1094
+  },
+  {
+   "id": "turbo.fr",
+   "c": "voyage-transport",
+   "landing": "checkout.stripe.com/g/pay/…",
+   "a": 1005
+  },
+  {
+   "id": "20minutes.fr",
+   "c": "media",
+   "landing": "membre.20minutes.fr/abonnement/inscription/",
+   "a": 960
+  },
+  {
+   "id": "lemonde.fr",
+   "c": "media",
+   "landing": "mur « accepter ou s'abonner »",
+   "a": 668
+  },
+  {
+   "id": "zonebourse.com",
+   "c": "banque-assurance",
+   "landing": "www.zonebourse.com/services/solutions/",
+   "a": 531
+  },
+  {
+   "id": "visa-algerie.com",
+   "c": "voyage-transport",
+   "landing": "www.visa-algerie.com/login/",
+   "a": 355
+  },
+  {
+   "id": "m6.fr",
+   "c": "divertissement",
+   "landing": "www.m6.fr/offre/m6plusmax",
+   "a": 246
+  },
+  {
+   "id": "cuisineaz.com",
+   "c": "loisirs-pratique",
+   "landing": "checkout.stripe.com/g/pay/…",
+   "a": 132
+  },
+  {
+   "id": "cuisineactuelle.fr",
+   "c": "loisirs-pratique",
+   "landing": "checkout.stripe.com/g/pay/…",
+   "a": 126
+  }
+ ],
+ "adAfterRefusal": 100,
+ "refusedOkCount": 562
 }

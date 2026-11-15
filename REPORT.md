@@ -8,8 +8,10 @@ Une première étude de faisabilité sur 20 sites (12/11/2026, sous Windows) a v
 ## TL;DR
 
 - **La page médiane occupe 154 Mo de RAM** une fois les cookies acceptés ; 171 sites dépassent 500 Mo et **104 dépassent 1 Go**, jusqu'à 3,3 Go (tameteo.com). Un onglet vide en occupe 28.
-- **Accepter les cookies coûte cher sur les sites financés par la pub.** Sur les 479 sites où les deux choix ont été appliqués et vérifiés : 262 Mo en acceptant contre 135 Mo en refusant (médianes). Le rapport médian n'est que de ×1,5, mais il dépasse ×4,6 pour un quart des sites et ×10 pour un sur dix.
-- **Les médias sont à part : 1,1 Go en acceptant contre 132 Mo en refusant (×8)**, dont 85 % pour des tiers. Viennent ensuite le sport et les paris (×4,4) et les sites pratiques et de loisirs (×4,5). L'administration, la santé et l'éducation ne bougent pas (×1,1).
+- **Accepter les cookies coûte cher sur les sites financés par la pub.** Sur les 460 sites où les deux choix ont été appliqués librement et vérifiés : 253 Mo en acceptant contre 137 Mo en refusant (médianes). Le rapport médian n'est que de ×1,5, mais il dépasse ×3,9 pour un quart des sites et ×9 pour un sur dix.
+- **Les médias sont à part : 1,1 Go en acceptant contre 136 Mo en refusant (×8)**, dont 85 % pour des tiers. Viennent ensuite le sport et les paris (×4,4) et les sites pratiques et de loisirs (×4,6). L'administration, la santé et l'éducation ne bougent pas (×1,1).
+- **Sur 21 sites, refuser revient à s'abonner ou se connecter** : le bouton de refus mène à une page d'abonnement, de paiement ou de connexion (lefigaro, lemonde, 20minutes, lexpress, les titres Prisma…). 15 sont des médias.
+- **100 sites font encore tourner plus de 20 Mo de régies publicitaires après un refus enregistré** (abcbourse 289 Mo, tameteo 272 Mo). Ce n'est pas une preuve d'illégalité (la publicité non ciblée n'exige pas de consentement), mais c'est à vérifier.
 - **Les régies publicitaires dominent la consommation tierce.** Google/Doubleclick Ads cumule 21,5 Go sur 337 sites ; 9 des 10 tiers les plus coûteux sont des régies ou des places de marché d'enchères.
 - **La mesure est fiable sur la plupart des sites, bruitée sur les pages publicitaires.** Variation médiane entre runs : 2 %. Mais 28 % des couples site × choix varient de plus de 5 %, et 108 de plus de 20 %.
 - **17 % des sites n'ont pas pu être mesurés** : ils bloquent un robot qui se déclare (refus 403 surtout). Nous ne contournons pas ces protections.
@@ -42,23 +44,24 @@ Le **total page** est la somme des empreintes privées des renderers qui héberg
 | Mesurés (au moins un choix valide) | 827 |
 | Non mesurables (blocage) | 173 : 133 refus 403, 27 captchas, 5 pages de blocage, 4 vérifications anti-robot, 2 « trop de requêtes », 2 « service indisponible » |
 | Sans bannière de cookies | 205 (un seul choix mesuré) |
-| Les deux choix appliqués et vérifiés | 479 |
+| Refus menant à un abonnement ou une connexion (section 2.5) | 21 |
+| Les deux choix appliqués librement et vérifiés | 460 |
 
 ### 2.2 Par type de site
 
-Mémoire médiane de la page. « Acceptés (tous) » porte sur tous les sites mesurés du type, avec ou sans bannière ; les colonnes « paires » ne retiennent que les sites où l'acceptation et le refus ont tous deux été appliqués.
+Mémoire médiane de la page. « Acceptés (tous) » porte sur tous les sites mesurés du type, avec ou sans bannière ; les colonnes « paires » ne retiennent que les sites où l'acceptation et le refus ont tous deux été appliqués, sans mur d'abonnement.
 
 | Type | Mesurés / listés | Acceptés (tous) | 90 % sous | Paires | Acceptés | Refusés | Rapport | Part des tiers |
 |---|---|---|---|---|---|---|---|---|
-| Médias | 132 / 141 | 1 051 Mo | 1 597 Mo | 113 | 1 098 Mo | 132 Mo | ×8,3 | 85 % |
+| Médias | 132 / 141 | 1 051 Mo | 1 597 Mo | 105 | 1 090 Mo | 136 Mo | ×8,0 | 85 % |
 | Sport, paris | 50 / 53 | 428 Mo | 1 616 Mo | 36 | 840 Mo | 192 Mo | ×4,4 | 70 % |
-| Loisirs, pratique | 44 / 55 | 249 Mo | 1 391 Mo | 29 | 533 Mo | 119 Mo | ×4,5 | 53 % |
+| Loisirs, pratique | 44 / 55 | 249 Mo | 1 391 Mo | 27 | 552 Mo | 119 Mo | ×4,6 | 53 % |
 | E-commerce | 175 / 251 | 183 Mo | 448 Mo | 118 | 217 Mo | 147 Mo | ×1,5 | 22 % |
-| Voyage, transport | 55 / 70 | 178 Mo | 394 Mo | 37 | 232 Mo | 145 Mo | ×1,6 | 37 % |
-| Divertissement | 77 / 98 | 133 Mo | 458 Mo | 41 | 187 Mo | 156 Mo | ×1,2 | 17 % |
+| Voyage, transport | 55 / 70 | 178 Mo | 394 Mo | 36 | 231 Mo | 153 Mo | ×1,5 | 37 % |
+| Divertissement | 77 / 98 | 133 Mo | 458 Mo | 40 | 178 Mo | 156 Mo | ×1,1 | 17 % |
 | Services (télécom, énergie, mail) | 35 / 41 | 106 Mo | 607 Mo | 20 | 135 Mo | 105 Mo | ×1,3 | 19 % |
 | Annonces, emploi, immobilier | 26 / 35 | 103 Mo | 279 Mo | 16 | 138 Mo | 114 Mo | ×1,2 | 8 % |
-| Banque, assurance | 27 / 31 | 94 Mo | 557 Mo | 12 | 208 Mo | 100 Mo | ×2,1 | 9 % |
+| Banque, assurance | 27 / 31 | 94 Mo | 557 Mo | 11 | 157 Mo | 93 Mo | ×1,7 | 9 % |
 | Réseaux sociaux, forums | 56 / 60 | 82 Mo | 257 Mo | 22 | 177 Mo | 109 Mo | ×1,6 | 9 % |
 | Éducation, santé | 38 / 40 | 61 Mo | 111 Mo | 5 | 91 Mo | 83 Mo | ×1,1 | 0 % |
 | Outils, tech | 55 / 64 | 59 Mo | 302 Mo | 17 | 168 Mo | 126 Mo | ×1,3 | 2 % |
@@ -106,6 +109,42 @@ Somme des médianes par entité, sur les sites où elle apparaît, cookies accep
 | TripleLift | pub | 2,3 Go | 78 |
 
 Le coût d'une iframe publicitaire est dominé par **le processus lui-même** : chaque iframe d'un site tiers différent ouvre un renderer d'au moins ~20 Mo, même pour un pixel de synchronisation de cookies. C'est un coût réel pour l'utilisateur de Chrome, qui isole les sites, mais il dépend de la politique d'isolation du navigateur (moins forte sur Android, par exemple).
+
+### 2.5 Ce qui se passe quand on refuse
+
+La [CNIL](https://www.cnil.fr/fr/refuser-les-cookies-doit-etre-aussi-simple-quaccepter-mise-en-conformite-de-tous-les-organismes) demande que refuser soit aussi simple qu'accepter. L'outil note la page où mène le clic de refus (origine et chemin, sans les paramètres, les jetons de session étant masqués : `consentLanding` dans `summary.json`).
+
+**Refuser = s'abonner ou se connecter (21 sites).** Le bouton de refus mène à une page d'abonnement, de paiement ou de connexion. Ces « murs de cookies » ne sont pas interdits par principe : la CNIL [les examine au cas par cas](https://www.cnil.fr/fr/cookie-walls-la-cnil-publie-des-premiers-criteres-devaluation) (alternative réelle, prix raisonnable et justifié). Ces sites sont **exclus des comparaisons** accepter / refuser : leur mesure « refusée » est celle de la page avec le mur.
+
+| Site | Type | Acceptés | Page après le refus |
+|---|---|---|---|
+| programme-tv.net | Médias | 3,0 Go | connect.programme-tv.net |
+| lexpress.fr | Médias | 2,2 Go | connexion.lexpress.fr/inscription |
+| programme.tv | Médias | 1,6 Go | connect.programme.tv |
+| geo.fr | Médias | 1,5 Go | connect.geo.fr |
+| voici.fr | Médias | 1,4 Go | connect.voici.fr |
+| droit-finances.commentcamarche.com | Médias | 1,4 Go | checkout.stripe.com (paiement) |
+| femmeactuelle.fr | Médias | 1,4 Go | connect.femmeactuelle.fr |
+| gala.fr | Médias | 1,4 Go | connect.lefigaro.fr/login |
+| lefigaro.fr | Médias | 1,3 Go | connect.lefigaro.fr/login |
+| actu.fr | Médias | 1,3 Go | moncompte.actu.fr/cookiewall/landing |
+| capital.fr | Médias | 1,3 Go | connect.capital.fr |
+| linternaute.com | Médias | 1,1 Go | checkout.stripe.com (paiement) |
+| journaldesfemmes.fr | Médias | 1,1 Go | checkout.stripe.com (paiement) |
+| turbo.fr | Voyage, transport | 1,0 Go | checkout.stripe.com (paiement) |
+| 20minutes.fr | Médias | 960 Mo | membre.20minutes.fr/abonnement/inscription |
+| lemonde.fr | Médias | 668 Mo | mur « accepter ou s'abonner » (règle dédiée) |
+| zonebourse.com | Banque, assurance | 531 Mo | zonebourse.com/services/solutions |
+| visa-algerie.com | Voyage, transport | 355 Mo | visa-algerie.com/login |
+| m6.fr | Divertissement | 246 Mo | m6.fr/offre/m6plusmax |
+| cuisineaz.com | Loisirs, pratique | 132 Mo | checkout.stripe.com (paiement) |
+| cuisineactuelle.fr | Loisirs, pratique | 126 Mo | checkout.stripe.com (paiement) |
+
+Vérifiés à l'œil sur capture : 20minutes, lefigaro et visa-algerie affichent un bouton « Refuser et s'abonner ». Les pages `connect.<titre>` des titres Prisma portent dans leurs paramètres `PAYWALL_MODALE` et `ZERO-PUB` (offre sans publicité).
+
+**Publicité après un refus enregistré (100 sites sur 562).** Sur les sites où le refus a été appliqué (choix TCF confirmé, ou pas de TCF), 100 font encore tourner plus de 20 Mo de code de régies publicitaires : abcbourse.com 289 Mo, tameteo.com 272 Mo, programme-television.org 265 Mo, senscritique.com 242 Mo, lequipe.fr 220 Mo… (liste complète : colonne `pub_apres_refus_mo` du CSV publié avec le site). On mesure de la mémoire, pas des cookies : une publicité non ciblée ne demande pas de consentement. Ces sites sont donc à vérifier, pas à condamner.
+
+**Ce qui n'est pas affirmé.** Les 11 refus que le site enregistre comme des acceptations (section 3.3) peuvent venir d'un mauvais clic de l'outil ; quand l'outil ne trouve pas de bouton de refus, on ne sait pas si le bouton manque ou si les règles ne le connaissent pas. Aucun de ces sites n'est listé ici.
 
 ## 3. Fiabilité
 
@@ -165,8 +204,8 @@ La mémoire culmine juste après le défilement puis se stabilise ; entre 60 et 
 
 1. **Blocage anti-robot : 17 % des sites.** Le grand e-commerce et quelques médias (lepoint, ebay, sncf, canva, blablacar, monoprix…) sont absents. Ils sont publiés comme « non mesurables par un robot déclaré ». Un site qui bloque est visité une seule fois puis ignoré, pour ménager la réputation de l'adresse IP.
 2. **Une seule configuration** : Chromium 134 sans affichage sous Linux, écran 1366×768, connexion française. Les chiffres absolus sont propres à cette configuration (l'étude Windows donnait un onglet vide à 20 Mo contre 28 ici) ; les comparaisons entre sites, types et choix sont le résultat robuste.
-3. **Murs « accepter ou s'abonner »** (lemonde, 20minutes, lefigaro…) : refuser mène à une page d'abonnement. Le mode refuser mesure la page derrière le mur, réaliste pour l'utilisateur mais pas un « vrai » refus.
-4. **Tiers chargés malgré le refus** : 152 sites gardent plus de 40 % de mémoire tierce après un refus appliqué (ouest-france 50 %, tameteo 68 %). À qualifier (intérêt légitime, publicité contextuelle, outils non publicitaires ?) avant toute mise en cause.
+3. **Murs « accepter ou s'abonner »** : détectés par la page où mène le refus (section 2.5). Un mur qui s'affiche sans changer d'adresse échappe à cette détection ; lemonde n'est repéré que grâce à une règle dédiée.
+4. **Tiers chargés malgré le refus** : 152 sites gardent plus de 40 % de mémoire tierce après un refus appliqué (ouest-france 50 %, tameteo 68 %), dont 100 avec plus de 20 Mo de régies publicitaires. À qualifier (intérêt légitime, publicité contextuelle, outils non publicitaires ?) avant toute mise en cause.
 5. **Catégories attribuées à la main**, d'après le titre et le domaine : quelques cas limites (voir l'historique de `data/site-categories.json`).
 
 ## 6. Suite
