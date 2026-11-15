@@ -25,8 +25,8 @@ const USER_AGENT = `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 // (timeout) can close them: a hung measure() would otherwise never reach its finally.
 const { AsyncLocalStorage } = require('async_hooks');
 const scope = new AsyncLocalStorage();
-async function launchBrowser(headless = true) {
-  const browser = await chromium.launch({
+async function launchBrowser(headless = true, blocker = null) {
+  const browser = blocker ? await launchWithBlocker(headless, blocker) : await chromium.launch({
     channel: 'chromium', headless,
     ignoreDefaultArgs: [PW_DISABLE],
     args: ['--site-per-process', OUR_DISABLE, '--lang=fr-FR'],
@@ -37,6 +37,77 @@ async function launchBrowser(headless = true) {
     live.add(browser); browser.on('disconnected', () => live.delete(browser));
   }
   return browser;
+}
+// Content blockers (unpacked official releases, fetched by scripts/fetch-extensions.sh), default settings.
+// Extensions need a persistent profile: one profile per blocker is warmed up once (filter lists compiled),
+// then copied for every run, so each run starts like a browser the user has had for a while.
+const ROOT = path.resolve(__dirname, '..');
+// uBlock Origin (MV2) is not offered: Chrome dropped MV2 extensions in 2025, and in this Chromium it
+// stops filtering as soon as the browser announces a regular Chrome user agent (tested 2026-11-15).
+const BLOCKERS = {
+  ubol: { name: 'uBlock Origin Lite', dir: path.join(ROOT, 'extensions', 'ubol') },
+};
+const os = require('os');
+const warmed = {};
+const persistentOpts = (headless, ext) => ({
+  ...CTX_OPTS, channel: 'chromium', headless,
+  ignoreDefaultArgs: [PW_DISABLE, '--disable-extensions'],
+  args: ['--site-per-process', OUR_DISABLE, '--lang=fr-FR', `--disable-extensions-except=${ext}`, `--load-extension=${ext}`],
+});
+function warmProfile(blocker, headless) {
+  return warmed[blocker] ||= (async () => {
+    const b = BLOCKERS[blocker];
+    if (!b || !fs.existsSync(path.join(b.dir, 'manifest.json'))) throw new Error(`blocker ${blocker} not installed (scripts/fetch-extensions.sh)`);
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), `rb-${blocker}-warm-`));
+    const ctx = await chromium.launchPersistentContext(dir, persistentOpts(headless, b.dir));
+    const page = ctx.pages()[0] || await ctx.newPage();
+    await page.goto('https://example.com/').catch(() => {});
+    await page.waitForTimeout(45000); // first start: lists are compiled (and updated) in the background
+    await ctx.close();
+    return dir;
+  })();
+}
+async function launchWithBlocker(headless, blocker) {
+  const ext = BLOCKERS[blocker];
+  const base = await warmProfile(blocker, headless);
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), `rb-${blocker}-run-`));
+  fs.cpSync(base, dir, { recursive: true, filter: s => !/Singleton(Lock|Socket|Cookie)$/.test(s) });
+  const ctx = await chromium.launchPersistentContext(dir, persistentOpts(headless, ext.dir));
+  const first = ctx.pages()[0] || await ctx.newPage();
+  // A user's blocker is already running when they open a page: wait until ours blocks a script it
+  // blocks outright (Google ad scripts are replaced by neutered stand-ins, so they "load" even when blocked).
+  await first.goto('https://example.com/').catch(() => {});
+  const probe = () => first.evaluate(() => new Promise(r => { const s = document.createElement('script'); s.src = 'https://static.criteo.net/js/ld/publishertag.js?r=' + Math.random(); s.onload = () => r(false); s.onerror = () => r(true); document.head.append(s); })).catch(() => false);
+  const t0 = Date.now();
+  while (!(await probe())) {
+    if (Date.now() - t0 > 90000) { await ctx.close().catch(() => {}); fs.rmSync(dir, { recursive: true, force: true }); throw new Error(`blocker ${blocker} not filtering after 90 s`); }
+    await first.waitForTimeout(1000);
+  }
+  const readyMs = Date.now() - t0;
+  await first.goto('about:blank').catch(() => {});
+  const cdp = await ctx.newCDPSession(first);
+  const { product } = await cdp.send('Browser.getVersion');
+  await cdp.detach().catch(() => {});
+  // the measured page must be the only tab: close the start tab once the measured one exists
+  const newPage = async () => { const p = await ctx.newPage(); for (const o of ctx.pages()) if (o !== p) await o.close().catch(() => {}); return p; };
+  const proxy = new Proxy(ctx, { get: (t, k) => k === 'newPage' ? newPage : typeof t[k] === 'function' ? t[k].bind(t) : t[k] });
+  return {
+    blocker: { id: blocker, name: ext.name, version: JSON.parse(fs.readFileSync(path.join(ext.dir, 'manifest.json'), 'utf8')).version, readyMs },
+    version: () => product.replace(/^\w+\//, ''),
+    // persistent contexts take their options at launch; only the stored consent is applied here
+    newContext: async (opts = {}) => { if (opts.storageState) await applyStorageState(ctx, opts.storageState); return proxy; },
+    on: (ev, fn) => ctx.on(ev === 'disconnected' ? 'close' : ev, fn),
+    close: async () => { await ctx.close().catch(() => {}); fs.rmSync(dir, { recursive: true, force: true }); },
+  };
+}
+// Same effect as newContext({ storageState }): cookies, plus localStorage set before any page script runs.
+async function applyStorageState(ctx, state) {
+  if (state.cookies && state.cookies.length) await ctx.addCookies(state.cookies);
+  const origins = Object.fromEntries((state.origins || []).map(o => [o.origin, o.localStorage]));
+  if (Object.keys(origins).length) await ctx.addInitScript(o => {
+    const items = o[location.origin];
+    if (items) try { for (const { name, value } of items) if (localStorage.getItem(name) === null) localStorage.setItem(name, value); } catch {}
+  }, origins);
 }
 function withBrowserScope(fn) {
   const live = new Set();
@@ -166,13 +237,14 @@ async function measure(opts) {
     debuggerUrls = true, // enable Debugger from start to resolve scriptId -> URL (top-level scripts get GC'd)
     sampling = true,
     curveStepMs = 0, // >0: light memory dump every curveStepMs during idle (stabilisation study)
+    blocker = null, // 'ubol': measured visit with that content blocker (consent visit stays without)
   } = opts;
   const t0 = Date.now();
   const out = { url, mode, startedAt: new Date().toISOString(), params: { idleMs, samplingInterval, debuggerUrls, sampling } };
   // UA policy (same as HTTP Archive): the desktop Chrome UA of the pinned build, so sites serve the
   // page real visitors get (HeadlessChrome gets degraded pages, e.g. no CMP notice), plus a declared
   // crawler token. No stealth patches, no fingerprint changes; captchas/blocks are flagged, never solved.
-  const launch = () => launchBrowser(headless);
+  const launch = () => launchBrowser(headless, blocker);
   const ctxOpts = CTX_OPTS;
   out.userAgent = USER_AGENT;
 
@@ -192,6 +264,7 @@ async function measure(opts) {
   try {
     const version = browser.version();
     out.browser = { version, flags: ['--site-per-process', 'headless=new', OUR_DISABLE] };
+    if (browser.blocker) out.blocker = browser.blocker;
     const ctx = await browser.newContext({ ...ctxOpts, storageState });
     const page = await ctx.newPage();
     const main = await ctx.newCDPSession(page);
@@ -362,7 +435,7 @@ module.exports = { measure, obtainConsent, launchBrowser, withBrowserScope, USER
 if (require.main === module) {
   (async () => {
     const [url, mode = 'accept', idle = '10'] = process.argv.slice(2);
-    const r = await measure({ url, mode, idleMs: +idle * 1000, log: s => console.error('[step]', s), shotPath: 'test-shot.jpg' });
+    const r = await measure({ url, mode, idleMs: +idle * 1000, log: s => console.error('[step]', s), shotPath: 'test-shot.jpg', blocker: process.env.BLOCKER || null });
     fs.writeFileSync('test-run.json', JSON.stringify(r, null, 1));
     const fmt = b => (b / 1048576).toFixed(1) + ' MB';
     console.log('consent', JSON.stringify(r.consent));

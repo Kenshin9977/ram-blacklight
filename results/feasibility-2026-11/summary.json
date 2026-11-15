@@ -486,7 +486,7 @@
    ],
    "topScripts": [
     {
-     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611050203/pubads_impl.js?cb=122882196",
+     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611050203/pubads_impl.js",
      "entity": "Google/Doubleclick Ads",
      "mb": 8.17
     },
@@ -511,7 +511,7 @@
      "mb": 3.25
     },
     {
-     "url": "https://fw.adsafeprotected.com/rjss/track.adform.net/3118728/97321867/adfscript/?bn=91123622;gdpr=1;gdpr_consent=CQtkg8AQtkg8AAHABBENC4FsAP_gAAAAAAqILANB7C7fbXF",
+     "url": "https://fw.adsafeprotected.com/rjss/track.adform.net/3118728/97321867/adfscript/",
      "entity": "Integral Ad Science",
      "mb": 2
     },
@@ -521,7 +521,7 @@
      "mb": 1.86
     },
     {
-     "url": "https://pixel.adsafeprotected.com/jload?anId=931673&campId=300x250&pubId=5669078769&chanId=23360204535&placementId=7475749591&pubCreative=138625932322&pubOrder=",
+     "url": "https://pixel.adsafeprotected.com/jload",
      "entity": "Integral Ad Science",
      "mb": 1.57
     },
@@ -551,7 +551,7 @@
      "mb": 1.12
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TPVF9CB",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 0.83
     },
@@ -870,7 +870,7 @@
      "mb": 1.15
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TPVF9CB",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 0.86
     },
@@ -915,7 +915,7 @@
      "mb": 0.23
     },
     {
-     "url": "https://sdk.privacy-center.org/aeca3085-d50f-45e1-8236-457f11ef78b8/loader.js?target=www.20minutes.fr",
+     "url": "https://sdk.privacy-center.org/aeca3085-d50f-45e1-8236-457f11ef78b8/loader.js",
      "entity": "Didomi",
      "mb": 0.23
     },
@@ -1160,7 +1160,7 @@
    ],
    "topScripts": [
     {
-     "url": "https://m.media-amazon.com/images/I/51KazGElUsL._RC%7C11GvHqT3FTL.js,11NBZ7Qe33L.js_.js?AUIClients/GWMWebAssets",
+     "url": "https://m.media-amazon.com/images/I/51KazGElUsL._RC%7C11GvHqT3FTL.js,11NBZ7Qe33L.js_.js",
      "entity": "1re partie",
      "mb": 7.68
     },
@@ -1175,17 +1175,17 @@
      "mb": 2.07
     },
     {
-     "url": "https://m.media-amazon.com/images/I/91s2SCCy16L.js?AUIClients/VideoJsCardsBuzz",
+     "url": "https://m.media-amazon.com/images/I/91s2SCCy16L.js",
      "entity": "1re partie",
      "mb": 1.18
     },
     {
-     "url": "https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery",
+     "url": "https://m.media-amazon.com/images/I/61xJcNKKLXL.js",
      "entity": "1re partie",
      "mb": 0.97
     },
     {
-     "url": "https://m.media-amazon.com/images/I/71x+9Cyw-pL._RC%7C81xAPm3uFgL.js,415C9-wworL.js_.js?AUIClients/IdentityBaseAssets",
+     "url": "https://m.media-amazon.com/images/I/71x+9Cyw-pL._RC%7C81xAPm3uFgL.js,415C9-wworL.js_.js",
      "entity": "1re partie",
      "mb": 0.79
     },
@@ -1195,7 +1195,7 @@
      "mb": 0.58
     },
     {
-     "url": "https://m.media-amazon.com/images/I/11J1WJh9jNL.js?AUIClients/PRIVCONAssets-stub",
+     "url": "https://m.media-amazon.com/images/I/11J1WJh9jNL.js",
      "entity": "1re partie",
      "mb": 0.45
     },
@@ -1205,32 +1205,32 @@
      "mb": 0.43
     },
     {
-     "url": "https://m.media-amazon.com/images/I/516npEhK50L.js?AUIClients/CardJsRuntimeBuzzCopyBuild",
+     "url": "https://m.media-amazon.com/images/I/516npEhK50L.js",
      "entity": "1re partie",
      "mb": 0.22
     },
     {
-     "url": "https://m.media-amazon.com/images/I/71lpEFq54XL.js?AUIClients/AmazonHomepageBuzzWebComponents",
+     "url": "https://m.media-amazon.com/images/I/71lpEFq54XL.js",
      "entity": "1re partie",
      "mb": 0.11
     },
     {
-     "url": "https://m.media-amazon.com/images/I/21Yni+jKzkL.js?AUIClients/GWMMetricsJS",
+     "url": "https://m.media-amazon.com/images/I/21Yni+jKzkL.js",
      "entity": "1re partie",
      "mb": 0.07
     },
     {
-     "url": "https://m.media-amazon.com/images/I/41wOXZRzBVL.js?AUIClients/PRIVCONAssets-centralized-prompting",
+     "url": "https://m.media-amazon.com/images/I/41wOXZRzBVL.js",
      "entity": "1re partie",
      "mb": 0.04
     },
     {
-     "url": "https://m.media-amazon.com/images/I/31KaAMqz7RL._RC%7C31gygtxzMOL.js,41ByBdRXtLL.js,41qsKO4iz7L.js_.js?xcp",
+     "url": "https://m.media-amazon.com/images/I/31KaAMqz7RL._RC%7C31gygtxzMOL.js,41ByBdRXtLL.js,41qsKO4iz7L.js_.js",
      "entity": "1re partie",
      "mb": 0.04
     },
     {
-     "url": "https://m.media-amazon.com/images/I/31LDUoDVGQL.js?xcp",
+     "url": "https://m.media-amazon.com/images/I/31LDUoDVGQL.js",
      "entity": "1re partie",
      "mb": 0.02
     }
@@ -1469,7 +1469,7 @@
      "mb": 3.22
     },
     {
-     "url": "https://m.media-amazon.com/images/I/51Z1cykbLyL._RC%7C11GvHqT3FTL.js,11NBZ7Qe33L.js_.js?AUIClients/GWMWebAssets",
+     "url": "https://m.media-amazon.com/images/I/51Z1cykbLyL._RC%7C11GvHqT3FTL.js,11NBZ7Qe33L.js_.js",
      "entity": "1re partie",
      "mb": 2.76
     },
@@ -1479,12 +1479,12 @@
      "mb": 2.06
     },
     {
-     "url": "https://m.media-amazon.com/images/I/91s2SCCy16L.js?AUIClients/VideoJsCardsBuzz",
+     "url": "https://m.media-amazon.com/images/I/91s2SCCy16L.js",
      "entity": "1re partie",
      "mb": 1.19
     },
     {
-     "url": "https://m.media-amazon.com/images/I/71x+9Cyw-pL._RC%7C81xAPm3uFgL.js,415C9-wworL.js_.js?AUIClients/IdentityBaseAssets",
+     "url": "https://m.media-amazon.com/images/I/71x+9Cyw-pL._RC%7C81xAPm3uFgL.js,415C9-wworL.js_.js",
      "entity": "1re partie",
      "mb": 1.01
     },
@@ -1494,7 +1494,7 @@
      "mb": 0.67
     },
     {
-     "url": "https://m.media-amazon.com/images/I/61xJcNKKLXL.js?AUIClients/AmazonUIjQuery",
+     "url": "https://m.media-amazon.com/images/I/61xJcNKKLXL.js",
      "entity": "1re partie",
      "mb": 0.66
     },
@@ -1504,37 +1504,37 @@
      "mb": 0.53
     },
     {
-     "url": "https://m.media-amazon.com/images/I/11J1WJh9jNL.js?AUIClients/PRIVCONAssets-stub",
+     "url": "https://m.media-amazon.com/images/I/11J1WJh9jNL.js",
      "entity": "1re partie",
      "mb": 0.37
     },
     {
-     "url": "https://m.media-amazon.com/images/I/516npEhK50L.js?AUIClients/CardJsRuntimeBuzzCopyBuild",
+     "url": "https://m.media-amazon.com/images/I/516npEhK50L.js",
      "entity": "1re partie",
      "mb": 0.19
     },
     {
-     "url": "https://m.media-amazon.com/images/I/71lpEFq54XL.js?AUIClients/AmazonHomepageBuzzWebComponents",
+     "url": "https://m.media-amazon.com/images/I/71lpEFq54XL.js",
      "entity": "1re partie",
      "mb": 0.12
     },
     {
-     "url": "https://m.media-amazon.com/images/I/31KaAMqz7RL._RC%7C31gygtxzMOL.js,41ByBdRXtLL.js,41qsKO4iz7L.js_.js?xcp",
+     "url": "https://m.media-amazon.com/images/I/31KaAMqz7RL._RC%7C31gygtxzMOL.js,41ByBdRXtLL.js,41qsKO4iz7L.js_.js",
      "entity": "1re partie",
      "mb": 0.09
     },
     {
-     "url": "https://m.media-amazon.com/images/I/21Yni+jKzkL.js?AUIClients/GWMMetricsJS",
+     "url": "https://m.media-amazon.com/images/I/21Yni+jKzkL.js",
      "entity": "1re partie",
      "mb": 0.04
     },
     {
-     "url": "https://m.media-amazon.com/images/I/41f8blgo6jL.js?AUIClients/PRIVCONAssets-centralized-prompting",
+     "url": "https://m.media-amazon.com/images/I/41f8blgo6jL.js",
      "entity": "1re partie",
      "mb": 0.03
     },
     {
-     "url": "https://m.media-amazon.com/images/I/21a1o3dUMiL.js?AUIClients/WebFlowIngressJs",
+     "url": "https://m.media-amazon.com/images/I/21a1o3dUMiL.js",
      "entity": "1re partie",
      "mb": 0.02
     }
@@ -1781,22 +1781,22 @@
    ],
    "topScripts": [
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-53ZCDGR",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.64
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=AW-1006424422&cx=c&gtm=4e6ba1h1",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 1.6
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=DC-15137949&cx=c&gtm=4e6ba1h1",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 1.39
     },
     {
-     "url": "https://www.ameli.fr/core/assets/vendor/jquery/jquery.min.js?v=4.0.0",
+     "url": "https://www.ameli.fr/core/assets/vendor/jquery/jquery.min.js",
      "entity": "1re partie",
      "mb": 0.81
     },
@@ -1811,42 +1811,42 @@
      "mb": 0.42
     },
     {
-     "url": "https://www.ameli.fr/libraries/orejime/dist/orejime.js?v=2.3.1",
+     "url": "https://www.ameli.fr/libraries/orejime/dist/orejime.js",
      "entity": "1re partie",
      "mb": 0.34
     },
     {
-     "url": "https://www.ameli.fr/sites/default/files/js/js_jcGO6LmwACehIxF4Tgy4hsWkJfzgjJsKO_XlV8Ls1uM.js?scope=footer&delta=1&language=fr&theme=ameli_v2&include=eJx9jVEOwj",
+     "url": "https://www.ameli.fr/sites/default/files/js/js_jcGO6LmwACehIxF4Tgy4hsWkJfzgjJsKO_XlV8Ls1uM.js",
      "entity": "1re partie",
      "mb": 0.09
     },
     {
-     "url": "https://www.ameli.fr/sites/default/files/js/js_F2tPDUV4q1oiljMY_XNT6iOMMGaAYBrJ8r0NuSRsdck.js?scope=footer&delta=5&language=fr&theme=ameli_v2&include=eJx9jVEOwj",
+     "url": "https://www.ameli.fr/sites/default/files/js/js_F2tPDUV4q1oiljMY_XNT6iOMMGaAYBrJ8r0NuSRsdck.js",
      "entity": "1re partie",
      "mb": 0.09
     },
     {
-     "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006424422/?random=1794499718813&cv=11&fst=1794499718813&bg=ffffff&guid=ON&async=1&en=gtag.conf",
+     "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006424422/",
      "entity": "Google/Doubleclick Ads",
      "mb": 0.02
     },
     {
-     "url": "https://www.ameli.fr/sites/default/files/js/js_mAsRCXOUPtmG9o7JrK0eLjx2EyGjmP91898TlzC3Of0.js?scope=footer&delta=7&language=fr&theme=ameli_v2&include=eJx9jVEOwj",
+     "url": "https://www.ameli.fr/sites/default/files/js/js_mAsRCXOUPtmG9o7JrK0eLjx2EyGjmP91898TlzC3Of0.js",
      "entity": "1re partie",
      "mb": 0.02
     },
     {
-     "url": "https://www.ameli.fr/modules/custom/ameli_menu/js/ameli_menu_update.min.js?v=1.0.2",
+     "url": "https://www.ameli.fr/modules/custom/ameli_menu/js/ameli_menu_update.min.js",
      "entity": "1re partie",
      "mb": 0.02
     },
     {
-     "url": "https://www.ameli.fr/sites/default/files/js/js_WhkUg4W7f50xsMI80GxZeVOoy9z0s5zf8k6ca6mfoT0.js?scope=header&delta=1&language=fr&theme=ameli_v2&include=eJx9jVEOwj",
+     "url": "https://www.ameli.fr/sites/default/files/js/js_WhkUg4W7f50xsMI80GxZeVOoy9z0s5zf8k6ca6mfoT0.js",
      "entity": "1re partie",
      "mb": 0.02
     },
     {
-     "url": "https://www.ameli.fr/sites/default/files/js/js_3oB5zi_4FMMz52Iriy4F7Tg8rq5JC2vtvHse-Z0gFlY.js?scope=footer&delta=3&language=fr&theme=ameli_v2&include=eJx9jVEOwj",
+     "url": "https://www.ameli.fr/sites/default/files/js/js_3oB5zi_4FMMz52Iriy4F7Tg8rq5JC2vtvHse-Z0gFlY.js",
      "entity": "1re partie",
      "mb": 0.02
     }
@@ -2093,12 +2093,12 @@
    ],
    "topScripts": [
     {
-     "url": "https://www.ameli.fr/core/assets/vendor/jquery/jquery.min.js?v=4.0.0",
+     "url": "https://www.ameli.fr/core/assets/vendor/jquery/jquery.min.js",
      "entity": "1re partie",
      "mb": 1.21
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-53ZCDGR",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.11
     },
@@ -2113,27 +2113,27 @@
      "mb": 0.41
     },
     {
-     "url": "https://www.ameli.fr/sites/default/files/js/js_jcGO6LmwACehIxF4Tgy4hsWkJfzgjJsKO_XlV8Ls1uM.js?scope=footer&delta=1&language=fr&theme=ameli_v2&include=eJx9jVEOwj",
+     "url": "https://www.ameli.fr/sites/default/files/js/js_jcGO6LmwACehIxF4Tgy4hsWkJfzgjJsKO_XlV8Ls1uM.js",
      "entity": "1re partie",
      "mb": 0.29
     },
     {
-     "url": "https://www.ameli.fr/libraries/orejime/dist/orejime.js?v=2.3.1",
+     "url": "https://www.ameli.fr/libraries/orejime/dist/orejime.js",
      "entity": "1re partie",
      "mb": 0.29
     },
     {
-     "url": "https://www.ameli.fr/sites/default/files/js/js_3oB5zi_4FMMz52Iriy4F7Tg8rq5JC2vtvHse-Z0gFlY.js?scope=footer&delta=3&language=fr&theme=ameli_v2&include=eJx9jVEOwj",
+     "url": "https://www.ameli.fr/sites/default/files/js/js_3oB5zi_4FMMz52Iriy4F7Tg8rq5JC2vtvHse-Z0gFlY.js",
      "entity": "1re partie",
      "mb": 0.07
     },
     {
-     "url": "https://www.ameli.fr/sites/default/files/js/js_F2tPDUV4q1oiljMY_XNT6iOMMGaAYBrJ8r0NuSRsdck.js?scope=footer&delta=5&language=fr&theme=ameli_v2&include=eJx9jVEOwj",
+     "url": "https://www.ameli.fr/sites/default/files/js/js_F2tPDUV4q1oiljMY_XNT6iOMMGaAYBrJ8r0NuSRsdck.js",
      "entity": "1re partie",
      "mb": 0.07
     },
     {
-     "url": "https://www.ameli.fr/sites/default/files/js/js_mAsRCXOUPtmG9o7JrK0eLjx2EyGjmP91898TlzC3Of0.js?scope=footer&delta=7&language=fr&theme=ameli_v2&include=eJx9jVEOwj",
+     "url": "https://www.ameli.fr/sites/default/files/js/js_mAsRCXOUPtmG9o7JrK0eLjx2EyGjmP91898TlzC3Of0.js",
      "entity": "1re partie",
      "mb": 0.07
     },
@@ -2143,7 +2143,7 @@
      "mb": 0.07
     },
     {
-     "url": "https://www.ameli.fr/sites/default/files/js/js_WhkUg4W7f50xsMI80GxZeVOoy9z0s5zf8k6ca6mfoT0.js?scope=header&delta=1&language=fr&theme=ameli_v2&include=eJx9jVEOwj",
+     "url": "https://www.ameli.fr/sites/default/files/js/js_WhkUg4W7f50xsMI80GxZeVOoy9z0s5zf8k6ca6mfoT0.js",
      "entity": "1re partie",
      "mb": 0.04
     },
@@ -2153,7 +2153,7 @@
      "mb": 0.02
     },
     {
-     "url": "https://www.ameli.fr/modules/custom/ameli_menu/js/ameli_menu_update.min.js?v=1.0.2",
+     "url": "https://www.ameli.fr/modules/custom/ameli_menu/js/ameli_menu_update.min.js",
      "entity": "1re partie",
      "mb": 0.02
     }
@@ -2531,12 +2531,12 @@
      "mb": 2.5
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TT2KL3D&gtm_auth=tsgUTfJXVlV5LrQHghe4Mw&gtm_preview=env-2&gtm_cookies_win=x",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.59
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/destination?id=AW-11360339372&cx=c&gtm=4e6ba1",
+     "url": "https://www.googletagmanager.com/gtag/destination",
      "entity": "Google Tag Manager",
      "mb": 1.38
     },
@@ -2546,7 +2546,7 @@
      "mb": 1.2
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-ML7BSZJS&l=dataLayer2",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.17
     },
@@ -2561,7 +2561,7 @@
      "mb": 1.08
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/destination?id=AW-995142496&cx=c&gtm=4e6ba1",
+     "url": "https://www.googletagmanager.com/gtag/destination",
      "entity": "Google Tag Manager",
      "mb": 1.02
     },
@@ -2571,12 +2571,12 @@
      "mb": 1.02
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/destination?id=DC-15217296&cx=c&gtm=4e6ba1",
+     "url": "https://www.googletagmanager.com/gtag/destination",
      "entity": "Google Tag Manager",
      "mb": 0.96
     },
     {
-     "url": "https://connect.facebook.net/signals/config/747149552053540?v=2.9.439&r=stable&domain=www.auchan.fr&hme=1f127d11ce7bba675ee077e129c6ec7e07038113ad3e920301e60f2f",
+     "url": "https://connect.facebook.net/signals/config/747149552053540",
      "entity": "Facebook",
      "mb": 0.89
     },
@@ -2851,12 +2851,12 @@
    ],
    "topScripts": [
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TT2KL3D&gtm_auth=tsgUTfJXVlV5LrQHghe4Mw&gtm_preview=env-2&gtm_cookies_win=x",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.35
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-ML7BSZJS&l=dataLayer2",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.27
     },
@@ -3136,7 +3136,7 @@
      "mb": 1.14
     },
     {
-     "url": "https://www.caf.fr/sites/default/files/js/js_dkvEuj8CwTF7wrpN_XPJVmVRZYqUl5H8hJxCLFVDanc.js?scope=footer&delta=0&language=fr&theme=caf_bootstrap5&include=eJx9kF",
+     "url": "https://www.caf.fr/sites/default/files/js/js_dkvEuj8CwTF7wrpN_XPJVmVRZYqUl5H8hJxCLFVDanc.js",
      "entity": "1re partie",
      "mb": 0.75
     },
@@ -3151,12 +3151,12 @@
      "mb": 0.38
     },
     {
-     "url": "https://www.caf.fr/sites/default/files/js/js_Gu5iiS7SPWI4iHa58YmL9p0Dli6GHT7hGEOiddxjPks.js?scope=footer&delta=1&language=fr&theme=caf_bootstrap5&include=eJx9kF",
+     "url": "https://www.caf.fr/sites/default/files/js/js_Gu5iiS7SPWI4iHa58YmL9p0Dli6GHT7hGEOiddxjPks.js",
      "entity": "1re partie",
      "mb": 0.34
     },
     {
-     "url": "https://www.caf.fr/sites/default/files/js/js_it4Ak6g5v0_HC1LEnk5WAuixDBe1U6vu3Il83T1YcmY.js?scope=footer&delta=4&language=fr&theme=caf_bootstrap5&include=eJx9kF",
+     "url": "https://www.caf.fr/sites/default/files/js/js_it4Ak6g5v0_HC1LEnk5WAuixDBe1U6vu3Il83T1YcmY.js",
      "entity": "1re partie",
      "mb": 0.06
     },
@@ -3381,7 +3381,7 @@
      "mb": 1.01
     },
     {
-     "url": "https://www.caf.fr/sites/default/files/js/js_dkvEuj8CwTF7wrpN_XPJVmVRZYqUl5H8hJxCLFVDanc.js?scope=footer&delta=0&language=fr&theme=caf_bootstrap5&include=eJx9kF",
+     "url": "https://www.caf.fr/sites/default/files/js/js_dkvEuj8CwTF7wrpN_XPJVmVRZYqUl5H8hJxCLFVDanc.js",
      "entity": "1re partie",
      "mb": 0.68
     },
@@ -3391,7 +3391,7 @@
      "mb": 0.58
     },
     {
-     "url": "https://www.caf.fr/sites/default/files/js/js_Gu5iiS7SPWI4iHa58YmL9p0Dli6GHT7hGEOiddxjPks.js?scope=footer&delta=1&language=fr&theme=caf_bootstrap5&include=eJx9kF",
+     "url": "https://www.caf.fr/sites/default/files/js/js_Gu5iiS7SPWI4iHa58YmL9p0Dli6GHT7hGEOiddxjPks.js",
      "entity": "1re partie",
      "mb": 0.52
     },
@@ -3406,7 +3406,7 @@
      "mb": 0.02
     },
     {
-     "url": "https://www.caf.fr/sites/default/files/js/js_it4Ak6g5v0_HC1LEnk5WAuixDBe1U6vu3Il83T1YcmY.js?scope=footer&delta=4&language=fr&theme=caf_bootstrap5&include=eJx9kF",
+     "url": "https://www.caf.fr/sites/default/files/js/js_it4Ak6g5v0_HC1LEnk5WAuixDBe1U6vu3Il83T1YcmY.js",
      "entity": "1re partie",
      "mb": 0.02
     }
@@ -3813,7 +3813,7 @@
    ],
    "topScripts": [
     {
-     "url": "https://www.cdiscount.com/Js/external/tagcommander/external/content_square.min.js?md5=cs20240126",
+     "url": "https://www.cdiscount.com/Js/external/tagcommander/external/content_square.min.js",
      "entity": "1re partie",
      "mb": 3.12
     },
@@ -3838,12 +3838,12 @@
      "mb": 2.11
     },
     {
-     "url": "https://115a4b14229tz55.lyfnh.io/tag/xcare.js?clientId=T9lotqYiXv&tenantId=wOWnAutKvL",
+     "url": "https://115a4b14229tz55.lyfnh.io/tag/xcare.js",
      "entity": "lyfnh.io",
      "mb": 2.08
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=AW-302521087&cx=c&gtm=4e6ba1",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 1.91
     },
@@ -3853,7 +3853,7 @@
      "mb": 1.53
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=AW-1049282852",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 1.41
     },
@@ -3863,7 +3863,7 @@
      "mb": 1.3
     },
     {
-     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611050203/pubads_impl.js?cb=122882196",
+     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611050203/pubads_impl.js",
      "entity": "Google/Doubleclick Ads",
      "mb": 1.15
     },
@@ -4162,7 +4162,7 @@
      "mb": 3.01
     },
     {
-     "url": "https://115a4b14229tz55.lyfnh.io/tag/xcare.js?clientId=T9lotqYiXv&tenantId=wOWnAutKvL",
+     "url": "https://115a4b14229tz55.lyfnh.io/tag/xcare.js",
      "entity": "lyfnh.io",
      "mb": 2.22
     },
@@ -4207,7 +4207,7 @@
      "mb": 0.71
     },
     {
-     "url": "https://www.cdiscount.com/Js/external/tagcommander/tc_nav_sms.js?md5=690da534ec69cdfd974d5213bf79d3c3",
+     "url": "https://www.cdiscount.com/Js/external/tagcommander/tc_nav_sms.js",
      "entity": "1re partie",
      "mb": 0.61
     },
@@ -4734,12 +4734,12 @@
      "mb": 1.8
     },
     {
-     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611100101/pubads_impl.js?cb=122882259",
+     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611100101/pubads_impl.js",
      "entity": "Google/Doubleclick Ads",
      "mb": 1.65
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=DC-8778406",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 1.61
     },
@@ -4749,12 +4749,12 @@
      "mb": 1.27
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=G-SZYF383KMK",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 1.24
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=AW-757132434",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 1.18
     },
@@ -4764,7 +4764,7 @@
      "mb": 1.03
     },
     {
-     "url": "https://connect.facebook.net/signals/config/2181613592119408?v=2.9.439&r=stable&domain=www.conforama.fr&hme=1f127d11ce7bba675ee077e129c6ec7e07038113ad3e920301e6",
+     "url": "https://connect.facebook.net/signals/config/2181613592119408",
      "entity": "Facebook",
      "mb": 1.03
     },
@@ -5430,7 +5430,7 @@
      "mb": 2.15
     },
     {
-     "url": "https://guidances-applicatives.francetravail.net/know/api/engine?pkgId=170&version=-1415477003",
+     "url": "https://guidances-applicatives.francetravail.net/know/api/engine",
      "entity": "francetravail.net",
      "mb": 1.08
     },
@@ -5747,7 +5747,7 @@
      "mb": 1.62
     },
     {
-     "url": "https://guidances-applicatives.francetravail.net/know/api/engine?pkgId=170&version=-1415477003",
+     "url": "https://guidances-applicatives.francetravail.net/know/api/engine",
      "entity": "francetravail.net",
      "mb": 1.2
     },
@@ -5802,7 +5802,7 @@
      "mb": 0.02
     },
     {
-     "url": "https://guidances-applicatives.francetravail.net/know/servlet/publicationList?applicationId=po014",
+     "url": "https://guidances-applicatives.francetravail.net/know/servlet/publicationList",
      "entity": "francetravail.net",
      "mb": 0.02
     }
@@ -6190,12 +6190,12 @@
      "mb": 1.65
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=AW-1021649860",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 1.2
     },
     {
-     "url": "https://connect.facebook.net/signals/config/882125681855230?v=2.9.439&r=stable&domain=www.franceinfo.fr&hme=1f127d11ce7bba675ee077e129c6ec7e07038113ad3e920301e6",
+     "url": "https://connect.facebook.net/signals/config/882125681855230",
      "entity": "Facebook",
      "mb": 1.02
     },
@@ -6577,7 +6577,7 @@
      "mb": 0.25
     },
     {
-     "url": "https://sdk.privacy-center.org/fedf8125-d890-4ef1-a017-6700106a71f1/loader.js?target_type=notice&target=XkiZjqLZ",
+     "url": "https://sdk.privacy-center.org/fedf8125-d890-4ef1-a017-6700106a71f1/loader.js",
      "entity": "Didomi",
      "mb": 0.17
     },
@@ -6954,7 +6954,7 @@
      "mb": 4.24
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=G-S4EX53B760&l=gaDataLayer",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 3.01
     },
@@ -6999,7 +6999,7 @@
      "mb": 1.57
     },
     {
-     "url": "https://www.ikea.com/fr/fr/gtaggtw/aw-1068508857/?l=gtwDataLayer",
+     "url": "https://www.ikea.com/fr/fr/gtaggtw/aw-1068508857/",
      "entity": "1re partie",
      "mb": 1.34
     },
@@ -7019,7 +7019,7 @@
      "mb": 1.17
     },
     {
-     "url": "https://www.ikea.com/fr/fr/gtaggtw/dc-15866489/?l=gtwDataLayer",
+     "url": "https://www.ikea.com/fr/fr/gtaggtw/dc-15866489/",
      "entity": "1re partie",
      "mb": 1.02
     }
@@ -7504,27 +7504,27 @@
      "mb": 0.69
     },
     {
-     "url": "https://www.impots.gouv.fr/sites/default/files/js/js_DCrEP3cE3rllQ76FCbkUKrJAn1y8z0uJ4n0du-xDDNw.js?scope=header&delta=0&language=fr&theme=pus_dsfr&include=eJw1",
+     "url": "https://www.impots.gouv.fr/sites/default/files/js/js_DCrEP3cE3rllQ76FCbkUKrJAn1y8z0uJ4n0du-xDDNw.js",
      "entity": "1re partie",
      "mb": 0.66
     },
     {
-     "url": "https://www.impots.gouv.fr/libraries/dsfr/dist/dsfr.module.js?to82w0",
+     "url": "https://www.impots.gouv.fr/libraries/dsfr/dist/dsfr.module.js",
      "entity": "1re partie",
      "mb": 0.34
     },
     {
-     "url": "https://bmly.impots.gouv.fr/xcX449.js?2",
+     "url": "https://bmly.impots.gouv.fr/xcX449.js",
      "entity": "1re partie",
      "mb": 0.3
     },
     {
-     "url": "https://www.impots.gouv.fr/sites/default/files/js/js_q_SAJRbjUNAhs90gq8UNdVgPVQyXkrk7d24siN7d9oA.js?scope=footer&delta=0&language=fr&theme=pus_dsfr&include=eJw1",
+     "url": "https://www.impots.gouv.fr/sites/default/files/js/js_q_SAJRbjUNAhs90gq8UNdVgPVQyXkrk7d24siN7d9oA.js",
      "entity": "1re partie",
      "mb": 0.11
     },
     {
-     "url": "https://www.impots.gouv.fr/sites/default/files/js/js_d0EAPVmfMlLKtcJO8mS0H7oiqPXLow2bv-ppIrXyi40.js?scope=footer&delta=2&language=fr&theme=pus_dsfr&include=eJw1",
+     "url": "https://www.impots.gouv.fr/sites/default/files/js/js_d0EAPVmfMlLKtcJO8mS0H7oiqPXLow2bv-ppIrXyi40.js",
      "entity": "1re partie",
      "mb": 0.06
     }
@@ -7734,27 +7734,27 @@
      "mb": 0.66
     },
     {
-     "url": "https://www.impots.gouv.fr/sites/default/files/js/js_DCrEP3cE3rllQ76FCbkUKrJAn1y8z0uJ4n0du-xDDNw.js?scope=header&delta=0&language=fr&theme=pus_dsfr&include=eJw1",
+     "url": "https://www.impots.gouv.fr/sites/default/files/js/js_DCrEP3cE3rllQ76FCbkUKrJAn1y8z0uJ4n0du-xDDNw.js",
      "entity": "1re partie",
      "mb": 0.62
     },
     {
-     "url": "https://www.impots.gouv.fr/libraries/dsfr/dist/dsfr.module.js?to82w0",
+     "url": "https://www.impots.gouv.fr/libraries/dsfr/dist/dsfr.module.js",
      "entity": "1re partie",
      "mb": 0.38
     },
     {
-     "url": "https://bmly.impots.gouv.fr/xcX449.js?2",
+     "url": "https://bmly.impots.gouv.fr/xcX449.js",
      "entity": "1re partie",
      "mb": 0.26
     },
     {
-     "url": "https://www.impots.gouv.fr/sites/default/files/js/js_q_SAJRbjUNAhs90gq8UNdVgPVQyXkrk7d24siN7d9oA.js?scope=footer&delta=0&language=fr&theme=pus_dsfr&include=eJw1",
+     "url": "https://www.impots.gouv.fr/sites/default/files/js/js_q_SAJRbjUNAhs90gq8UNdVgPVQyXkrk7d24siN7d9oA.js",
      "entity": "1re partie",
      "mb": 0.2
     },
     {
-     "url": "https://www.impots.gouv.fr/sites/default/files/js/js_d0EAPVmfMlLKtcJO8mS0H7oiqPXLow2bv-ppIrXyi40.js?scope=footer&delta=2&language=fr&theme=pus_dsfr&include=eJw1",
+     "url": "https://www.impots.gouv.fr/sites/default/files/js/js_d0EAPVmfMlLKtcJO8mS0H7oiqPXLow2bv-ppIrXyi40.js",
      "entity": "1re partie",
      "mb": 0.02
     },
@@ -8231,7 +8231,7 @@
    ],
    "topScripts": [
     {
-     "url": "https://pagead2.googlesyndication.com/pagead/managed/js/gpt/m202611100101/pubads_impl.js?cb=122882220",
+     "url": "https://pagead2.googlesyndication.com/pagead/managed/js/gpt/m202611100101/pubads_impl.js",
      "entity": "Google/Doubleclick Ads",
      "mb": 8.75
     },
@@ -8256,7 +8256,7 @@
      "mb": 2.11
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KVRC3GN",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.57
     },
@@ -8271,37 +8271,37 @@
      "mb": 1.43
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/destination?id=G-NLLLBBNGFK&cx=c&gtm=4e6ba1",
+     "url": "https://www.googletagmanager.com/gtag/destination",
      "entity": "Google Tag Manager",
      "mb": 1.42
     },
     {
-     "url": "https://pixel.adsafeprotected.com/jload?anId=925755&campId=300x600&pubId=4535117735&chanId=23206321356&placementId=5714147190&pubCreative=138352367106&pubOrder=",
+     "url": "https://pixel.adsafeprotected.com/jload",
      "entity": "Integral Ad Science",
      "mb": 1.38
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=AW-1030196747&cx=c&gtm=4e6ba1",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 1.33
     },
     {
-     "url": "https://sdk.mrf.io/statics/marfeel-sdk.js?id=2256",
+     "url": "https://sdk.mrf.io/statics/marfeel-sdk.js",
      "entity": "mrf.io",
      "mb": 1.32
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KSBBDKP",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.27
     },
     {
-     "url": "https://fw.adsafeprotected.com/rjss/st/2753633/97212754/skeleton.js?bundleId=${BUNDLE_ID}&ias_dspID=3&ias_campId=1025741056&ias_pubId=pub-7418191728211626&ias_c",
+     "url": "https://fw.adsafeprotected.com/rjss/st/2753633/97212754/skeleton.js",
      "entity": "Integral Ad Science",
      "mb": 1.25
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TC6DVH",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.21
     }
@@ -8672,12 +8672,12 @@
      "mb": 2.57
     },
     {
-     "url": "https://sdk.mrf.io/statics/marfeel-sdk.js?id=2256",
+     "url": "https://sdk.mrf.io/statics/marfeel-sdk.js",
      "entity": "mrf.io",
      "mb": 2.16
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/destination?id=G-NLLLBBNGFK&cx=c&gtm=4e6ba1",
+     "url": "https://www.googletagmanager.com/gtag/destination",
      "entity": "Google Tag Manager",
      "mb": 1.95
     },
@@ -8687,27 +8687,27 @@
      "mb": 1.66
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KSBBDKP",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.52
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KVRC3GN",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.3
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=AW-1030196747&cx=c&gtm=4e6ba1",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 1.29
     },
     {
-     "url": "https://pagead2.googlesyndication.com/pagead/managed/js/gpt/m202611050203/pubads_impl.js?cb=122882196",
+     "url": "https://pagead2.googlesyndication.com/pagead/managed/js/gpt/m202611050203/pubads_impl.js",
      "entity": "Google/Doubleclick Ads",
      "mb": 1.22
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TC6DVH",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.15
     },
@@ -9214,7 +9214,7 @@
      "mb": 3.9
     },
     {
-     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611100101/pubads_impl.js?cb=122882259",
+     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611100101/pubads_impl.js",
      "entity": "Google/Doubleclick Ads",
      "mb": 2.69
     },
@@ -9234,22 +9234,22 @@
      "mb": 2.49
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=AW-1008448514",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 1.83
     },
     {
-     "url": "https://fw.adsafeprotected.com/rjss/st/2753579/92939918/skeleton.js?bundleId=${BUNDLE_ID}&ias_dspID=3&ias_campId=1025670322&ias_pubId=197794&ias_chanId=13&ias_p",
+     "url": "https://fw.adsafeprotected.com/rjss/st/2753579/92939918/skeleton.js",
      "entity": "Integral Ad Science",
      "mb": 1.66
     },
     {
-     "url": "https://sdk.mrf.io/statics/marfeel-sdk.js?id=3107",
+     "url": "https://sdk.mrf.io/statics/marfeel-sdk.js",
      "entity": "mrf.io",
      "mb": 1.43
     },
     {
-     "url": "https://widgets.outbrain.com/outbrain.js?i=fabb77af",
+     "url": "https://widgets.outbrain.com/outbrain.js",
      "entity": "Outbrain",
      "mb": 1.28
     },
@@ -9259,7 +9259,7 @@
      "mb": 1.06
     },
     {
-     "url": "https://connect.facebook.net/signals/config/122349388153507?v=2.9.439&r=stable&domain=www.lemonde.fr&hme=1f127d11ce7bba675ee077e129c6ec7e07038113ad3e920301e60f2",
+     "url": "https://connect.facebook.net/signals/config/122349388153507",
      "entity": "Facebook",
      "mb": 1.03
     },
@@ -10037,7 +10037,7 @@
    ],
    "topScripts": [
     {
-     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611090101/pubads_impl.js?cb=122882170",
+     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611090101/pubads_impl.js",
      "entity": "Google/Doubleclick Ads",
      "mb": 8.94
     },
@@ -10067,17 +10067,17 @@
      "mb": 4.71
     },
     {
-     "url": "https://www.leparisien.fr/FUk8qD33OMxhYOAq7b2A/DfuwV2iE/Mn1tPnsWAg/GQdDB20/BeAwJAQ?v=e6eb1cf0-7440-df51-58a4-575fd4e117c9",
+     "url": "https://www.leparisien.fr/FUk8qD33OMxhYOAq7b2A/DfuwV2iE/Mn1tPnsWAg/GQdDB20/BeAwJAQ",
      "entity": "1re partie",
      "mb": 3.89
     },
     {
-     "url": "https://www.leparisien.fr/pf/dist/components/combinations/default.js?d=1045&mxId=00000000",
+     "url": "https://www.leparisien.fr/pf/dist/components/combinations/default.js",
      "entity": "1re partie",
      "mb": 3.88
     },
     {
-     "url": "https://www.leparisien.fr/pf/dist/engine/react.js?d=1045&mxId=00000000",
+     "url": "https://www.leparisien.fr/pf/dist/engine/react.js",
      "entity": "1re partie",
      "mb": 3.82
     },
@@ -10102,12 +10102,12 @@
      "mb": 2.21
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W5G6X48X&gtm_cookies_win=x",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.99
     },
     {
-     "url": "https://pixel.adsafeprotected.com/jload?anId=923944&campId=3x1&pubId=5457669820&chanId=23202826338&placementId=6524444835&pubCreative=138464182936&pubOrder=3368",
+     "url": "https://pixel.adsafeprotected.com/jload",
      "entity": "Integral Ad Science",
      "mb": 1.5
     }
@@ -10400,17 +10400,17 @@
      "mb": 4.38
     },
     {
-     "url": "https://www.leparisien.fr/FUk8qD33OMxhYOAq7b2A/DfuwV2iE/Mn1tPnsWAg/GQdDB20/BeAwJAQ?v=45f23e3f-4432-4e93-00c2-577356e617c9",
+     "url": "https://www.leparisien.fr/FUk8qD33OMxhYOAq7b2A/DfuwV2iE/Mn1tPnsWAg/GQdDB20/BeAwJAQ",
      "entity": "1re partie",
      "mb": 3.99
     },
     {
-     "url": "https://www.leparisien.fr/pf/dist/components/combinations/default.js?d=1045&mxId=00000000",
+     "url": "https://www.leparisien.fr/pf/dist/components/combinations/default.js",
      "entity": "1re partie",
      "mb": 3.95
     },
     {
-     "url": "https://www.leparisien.fr/pf/dist/engine/react.js?d=1045&mxId=00000000",
+     "url": "https://www.leparisien.fr/pf/dist/engine/react.js",
      "entity": "1re partie",
      "mb": 3.42
     },
@@ -10420,7 +10420,7 @@
      "mb": 1.78
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-W5G6X48X&gtm_cookies_win=x",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.73
     },
@@ -10430,7 +10430,7 @@
      "mb": 0.76
     },
     {
-     "url": "https://www.leparisien.fr/pf/resources/dist/base.js?d=1045",
+     "url": "https://www.leparisien.fr/pf/resources/dist/base.js",
      "entity": "1re partie",
      "mb": 0.63
     },
@@ -10445,12 +10445,12 @@
      "mb": 0.43
     },
     {
-     "url": "https://sdk.privacy-center.org/5e96b136-cbb6-44ff-b6c4-bbd30250289f/loader.js?target_type=notice&target=EreaPpDc",
+     "url": "https://sdk.privacy-center.org/5e96b136-cbb6-44ff-b6c4-bbd30250289f/loader.js",
      "entity": "Didomi",
      "mb": 0.2
     },
     {
-     "url": "https://cdn.speedcurve.com/js/lux.js?id=4261335160",
+     "url": "https://cdn.speedcurve.com/js/lux.js",
      "entity": "SpeedCurve RUM",
      "mb": 0.16
     },
@@ -10859,7 +10859,7 @@
      "mb": 2.72
     },
     {
-     "url": "https://www.lidl.fr/t/m/?l=dataLayerNext",
+     "url": "https://www.lidl.fr/t/m/",
      "entity": "1re partie",
      "mb": 2.71
     },
@@ -11714,22 +11714,22 @@
      "mb": 1.73
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MX2D67&l=unify_dataSlayer",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.69
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=AW-820786715&l=unify_dataSlayer&cx=c&gtm=4e6ba1",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 1.65
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/js?id=G-1QKNB5N4F4&l=unify_dataSlayer&cx=c&gtm=4e6ba1",
+     "url": "https://www.googletagmanager.com/gtag/js",
      "entity": "Google Tag Manager",
      "mb": 1.63
     },
     {
-     "url": "https://www.googletagmanager.com/gtag/destination?id=AW-16756493384&l=unify_dataSlayer&cx=c&gtm=4e6ba1",
+     "url": "https://www.googletagmanager.com/gtag/destination",
      "entity": "Google Tag Manager",
      "mb": 1.53
     },
@@ -11744,12 +11744,12 @@
      "mb": 1.23
     },
     {
-     "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js?actirise=1",
+     "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
      "entity": "Google/Doubleclick Ads",
      "mb": 1.13
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-N8FW6BPP&l=unify_dataSlayer",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.07
     },
@@ -12140,37 +12140,37 @@
      "mb": 2.53
     },
     {
-     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611090101/pubads_impl.js?cb=122882219",
+     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611090101/pubads_impl.js",
      "entity": "Google/Doubleclick Ads",
      "mb": 1.46
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MX2D67&l=unify_dataSlayer",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 1.3
     },
     {
-     "url": "https://sdk.mrf.io/statics/marfeel-sdk.js?id=1026",
+     "url": "https://sdk.mrf.io/statics/marfeel-sdk.js",
      "entity": "mrf.io",
      "mb": 1.08
     },
     {
-     "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js?actirise=1",
+     "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
      "entity": "Google/Doubleclick Ads",
      "mb": 0.99
     },
     {
-     "url": "https://static.afcdn.com/relmrtn/concat.js?PCM-fZFBS8QwEIV_jceWpog3D1oUFxRElr1KNhnrbJOZkIwu--_NFldoTXtIMnwv816Y7IAsx6v2UX995L13vNfu3bD3TPUh3e6KuoU0CIfJhXTEAPGQ_",
+     "url": "https://static.afcdn.com/relmrtn/concat.js",
      "entity": "1re partie",
      "mb": 0.98
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-N8FW6BPP&l=unify_dataSlayer",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 0.92
     },
     {
-     "url": "https://static.afcdn.com/relmrtn/concat.js?PCM-lVLLbsMgEPyaHovArdJTD1GkXPpQ1Ei5WmDWlAazFgtJ8_cldZsqkpPiy2qYmR1WsBvwGsNNteyToqQyEGzG-Im4JeuNg4iefdDj5tetcE_wB1hnz",
+     "url": "https://static.afcdn.com/relmrtn/concat.js",
      "entity": "1re partie",
      "mb": 0.78
     },
@@ -12190,7 +12190,7 @@
      "mb": 0.51
     },
     {
-     "url": "https://static.afcdn.com/relmrtn/concat.js?PCM-hVJNa8MwDP01OzYkYfS2wwjssh5GC70WJ1Zct7LlWTEl_fVTGO2W4tCDzZPek6wP78Frii_1R0gtp1ZAVayL8u5YsfUGYSBfnPhtf1O3dGH4A4Wzc",
+     "url": "https://static.afcdn.com/relmrtn/concat.js",
      "entity": "1re partie",
      "mb": 0.35
     }
@@ -12670,7 +12670,7 @@
      "mb": 9.61
     },
     {
-     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611110201/pubads_impl.js?cb=122882260",
+     "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611110201/pubads_impl.js",
      "entity": "Google/Doubleclick Ads",
      "mb": 6.9
     },
@@ -12695,7 +12695,7 @@
      "mb": 2.86
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M77QC677",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 2.01
     },
@@ -12705,17 +12705,17 @@
      "mb": 1.68
     },
     {
-     "url": "https://pixel.adsafeprotected.com/jload?anId=931589&campId=300x600&pubId=192990414&chanId=52591854&placementId=7473768394&pubCreative=138624406893&pubOrder=4098",
+     "url": "https://pixel.adsafeprotected.com/jload",
      "entity": "Integral Ad Science",
      "mb": 1.37
     },
     {
-     "url": "https://pixel.adsafeprotected.com/jload?anId=931589&campId=300x600&pubId=192990414&chanId=52592094&placementId=7469020759&pubCreative=138625102423&pubOrder=4098",
+     "url": "https://pixel.adsafeprotected.com/jload",
      "entity": "Integral Ad Science",
      "mb": 1.37
     },
     {
-     "url": "https://pixel.adsafeprotected.com/jload?anId=931589&campId=300x600&pubId=192990414&chanId=52591974&placementId=7473768394&pubCreative=138624406626&pubOrder=4098",
+     "url": "https://pixel.adsafeprotected.com/jload",
      "entity": "Integral Ad Science",
      "mb": 1.33
     },
@@ -12725,7 +12725,7 @@
      "mb": 1.24
     },
     {
-     "url": "https://pixel.adsafeprotected.com/jload?anId=931589&campId=3x1&pubId=5467034130&chanId=50029614&placementId=6581796943&pubCreative=138465291147&pubOrder=3421100",
+     "url": "https://pixel.adsafeprotected.com/jload",
      "entity": "Integral Ad Science",
      "mb": 1.19
     },
@@ -13026,7 +13026,7 @@
      "mb": 4.55
     },
     {
-     "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M77QC677",
+     "url": "https://www.googletagmanager.com/gtm.js",
      "entity": "Google Tag Manager",
      "mb": 2.05
     },
@@ -13046,7 +13046,7 @@
      "mb": 0.57
     },
     {
-     "url": "https://www.ultimedia.com/widgets/js/responsivev3.js?v=2.0.2.7537",
+     "url": "https://www.ultimedia.com/widgets/js/responsivev3.js",
      "entity": "ultimedia.com",
      "mb": 0.52
     },
@@ -13066,12 +13066,12 @@
      "mb": 0.37
     },
     {
-     "url": "https://sdk.privacy-center.org/539b86a7-a602-4da6-a9a5-560546b3bc2b/loader.js?target_type=notice&target=ERLKtgeL",
+     "url": "https://sdk.privacy-center.org/539b86a7-a602-4da6-a9a5-560546b3bc2b/loader.js",
      "entity": "Didomi",
      "mb": 0.27
     },
     {
-     "url": "https://www.ultimedia.com/js/common/visible_player.js?v=1794441600000",
+     "url": "https://www.ultimedia.com/js/common/visible_player.js",
      "entity": "ultimedia.com",
      "mb": 0.13
     },
@@ -13359,7 +13359,7 @@
      "mb": 0.38
     },
     {
-     "url": "https://www.service-public.gouv.fr/resources/v-9ef2db64e6/assets/js/readspeaker/webReader.js?pids=wr&notools=1",
+     "url": "https://www.service-public.gouv.fr/resources/v-9ef2db64e6/assets/js/readspeaker/webReader.js",
      "entity": "1re partie",
      "mb": 0.26
     },
@@ -13369,7 +13369,7 @@
      "mb": 0.14
     },
     {
-     "url": "https://jcmm.service-public.fr/col790a/-/1433705507?evariant=2-4&sd=24&site_environment=dev&page_name=accueil&ss=1366x768&page_pagination=0&user_language=fr&pgl",
+     "url": "https://jcmm.service-public.fr/col790a/-/1433705507",
      "entity": "service-public.fr",
      "mb": 0.04
     },
@@ -13657,7 +13657,7 @@
      "mb": 0.37
     },
     {
-     "url": "https://www.service-public.gouv.fr/resources/v-9ef2db64e6/assets/js/readspeaker/webReader.js?pids=wr&notools=1",
+     "url": "https://www.service-public.gouv.fr/resources/v-9ef2db64e6/assets/js/readspeaker/webReader.js",
      "entity": "1re partie",
      "mb": 0.23
     },
@@ -13667,7 +13667,7 @@
      "mb": 0.18
     },
     {
-     "url": "https://jcmm.service-public.fr/xcX449.js?2",
+     "url": "https://jcmm.service-public.fr/xcX449.js",
      "entity": "service-public.fr",
      "mb": 0.07
     },
@@ -13916,7 +13916,7 @@
      "mb": 1.24
     },
     {
-     "url": "https://www.urssaf.fr/TSPD/08864aa589ab20001dd6aa20ea95288fb8279915aa6bea22d14612856040263847c141e683f3f11b?type=8",
+     "url": "https://www.urssaf.fr/TSPD/08864aa589ab20001dd6aa20ea95288fb8279915aa6bea22d14612856040263847c141e683f3f11b",
      "entity": "1re partie",
      "mb": 1.2
     },
@@ -13936,7 +13936,7 @@
      "mb": 0.25
     },
     {
-     "url": "https://www.urssaf.fr/TSPD/?type=18",
+     "url": "https://www.urssaf.fr/TSPD/",
      "entity": "1re partie",
      "mb": 0.12
     },
@@ -13961,7 +13961,7 @@
      "mb": 0.04
     },
     {
-     "url": "https://www.urssaf.fr/TSPD/?type=21",
+     "url": "https://www.urssaf.fr/TSPD/",
      "entity": "1re partie",
      "mb": 0.02
     },
@@ -14688,7 +14688,7 @@
      "mb": 1.7
     },
     {
-     "url": "https://www.vinted.fr/gtg/gtm.js?id=GTM-KHH6J47",
+     "url": "https://www.vinted.fr/gtg/gtm.js",
      "entity": "1re partie",
      "mb": 1.49
     },
@@ -15078,7 +15078,7 @@
      "mb": 1.29
     },
     {
-     "url": "https://pagead2.googlesyndication.com/pagead/managed/js/gpt/m202611090101/pubads_impl.js?cb=122882219",
+     "url": "https://pagead2.googlesyndication.com/pagead/managed/js/gpt/m202611090101/pubads_impl.js",
      "entity": "Google/Doubleclick Ads",
      "mb": 1.17
     },

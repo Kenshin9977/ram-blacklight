@@ -8,5 +8,8 @@ COPY src ./src
 COPY rules ./rules
 COPY scripts ./scripts
 COPY data ./data
+# content blocker for the "+ubol" modes (scripts/fetch-extensions.sh); writable, because Chromium writes
+# the indexed filter rules into an unpacked extension's folder (read-only: "Internal error while parsing rules")
+COPY --chown=pwuser:pwuser extensions ./extensions
 COPY sites.json ./
 USER pwuser

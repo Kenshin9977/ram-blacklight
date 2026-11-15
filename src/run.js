@@ -91,12 +91,18 @@ const getConsentState = (id, mode) => consentCache.get(`${id}__${mode}`) || null
 function saveConsent(id, mode, c) { fs.writeFileSync(consentFile(id, mode), JSON.stringify(c)); consentCache.set(`${id}__${mode}`, summarise(c)); }
 const hasRaw = (id, mode, r) => rawCache.has(`${id}__${mode}__r${r}`);
 
-function status(site, mode) {
+// A mode may carry a content blocker: "accept+ubol" = consent of "accept", measured with uBlock Origin Lite.
+const baseMode = m => m.split('+')[0];
+const blockerOf = m => m.split('+')[1] || null;
+const baselineModes = ['none', ...new Set(modes.map(blockerOf).filter(Boolean).map(b => 'none+' + b))];
+
+function status(site, variant) {
+  const mode = baseMode(variant);
   const c = getConsentState(site.id, mode);
   if (blockedSites.has(site.id)) return 'blocked';
   if (c && c.skipped) return 'skip';
   if (c && c.consent && c.consent.blocked) return 'blocked';
-  if (mode !== 'accept' && modes.includes('accept')) {
+  if (mode !== 'accept' && modes.some(m => baseMode(m) === 'accept')) {
     const a = getConsentState(site.id, 'accept');
     if (!a) return 'wait-accept';
     if (a.consent && a.consent.blocked) return 'blocked';
@@ -107,20 +113,20 @@ function status(site, mode) {
 
 // Run-major order, so repeated runs of a site are spread in time.
 function nextTask() {
-  for (let r = 1; r <= baselineRuns; r++) {
-    const t = { kind: 'run', site: BASE, mode: 'none', run: r };
-    if (!hasRaw(BASE.id, 'none', r) && !inflight.has(keyOf(t))) return t;
+  for (let r = 1; r <= baselineRuns; r++) for (const mode of baselineModes) {
+    const t = { kind: 'run', site: BASE, mode, run: r };
+    if (!hasRaw(BASE.id, mode, r) && !inflight.has(keyOf(t))) return t;
   }
   for (let r = 1; r <= maxRuns; r++) {
     for (const site of sites) for (const mode of modes) {
       const st = status(site, mode);
       if (st === 'skip-no-cmp') {
-        saveConsent(site.id, mode, { skipped: 'no-cmp in accept mode' });
+        saveConsent(site.id, baseMode(mode), { skipped: 'no-cmp in accept mode' });
         continue;
       }
       if (st === 'blocked' || st === 'skip' || st === 'wait-accept') continue;
       if (st === 'pending-consent') {
-        const t = { kind: 'consent', site, mode };
+        const t = { kind: 'consent', site, mode: baseMode(mode) };
         if (!inflight.has(keyOf(t))) return t;
         continue;
       }
@@ -166,14 +172,15 @@ async function execute(t) {
     console.log(`[${now()}] ${label} -> ${k.outcome}${k.cmp ? ':' + k.cmp : ''} (try ${k.attempt || '-'})${k.blocked ? ' BLOCKED=' + k.blocked : ''} ${((Date.now() - t0) / 1000).toFixed(0)}s`);
     return;
   }
-  const consentState = t.mode === 'none' ? null : readJson(consentFile(t.site.id, t.mode));
+  const mode = baseMode(t.mode), blocker = blockerOf(t.mode);
+  const consentState = mode === 'none' ? null : readJson(consentFile(t.site.id, mode));
   let res;
   try {
     res = await withTimeout(() => measure({
-      url: t.site.url, mode: t.mode, idleMs: t.site.id === BASE.id ? 5000 : idleMs, consentState,
+      url: t.site.url, mode, blocker, idleMs: t.site.id === BASE.id ? 5000 : idleMs, consentState,
       shotPath: path.join(outDir, 'shots', `${t.site.id}__${t.mode}__r${t.run}.jpg`),
     }), idleMs + 240000);
-  } catch (e) { res = { url: t.site.url, mode: t.mode, error: String(e && e.message || e).split('\n')[0] }; }
+  } catch (e) { res = { url: t.site.url, mode, blocker: blocker && { id: blocker }, error: String(e && e.message || e).split('\n')[0] }; }
   res.site = t.site; res.run = t.run; res.host = os.hostname();
   fs.writeFileSync(rawFile(t.site.id, t.mode, t.run), JSON.stringify(res));
   const pt = pageTotal(res);

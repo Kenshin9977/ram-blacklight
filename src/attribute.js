@@ -108,7 +108,8 @@ function attributeRun(raw, aliases = []) {
     processes: { total: processes.length, renderers: oopifProcesses + 1 + unmapped, oopif: oopifProcesses, unmapped },
     frames: frames.length,
     entities, byCategory,
-    topScripts: perUrl.sort((a, b) => b.bytes - a.bytes).slice(0, 15).map(s => ({ url: s.url.slice(0, 160), entity: s.entity, mb: +(s.bytes / MB).toFixed(2) })),
+    // no query string or fragment: sites put their (public) API keys and session ids there, aggregates are published
+    topScripts: perUrl.sort((a, b) => b.bytes - a.bytes).slice(0, 15).map(s => ({ url: s.url.replace(/[?#].*$/, '').slice(0, 160), entity: s.entity, mb: +(s.bytes / MB).toFixed(2) })),
     network: { ...netByParty, thirdDomains },
     consent: raw.consent && raw.consent.outcome,
     blocked: raw.blocked || (raw.consent && raw.consent.blocked) || null,

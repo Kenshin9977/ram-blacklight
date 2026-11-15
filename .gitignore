@@ -8,3 +8,5 @@ results/*
 !results/2026-11/
 !results/feasibility-2026-11/
 sites-1000.excluded-adult.json
+# fetched by scripts/fetch-extensions.sh
+extensions/

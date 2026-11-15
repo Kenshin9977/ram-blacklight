@@ -42,15 +42,18 @@ const landing = c => { if (!c.redirected || !c.finalUrl) return null; try { cons
 
 const groups = {};
 let baseline = [];
+const blockerBaselines = {}; // about:blank with a content blocker: its fixed cost (extension process) shows in browserShared
 for (const f of fs.readdirSync(rawDir).filter(f => f.endsWith('.json'))) {
   const raw = JSON.parse(fs.readFileSync(path.join(rawDir, f), 'utf8'));
+  // measured with a content blocker: its own variant of the mode ("accept+ubol")
+  const variant = raw.blocker && raw.blocker.id ? `${raw.mode}+${raw.blocker.id}` : raw.mode;
   if (raw.site && raw.site.id === '_baseline') {
     const a = attributeRun(raw);
-    if (!a.error) baseline.push(a);
+    if (!a.error) (variant === raw.mode ? baseline : (blockerBaselines[variant] ||= [])).push(a);
     continue;
   }
-  const key = `${raw.site.id}__${raw.mode}`;
-  const g = (groups[key] = groups[key] || { site: raw.site, mode: raw.mode, runs: [] });
+  const key = `${raw.site.id}__${variant}`;
+  const g = (groups[key] = groups[key] || { site: raw.site, mode: variant, runs: [] });
   const a = attributeRun(raw, raw.site.aliases || []);
   a.run = raw.run;
   a.blocked = raw.blocked || (raw.consent && raw.consent.blocked) || (MAINTENANCE.test(raw.title || '') ? 'maintenance' : null);
@@ -109,8 +112,10 @@ if (fs.existsSync(cDir)) for (const f of fs.readdirSync(cDir)) {
   if (c.skipped) notMeasured.push({ site, mode, reason: c.skipped });
   else if (c.consent && c.consent.blocked) notMeasured.push({ site, mode, reason: 'blocked: ' + c.consent.blocked });
 }
-const base = { pageTotal: mb(stats(baseline.map(b => b.pageTotal))), browserShared: mb(stats(baseline.map(b => b.shared))) };
-fs.writeFileSync(path.join(dir, 'summary.json'), JSON.stringify({ generatedAt: new Date().toISOString(), baseline: base, sites: summary, notMeasured }, null, 1));
+const baseOf = runs => ({ pageTotal: mb(stats(runs.map(b => b.pageTotal))), browserShared: mb(stats(runs.map(b => b.shared))) });
+const base = baseOf(baseline);
+const blockers = Object.keys(blockerBaselines).length ? Object.fromEntries(Object.entries(blockerBaselines).map(([k, v]) => [k, baseOf(v)])) : undefined;
+fs.writeFileSync(path.join(dir, 'summary.json'), JSON.stringify({ generatedAt: new Date().toISOString(), baseline: base, blockerBaselines: blockers, sites: summary, notMeasured }, null, 1));
 for (const n of notMeasured) console.log(`non mesuré: ${n.site}/${n.mode} (${n.reason})`);
 
 // console table
